@@ -84,6 +84,12 @@ def get_ac_rlt_items(npc_id, item_qual, db, cursor):
 
     return itemdict
 
+def get_npc_name(npc_id, cursor):
+    query = f'SELECT ct.name FROM `creature_template` ct WHERE ct.entry = {npc_id}'
+    cursor.execute(query)
+    name = cursor.fetchone()
+    return name[0]
+
 def get_ac_items(npc_id, item_qual):
     itemdict = {}
     db, cursor = open_sql_db('acore', 'password')
@@ -100,9 +106,11 @@ def get_ac_items(npc_id, item_qual):
     for item in cursor.fetchall():
         itemdict[item[0]] = Item(*item, 'ACDB', 'Direct')
 
+    npcname = get_npc_name(npc_id, cursor)
+
     #now add RLT items
     rltdict = get_ac_rlt_items(npc_id, item_qual, db, cursor)
-    return {**itemdict, **rltdict}
+    return {**itemdict, **rltdict}, npcname
 
 def save_data(filename, data):
     with open(filename, 'w') as outfile:
@@ -143,29 +151,31 @@ def parse_data(indata, item_qual):
     while srchstr in indata:
         left, part, indata = indata.partition(srchstr)
         itemstr = '{' + chunk(part + indata)
-        
+
         #skip profession-only drops
-        for x in ['Light Hide', 'Light Leather', 'Medium Hide', 
-                  'Medium Leather', 'Leather Scraps']:
+        profdrop = False
+        for x in ['Light Hide', 'Light Leather', 'Medium Hide',
+                  'Medium Leather', 'Leather Scraps', 'Thick Leather',
+                  'Thick Hide', 'Heavy Leather', 'Heavy Hide',
+                  'Rugged Leather', 'Rugged Hide']:
             if x in itemstr:
-                print('cont')
-                continue
-        
-        try:
-            parsed = json.loads(itemstr)
-            droprate = calc_droprate(parsed)
-            if droprate:
-                newitem = Item(parsed['id'], parsed['name'], parsed['level'],
-                           droprate, parsed['quality'], 'WH', '--')
-                if not item_qual or newitem.quality >= item_qual:
-                    itemdict[parsed['id']] = newitem
-        except Exception as err:
-            print(str(err) + ' - ' + itemstr[:1000])
+                profdrop = True
+
+        if not profdrop:
+            try:
+                parsed = json.loads(itemstr)
+                droprate = calc_droprate(parsed)
+                if droprate:
+                    newitem = Item(parsed['id'], parsed['name'], parsed['level'],
+                               droprate, parsed['quality'], 'WH', '--')
+                    if not item_qual or newitem.quality >= item_qual:
+                        itemdict[parsed['id']] = newitem
+            except Exception as err:
+                print(str(err) + ' - ' + itemstr[:1000])
     #wh_itemlist = sorted(itemlist, key = lambda x:x.it_id)
     return itemdict
 
 def get_wh_items(npc_id, item_qual):
-    
     url = f'https://tbc.wowhead.com/npc={npc_id}'
     try:
         data = requests.get(url)
@@ -176,22 +186,20 @@ def get_wh_items(npc_id, item_qual):
             return parse_data(data.text, item_qual)
     except Exception as err:
         print('Error loading WH page - {err}')
-        sys.exit(1)            
-            
+        sys.exit(1)
+
 def generate_merged_item(wh_it, ac_it):
     return wh_it.it_id, wh_it.name, wh_it.lvl, wh_it.droprate, ac_it.droprate,\
     abs( wh_it.droprate - ac_it.droprate), ac_it.rlt
 
 def compare_drops(npc_id, item_qual=0):
     ac_only, wh_only, both = [], [], []
-    ac_items = get_ac_items(npc_id, item_qual)
+    ac_items, npc_name = get_ac_items(npc_id, item_qual)
     wh_items = get_wh_items(npc_id, item_qual)
 
     for k, v in wh_items.items():
         if k in ac_items:
             both.append(generate_merged_item(v, ac_items[k]))
-            #both.append(v)
-            #both.append(ac_items[k])
             del ac_items[k]
         else:
             wh_only.append(v)
@@ -201,11 +209,11 @@ def compare_drops(npc_id, item_qual=0):
     both = sorted(both, key = lambda x:x[5], reverse=True)
     ac_only = sorted(ac_only, key = lambda x:x.it_id)
     wh_only = sorted(wh_only, key = lambda x:x.it_id)
-    return both, ac_only, wh_only
+    return both, ac_only, wh_only, npc_name
 
 def output_data(npc_id, results, item_quality=0):
     outstr = []
-    both, ac_only, wh_only = results
+    both, ac_only, wh_only, npc_name = results
 
     if both:
         maxwidth = max([len(x[1]) for x in both]) + 1
@@ -230,7 +238,7 @@ def output_data(npc_id, results, item_quality=0):
     outstr.append(f'--------------\n{len(ac_only)} AC-exclusive items found.\n')
 
     outstr = ''.join(outstr)
-    savefilename = f'NPC {npc_id} Item Comparison'
+    savefilename = f'{npc_name} {npc_id} - Item Comparison'
     if item_quality:
         savefilename += f', Item Quality {item_quality}.txt'
     else:
@@ -238,7 +246,7 @@ def output_data(npc_id, results, item_quality=0):
     save_data(savefilename, outstr)
 
 def main():
-    npc_id = 3674
+    npc_id = 938
     # optional, defaults to 0, where 0 = grey/all items, 1 = white, 2 = green, 3 = blue
     item_quality = 3
     results = compare_drops(npc_id, item_quality)
