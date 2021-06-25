@@ -1,0 +1,14 @@
+ Found in both:
+Item ID | Item Name                 | iLvl| WH Drp | AC Drp |  Diff  | AC RLT
+   6449 | Glowing Lizardscale Cloak |  22 | 45.71% | 50.00% |  4.29% | Direct
+   6448 | Tail Spike                |  22 | 46.69% | 50.00% |  3.31% | Direct
+--------------
+2 common items found.
+
+ Found in WH only:
+--------------
+0 WH-exclusive items found.
+
+ Found in AC only:
+--------------
+0 AC-exclusive items found.

@@ -5,7 +5,8 @@
 #        - add filter by item quality, so can just check blues or whatever [x]
 #        - need to sort out recursive RLTs [x]
 #        - add RLT numbers to WH-only and AC-WH listings [x]
-#        - with dict collisions, update associated item drop chance instead of discarding
+#        - with dict collisions, update associated item drop chance instead of discarding [x]
+#        - extract NPC name for more useful file name
 
 from mysql.connector import connect, Error
 import requests
@@ -142,6 +143,14 @@ def parse_data(indata, item_qual):
     while srchstr in indata:
         left, part, indata = indata.partition(srchstr)
         itemstr = '{' + chunk(part + indata)
+        
+        #skip profession-only drops
+        for x in ['Light Hide', 'Light Leather', 'Medium Hide', 
+                  'Medium Leather', 'Leather Scraps']:
+            if x in itemstr:
+                print('cont')
+                continue
+        
         try:
             parsed = json.loads(itemstr)
             droprate = calc_droprate(parsed)
@@ -151,20 +160,24 @@ def parse_data(indata, item_qual):
                 if not item_qual or newitem.quality >= item_qual:
                     itemdict[parsed['id']] = newitem
         except Exception as err:
-            print(str(err) + ' - '  + itemstr[:1000])
+            print(str(err) + ' - ' + itemstr[:1000])
     #wh_itemlist = sorted(itemlist, key = lambda x:x.it_id)
     return itemdict
 
 def get_wh_items(npc_id, item_qual):
-    '''
-    url = 'https://tbc.wowhead.com/npc=938/'
-    data = requests.get(url)
-    if data.status_code == 200:
-        save_data('kurzcomm.txt', data.text)
-    '''
-    data = load_data('kurzcomm.txt')
-    return parse_data(data, item_qual) # need to add .text attribute when doing live load
-
+    
+    url = f'https://tbc.wowhead.com/npc={npc_id}'
+    try:
+        data = requests.get(url)
+        if data.status_code == 200:
+            save_data(f'wh-data-npc-{npc_id}.txt', data.text) # for testing
+            print('Loaded WH data, parsing.')
+            #data = load_data('kurzcomm.txt')
+            return parse_data(data.text, item_qual)
+    except Exception as err:
+        print('Error loading WH page - {err}')
+        sys.exit(1)            
+            
 def generate_merged_item(wh_it, ac_it):
     return wh_it.it_id, wh_it.name, wh_it.lvl, wh_it.droprate, ac_it.droprate,\
     abs( wh_it.droprate - ac_it.droprate), ac_it.rlt
@@ -217,7 +230,7 @@ def output_data(npc_id, results, item_quality=0):
     outstr.append(f'--------------\n{len(ac_only)} AC-exclusive items found.\n')
 
     outstr = ''.join(outstr)
-    savefilename = f'AC-WH Item Comparison For NPC {npc_id}'
+    savefilename = f'NPC {npc_id} Item Comparison'
     if item_quality:
         savefilename += f', Item Quality {item_quality}.txt'
     else:
@@ -225,9 +238,9 @@ def output_data(npc_id, results, item_quality=0):
     save_data(savefilename, outstr)
 
 def main():
-    npc_id = 938
+    npc_id = 3674
     # optional, defaults to 0, where 0 = grey/all items, 1 = white, 2 = green, 3 = blue
-    item_quality = 0
+    item_quality = 3
     results = compare_drops(npc_id, item_quality)
     output_data(npc_id, results, item_quality)
 

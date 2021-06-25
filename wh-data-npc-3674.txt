@@ -1,0 +1,546 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1, user-scalable=no">
+    <script>var _sf_startpt=(new Date()).getTime();</script>
+    <title>Skum - NPC - TBC Classic</title>
+
+    <meta name="description" content="Skum is a level 20 Elite NPC that can be found in Wailing Caverns. In the NPCs category. Added in Classic World of Warcraft. Always up to date.">
+    <meta name="keywords" content="Skum, NPC, Screenshots, 1.13.2, Classic">
+
+    <meta name="google-site-verification" content="SScjPPnjqJ0lGTlZeVs9x0D3_jmctKZ-6nE4cvfGL00">
+    <meta property="twitter:title" content="Skum">
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:image" content="https://wow.zamimg.com/uploads/screenshots/normal/82790-skum-old-location.jpg">
+    <meta property="twitter:imageUrl" content="https://wow.zamimg.com/uploads/screenshots/normal/82790-skum-old-location.jpg">
+    <meta property="twitter:site:id" content="17258481">
+    <meta property="twitter:site" content="@Wowhead">
+    <meta property="twitter:domain" content="wowhead.com">
+    <meta property="twitter:description" content="Skum is a level 20 Elite NPC that can be found in Wailing Caverns. In the NPCs category. Added in Classic World of Warcraft. Always up to date.">
+    <meta property="twitter:image:alt" content="Skum is a level 20 Elite NPC that can be found in Wailing Caverns. In the NPCs category. Added in Classic World of Warcraft. Always up to date.">
+    <meta property="og:title" content="Skum">
+    <meta property="og:type" content="article">
+    <meta property="og:image" content="https://wow.zamimg.com/uploads/screenshots/normal/82790-skum-old-location.jpg">
+    <meta property="og:site_name" content="Wowhead">
+    <meta property="og:url" content="https://tbc.wowhead.com/npc=3674/skum">
+    <meta property="og:description" content="Skum is a level 20 Elite NPC that can be found in Wailing Caverns. In the NPCs category. Added in Classic World of Warcraft. Always up to date.">
+    <meta property="fb:pages" content="169121139638">
+
+    <link rel="canonical" href="https://tbc.wowhead.com/npc=3674/skum">
+    <link rel="alternate" hreflang="en" href="https://tbc.wowhead.com/npc=3674/skum"><link rel="alternate" hreflang="fr" href="https://fr.tbc.wowhead.com/npc=3674/skum"><link rel="alternate" hreflang="de" href="https://de.tbc.wowhead.com/npc=3674/skum"><link rel="alternate" hreflang="es" href="https://es.tbc.wowhead.com/npc=3674/skum"><link rel="alternate" hreflang="ru" href="https://ru.tbc.wowhead.com/npc=3674/шкам"><link rel="alternate" hreflang="pt" href="https://pt.tbc.wowhead.com/npc=3674/skória"><link rel="alternate" hreflang="it" href="https://it.tbc.wowhead.com/npc=3674/skum"><link rel="alternate" hreflang="zh" href="https://cn.tbc.wowhead.com/npc=3674/斯卡姆"><link rel="alternate" hreflang="ko" href="https://ko.tbc.wowhead.com/npc=3674/스컴">    <link rel="search" type="application/opensearchdescription+xml" href="https://tbc.wowhead.com/opensearch/description?v=3" title="Wowhead (Burning Crusade)">
+    <link rel="icon" type="image/png" href="https://wow.zamimg.com/images/logos/favicon-classic.png">
+    <link rel="apple-touch-icon-precomposed" href="https://wow.zamimg.com/apple-touch-icon.png">
+
+
+    <script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Person","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/tbc.wowhead.com\/npc=3674\/skum"},"name":"Skum","url":"https:\/\/tbc.wowhead.com\/npc=3674\/skum","logo":"https:\/\/wow.zamimg.com\/images\/logos\/wh-logo.png","publisher":{"@type":"Organization","name":"Wowhead Logo","logo":{"@type":"ImageObject","url":"https:\/\/wow.zamimg.com\/images\/logos\/amp-valid.png","width":395,"height":60}},"description":"Skum is a level 20 Elite NPC that can be found in Wailing Caverns. In the NPCs category. Added in Classic World of Warcraft. Always up to date.","image":{"@type":"ImageObject","url":"https:\/\/wow.zamimg.com\/uploads\/screenshots\/normal\/82790-skum-old-location.jpg","height":885,"width":1134}}</script>
+
+
+<link rel="stylesheet" type="text/css" href="https://wow.zamimg.com/css/classic/basic.css?b26f8d1" onerror="location.href=&quot;/error-static-cdn?reason=css&amp;hash=b26f8d1&amp;at=1624587226&quot;;">
+<link rel="stylesheet" type="text/css" href="https://wow.zamimg.com/css/classic/global.css?b26f8d1">
+<link rel="stylesheet" type="text/css" href="https://wow.zamimg.com/css/themes/classic.css?b26f8d1">
+<link rel="stylesheet" type="text/css" href="https://wow.zamimg.com/css/classic/tools/partials/class-selector.css?b26f8d1">
+
+<script src="https://wow.zamimg.com/js/preamble.js?b26f8d1" onerror="location.href=&quot;/error-static-cdn?reason=js&amp;hash=b26f8d1&amp;at=1624587226&quot;;"></script>
+    <script>
+        g_user = {"id":0,"name":"","roles":0,"permissions":0,"ads":true,"canDeleteComments":false};
+    </script>
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="11986010-b318-46fd-ab82-e05142e195e2" data-ignore-ga="true"></script>
+<script>function OptanonWrapper() {}</script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+<script type="application/json" id="data.pageMeta">{"dataBuild":{"1":"38556","2":"39069","4":"38363","5":"38988"},"dataEnv":{"env":5,"tree":5,"active":{"ptr":true,"beta":false},"versions":{"1":"9.0.5","2":"9.1.0","3":"9.0.2","4":"1.13.7","5":"2.5.1"}},"event":"pride","hasSidebar":true,"page":"npc","serverTime":"2021-06-24T21:13:46-05:00","scriptVersionQueryString":"b26f8d1","staticUrl":"https:\/\/wow.zamimg.com","theme":"classic","wowhead":true,"staticResizing":{"limit":3000,"throttle":{"start":3000,"percent":0}}}</script>
+<script type="application/json" id="data.notifications.public-key">"BCv9I9cvqAYEi2ddxSOqAbkm8KTL-CNlIGmXk8R7ievkXR7QfBrNtkXQqk73vleylt5MlZQ8jFQ-tEQ_ObVxxMI"</script>
+<script type="application/json" id="data.page.info">{"commentsLocked":false,"entityId":3674,"entityType":1}</script>
+
+    <script src="https://wow.zamimg.com/js/basic.js?b26f8d1"></script>
+    <script src="https://wow.zamimg.com/widgets/power.js?b26f8d1"></script>
+    <script src="https://wow.zamimg.com/global-strings/tbc.enus.js?hash=olxeFyCkHtLFtbVZlF-Qkg"></script>
+    <script src="/menus?261d1938332b5eca4019d033c29778e8"></script>
+    <script src="https://wow.zamimg.com/js/locale/live.enus.js?b26f8d1"></script>
+    <script src="https://wow.zamimg.com/js/locale/tbc.enus.js?b26f8d1"></script>
+    <script src="https://wow.zamimg.com/js/locale-post-processing.js?b26f8d1"></script>
+    <script src="/data/global?locale=0&dataEnv=5&dv=19&b=38988&versionsSig=24659979f278cdb04308c7fd4ca9557e"></script>
+    <script src="https://wow.zamimg.com/js/global.js?b26f8d1"></script>
+    <script src="https://wow.zamimg.com/js/WH/Page/Npc.js?b26f8d1"></script>
+    <script src="https://wow.zamimg.com/js/WH/Listview/Templates/comment.js?b26f8d1"></script>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+WH.Track.gaInit();
+</script>
+
+<script>WH.WAS.init("NPC", "Database Detail", ["horizontal","skin","vertical","mobileMedrec","mobileFooter","horizontalBTF"]);</script>
+
+    <script src="/data/difficulties?locale=0&dataEnv=5&dv=2&b=38988"></script>
+    <script src="/data/item-bonuses?locale=0&dataEnv=5&dv=10&b=38988"></script>
+    <script src="/data/zones?locale=0&dataEnv=5&dv=14&b=38988"></script>
+
+
+</head>
+
+<body class="standard-layout locale-0 has-ads">
+<script>document.dispatchEvent(new CustomEvent('bodyAvailable'))</script>
+<noscript>
+    <div id="noscript-wrapper">
+        <div id="noscript-text">
+            <b>This site makes extensive use of JavaScript.</b><br />
+            Please <a href="https://www.enable-javascript.com/" target="_blank">enable JavaScript</a> in your browser.        </div>
+    </div>
+</noscript>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KN7HXDF"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>
+    Locale.set(0);
+
+    $(function() {
+                ZUL.init({state: 'loggedOut'});
+                ZUL.whInit = true;
+    });
+</script>
+<script>Platform.preInit1();</script>
+<div class="skin-block-bg is-atf" data-was-parent="true">
+    <div id="ad-skin" data-was-unit="true" class="banner-ad">
+        <script>WH.WAS.validateUnit("ad-skin");</script>
+    </div>
+</div>
+
+
+<div class="header-wrapper">
+<div class="header">
+    <div class="header-left">
+        <a href="/" class="header-logo"></a>    </div>
+
+    <div class="header-right">
+        <div class="header-search">
+            <form action="/search"><input type="text" name="q" placeholder="Search guides, news, database…" value="" /></form>
+        </div>
+        <div class="data-env-links" data-ptr="active"><div class="data-env-links-group"><a class="btn btn-site fa fa-fw fa-square" data-env="live" data-whattach="true" title="View the Live (9.0.5) version of this page" href="https://www.wowhead.com/npc=3674/skum?fromBurningCrusade">Live</a><a class="btn btn-site fa fa-fw fa-square" data-env="ptr" data-whattach="true" title="View the 9.1.0 PTR version of this page" href="https://ptr.wowhead.com/npc=3674/skum?fromBurningCrusade">PTR</a></div><div class="data-env-links-group"><a class="btn btn-site fa fa-fw fa-square" data-env="classic" data-whattach="true" title="View the Classic version of this page" href="https://classic.wowhead.com/npc=3674/skum?fromBurningCrusade">Classic</a><a class="btn btn-site fa fa-fw fa-check current" data-env="tbc" data-whattach="true" title="Currently viewing the Burning Crusade version of this page">TBC</a></div></div>
+<div class="header-theme-switcher">    <a href="javascript:" class="btn btn-site fa fa-fw fa-check current" data-theme="classic">Classic Theme</a>
+        <a href="javascript:" class="btn btn-site fa fa-fw fa-square" data-theme="thottbot">Thottbot Theme</a>
+    </div>
+    </div>
+
+    <script>WH.Layout.User.init();</script>
+
+            <a class="header-expand-site-tab"></a>
+    </div>
+</div>
+
+<div class="layout-wrapper">
+<div class="layout">
+    <div id="page-content" class="page-content">
+                <div class="sidebar-wrapper"><div class="sidebar">
+            <div id="sidebar-zamaf-bt-ph"></div><div class="vertical-block-bg is-atf" data-was-parent="true">
+    <div id="ad-vertical" data-was-unit="true" class="banner-ad">
+        <script>WH.WAS.validateUnit("ad-vertical");</script>
+    </div>
+</div>
+        </div></div>
+        <script>WH.Layout.initSidebar();</script>
+        
+    <div class="main" id="main">
+                <div class="blocks">
+            <div class="block-pair">
+                <div class="horizontal-block-bg is-atf" data-was-parent="true">
+    <div id="ad-horizontal" data-was-unit="true" class="banner-ad">
+        <script>WH.WAS.validateUnit("ad-horizontal");</script>
+    </div>
+</div>
+            </div>
+            <div id="video-pos-static"><div id="ac-container"></div><script>WH.WAS.validateUnit("video-pos-static")</script></div>        </div>
+        <div id="video-pos-fixed"><script>WH.WAS.validateUnit("video-pos-fixed")</script></div><script>WH.WAS.initVideo();</script>                <div class="main-precontents" id="main-precontents"></div>
+        <script>Platform.preInit2();</script>
+        <div class="main-contents" id="main-contents">
+            <div id="announcement-0"></div>
+
+<div id="announcement-416"></div>
+<script type="text/javascript">
+    new Announcement({
+        parent: 'announcement-416',
+        id: 416,
+        text: "[div class=announcement-content-image][url=https:\/\/tiltify.com\/@wowhead\/wowheads-2021-pride-fundraiser][img src=\"https:\/\/wow.zamimg.com\/uploads\/screenshots\/normal\/1025803.png?maxHeight=120\" border=0][\/url][\/div]\r\n[div class=announcement-content-title][b][url=https:\/\/www.wowhead.com\/news\/wowhead-pride-pin-and-fundraiser-to-benefit-the-trevor-project-322737]Wowhead's 2021 Pride Fundraiser benefiting The Trevor Project[\/url][\/b][\/div]\r\n[div class=announcement-content-content][color=white]We've achieved [b]over $18,600[\/b] in donations! New stretch goals and rewards have been added! [b][color=white]Donations of $25 or more[\/color][\/b] will earn you up to [b][color=white]FOUR[\/color][\/b] of these limited edition pins and more![\/color][pad]\r\n[cta-button=https:\/\/tiltify.com\/@wowhead\/wowheads-2021-pride-fundraiser border=strong]Donate Here & Claim Your Pin(s)[\/cta-button]",
+        mobiletext: "[div class=announcement-content-image][url=https:\/\/tiltify.com\/@wowhead\/wowheads-2021-pride-fundraiser][img src=\"https:\/\/wow.zamimg.com\/uploads\/screenshots\/normal\/1025803.png?maxHeight=60\" border=0][\/url][\/div]\r\n[div class=announcement-content-content][b][url=https:\/\/tiltify.com\/@wowhead\/wowheads-2021-pride-fundraiser]Wowhead's 2021 Pride Fundraiser benefiting The Trevor Project[\/url][\/b][\/div][pad]",
+        name: "Wowhead Pride 2021 Update",
+        style: "background-image: url(\"https:\/\/wow.zamimg.com\/uploads\/guide\/images\/18722.jpg\");\r\nbackground-repeat: repeat;",
+        'class': "promo",
+        status: 1,
+        mode: 1,
+    });
+</script>
+<script>
+    WH.Layout.set({"pageName":"npc","activeTab":0,"breadcrumb":[]});
+    WH.Layout.init();
+    skipCaptcha = true;
+    g_host = "https:\/\/tbc.wowhead.com";
+</script>
+
+<div id="infobox-original-position">
+<table class="infobox"><tr>
+    <td>
+    <table class="infobox-inner-table">
+    <tr class="infobox-heading">
+        <th id="infobox-quick-facts">
+                        Quick Facts        </th>
+    </tr>
+    <tr>
+        <td>
+        <div class="infobox-spacer"></div>
+                <div id="infobox-contents-0"></div>
+        <script>
+            WH.markup.printHtml("[ul][li]Level: 20[\/li][li]Classification: [span class=\"icon-boss\"]Elite[\/span][\/li][li]React: [color=q10]A[\/color] [color=q10]H[\/color][\/li][li]Type: Beast[\/li][li]Added in patch 1.13.2.30550[\/li][\/ul]", "infobox-contents-0", {
+                allow: WH.markup.CLASS.STAFF,
+                dbPage: true,            });
+        </script>
+            </td></tr>
+    </table>
+    </td>
+    <td>
+    <table class="infobox-inner-table">
+    <tr class="infobox-heading">
+        <th id="infobox-">
+                                </th>
+    </tr>
+    <tr>
+        <td>
+        <div class="infobox-spacer"></div>
+                <div id="infobox-sticky-model"></div>            </td></tr>
+    </table>
+    </td>
+    <td>
+    <table class="infobox-inner-table">
+    <tr class="infobox-heading">
+        <th id="infobox-screenshots">
+                        Screenshots        </th>
+    </tr>
+    <tr>
+        <td>
+        <div class="infobox-spacer"></div>
+                <div id="infobox-sticky-ss"></div>            </td></tr>
+    </table>
+    </td>
+    <td>
+    <table class="infobox-inner-table">
+    <tr class="infobox-heading">
+        <th id="infobox-videos">
+                        Videos        </th>
+    </tr>
+    <tr>
+        <td>
+        <div class="infobox-spacer"></div>
+                <div id="infobox-sticky-vi"></div>            </td></tr>
+    </table>
+    </td>
+</tr></table>
+</div>
+<script>WH.prepInfobox();</script>
+<script>
+        WH.onLoad(function () {
+            ss_appendSticky();
+            vi_appendSticky();
+        });
+    </script><script type="text/javascript">//<![CDATA[
+var lv_comments0 = [{"commentv2":1,"number":0,"id":12273,"nreplies":2,"sticky":0,"user":"9108","body":"If you are lucky enough to get glowing lizardscale cloak, congratulate yourself.  I got one and had it since i was lvl 18 and now im lvl 26 and still use it.  The odds are low but don't give up.  Worth the wait.","date":"2006-12-09T15:42:02-06:00","rating":1,"indent":0,"roles":0,"deleted":0,"outofdate":0,"userRating":0,"replies":[{"body":"46% isn't that low imo, but yeah its a good item. The dagger is also nice really...  This boss is guarded by some druids. Rather easy kill.","creationdate":"2006-12-31T08:08:18-06:00","id":845,"rating":4,"commentid":12273,"dataTree":1,"roles":0,"username":"WildW","markupDisabledEnvironments":{"2":true,"3":true},"downvotedByUser":false,"reportedByUser":false,"votedByUser":false},{"body":"agreed i got at lvl 18 and just today got a better cape at lvl 27 in wetlands","creationdate":"2007-10-06T20:39:15-05:00","id":313050,"rating":3,"commentid":12273,"dataTree":1,"roles":0,"username":"92146","markupDisabledEnvironments":{"2":true,"3":true},"downvotedByUser":false,"reportedByUser":false,"votedByUser":false}],"dataTree":1,"markupDisabledEnvironments":{"2":true,"3":true}},{"commentv2":1,"number":1,"id":20021,"nreplies":0,"sticky":0,"user":"skelemence","body":"Easy fight except he runs in fear when he gets low on health so slow him before he gathers adds. Cloak has dropped nearly every time I've done this place :)","date":"2007-01-10T11:47:10-06:00","rating":-1,"indent":0,"roles":0,"deleted":0,"outofdate":0,"userRating":0,"replies":[],"dataTree":1,"markupDisabledEnvironments":{"2":true,"3":true}},{"commentv2":1,"number":2,"id":160870,"nreplies":1,"sticky":0,"user":"53267","body":"This is definately one of the funniest bosses for the fact that he flees when he's low on hp :D","date":"2007-09-30T12:30:16-05:00","rating":43,"indent":0,"roles":0,"deleted":0,"outofdate":0,"userRating":0,"replies":[{"body":"Just make sure he doesn't get very far. I've had him bug and flee straight into a wall, never to be seen again. No xp, no loot, no nothing, just a party standing there looking confused.","creationdate":"2007-11-09T19:47:10-06:00","id":18452,"rating":33,"commentid":160870,"dataTree":1,"roles":256,"username":"defektunge","markupDisabledEnvironments":{"2":true,"3":true},"downvotedByUser":false,"reportedByUser":false,"votedByUser":false}],"dataTree":1,"markupDisabledEnvironments":{"2":true,"3":true}},{"commentv2":1,"number":3,"id":250619,"nreplies":0,"sticky":0,"user":"127599","body":"That alomost happened to me exsepect he got in half way then was stuck. I killed him and looted him but i couldnt skin him.","date":"2008-03-09T10:32:32-05:00","rating":-1,"indent":0,"roles":0,"deleted":0,"outofdate":0,"userRating":0,"replies":[],"dataTree":1,"markupDisabledEnvironments":{"2":true,"3":true}},{"commentv2":1,"number":4,"id":285176,"nreplies":0,"sticky":0,"user":"150267","body":"This guy drops a decent clock for its lvl but there is prob' a better clock out there for the lvl.Dagger not too bad either.","date":"2008-05-09T14:34:32-05:00","rating":-1,"indent":0,"roles":0,"deleted":0,"outofdate":0,"userRating":0,"replies":[],"dataTree":1,"markupDisabledEnvironments":{"2":true,"3":true}},{"commentv2":1,"number":5,"id":2900156,"nreplies":0,"sticky":0,"user":"Allakhazam","body":"can you tame skum for a pet?","date":"2007-08-16T18:25:30-05:00","rating":1,"indent":0,"roles":64,"deleted":0,"outofdate":0,"userRating":0,"replies":[],"dataTree":1,"markupDisabledEnvironments":{"2":true,"3":true},"imported":true,"importedAuthor":"kwftw","importedSubject":"Possible?"},{"commentv2":1,"number":6,"id":2900157,"nreplies":0,"sticky":0,"user":"Allakhazam","body":"whare is this elite ?","date":"2006-11-22T03:37:06-06:00","rating":1,"indent":0,"roles":64,"deleted":0,"outofdate":0,"userRating":0,"replies":[],"dataTree":1,"markupDisabledEnvironments":{"2":true,"3":true},"imported":true,"importedAuthor":"azmurica","importedSubject":"x"},{"commentv2":1,"number":7,"id":2900158,"nreplies":1,"sticky":0,"user":"Allakhazam","body":"For a 29 rogue to solo him? Not the whole instance, just him?","date":"2006-10-09T12:42:45-05:00","rating":0,"indent":0,"roles":64,"deleted":0,"outofdate":0,"userRating":0,"replies":[{"body":"Should be pretty easy, as a 25 druid i was able to do this.  The battle took me about two minutes however.  He has a lot of health, but doesn't do that much damage","creationdate":"2007-06-24T01:30:32-05:00","id":1235321,"rating":0,"commentid":2900158,"dataTree":1,"roles":64,"username":"Allakhazam","markupDisabledEnvironments":{"2":true,"3":true},"downvotedByUser":false,"reportedByUser":false,"votedByUser":false,"imported":true,"importedAuthor":"SFrank","importedSubject":"Possible...?"}],"dataTree":1,"markupDisabledEnvironments":{"2":true,"3":true},"imported":true,"importedAuthor":"Zebrandia","importedSubject":"Possible...?"},{"commentv2":1,"number":8,"id":2900159,"nreplies":1,"sticky":0,"user":"Allakhazam","body":"that isn't a better pic than the posted one\n\nEdited, Sat Jun 24 13:47:39 2006","date":"2006-06-24T18:58:17-05:00","rating":1,"indent":0,"roles":64,"deleted":0,"outofdate":0,"userRating":0,"replies":[{"body":"And your point is?\n\n\nUse the \"Reply to this\" link when you're replying.\n\n[i][small]Edited, Jul 20th  2006 at  2:51am EDT by Axidos[\/small][\/i]","creationdate":"2006-07-20T06:46:25-05:00","id":1235322,"rating":-1,"commentid":2900159,"dataTree":1,"roles":64,"username":"Allakhazam","markupDisabledEnvironments":{"2":true,"3":true},"downvotedByUser":false,"reportedByUser":false,"votedByUser":false,"imported":true,"importedAuthor":"Axidos","importedSubject":"better pic?"}],"dataTree":1,"markupDisabledEnvironments":{"2":true,"3":true},"imported":true,"importedAuthor":"CastleAargh","importedSubject":"better pic?"},{"commentv2":1,"number":9,"id":2900160,"nreplies":0,"sticky":0,"user":"Allakhazam","body":"I grabed the cloak from him and later got the serpent mace, and a kick ass shield for my shaman.\n\nZuty_Da_Shaman","date":"2005-08-06T02:46:13-05:00","rating":-1,"indent":0,"roles":64,"deleted":0,"outofdate":0,"userRating":0,"replies":[],"dataTree":1,"markupDisabledEnvironments":{"2":true,"3":true},"imported":true,"importedAuthor":"Zuty","importedSubject":"he's cool"},{"commentv2":1,"number":10,"id":2900161,"nreplies":0,"sticky":0,"user":"Allakhazam","body":"Does anyone have a pic of him?","date":"2005-06-16T15:26:11-05:00","rating":-1,"indent":0,"roles":64,"deleted":0,"outofdate":0,"userRating":0,"replies":[],"dataTree":1,"markupDisabledEnvironments":{"2":true,"3":true},"imported":true,"importedAuthor":"Tauronimo","importedSubject":"pic"},{"commentv2":1,"number":11,"id":2900162,"nreplies":0,"sticky":0,"user":"Allakhazam","body":"whats the dl so u can see his health?","date":"2006-10-21T15:47:40-05:00","rating":1,"indent":0,"roles":64,"deleted":0,"outofdate":0,"userRating":0,"replies":[],"dataTree":1,"markupDisabledEnvironments":{"2":true,"3":true},"imported":true,"importedAuthor":"cjfire","importedSubject":"?\/?"},{"commentv2":1,"number":12,"id":2900163,"nreplies":0,"sticky":0,"user":"Allakhazam","body":"I have a better picture if you would like\n[url=http:\/\/img464.imageshack.us\/my.php?image=wowscrnshot0126061625456xn.jpg]Skum Pic[\/url]\n\nEdited, Tue Feb 14 14:12:26 2006","date":"2006-02-14T21:12:06-06:00","rating":-2,"indent":0,"roles":64,"deleted":0,"outofdate":0,"userRating":0,"replies":[],"dataTree":1,"markupDisabledEnvironments":{"2":true,"3":true},"imported":true,"importedAuthor":"Zuty","importedSubject":"better pic"}];
+</script>
+
+<noscript><div id="user-comments"><h2 class="heading-size-2">Comments</h2><div class="user-post-"><h3 class="heading-size-3">Comment by <b>9108</b></h3>If you are lucky enough to get glowing lizardscale cloak, congratulate yourself. I got one and had it since i was lvl 18 and now im lvl 26 and still use it. The odds are low but don't give up. Worth the wait.</div>
+
+<div class="user-post-"><h3 class="heading-size-3">Comment by <b>skelemence</b></h3>Easy fight except he runs in fear when he gets low on health so slow him before he gathers adds. Cloak has dropped nearly every time I've done this place :)</div>
+
+<div class="user-post-"><h3 class="heading-size-3">Comment by <b>68237</b></h3>Where exactly is he in the cave. north, south, east, west whatever just tell a general location.</div>
+
+<div class="user-post-"><h3 class="heading-size-3">Comment by <b>84283</b></h3>hehe, unfortunately got past this instance- but now with lvl 54 pala got some BoE for alt hunter lol :D</div>
+
+<div class="user-post-"><h3 class="heading-size-3">Comment by <b>53267</b></h3>This is definately one of the funniest bosses for the fact that he flees when he's low on hp :D</div>
+
+<div class="user-post-"><h3 class="heading-size-3">Comment by <b>127599</b></h3>That alomost happened to me exsepect he got in half way then was stuck. I killed him and looted him but i couldnt skin him.</div>
+
+<div class="user-post-"><h3 class="heading-size-3">Comment by <b>150267</b></h3>This guy drops a decent clock for its lvl but there is prob' a better clock out there for the lvl.Dagger not too bad either.</div>
+
+<div class="user-post-"><h3 class="heading-size-3">Comment by <b>Allakhazam</b></h3>can you tame skum for a pet?</div>
+
+<div class="user-post-"><h3 class="heading-size-3">Comment by <b>Allakhazam</b></h3>whare is this elite ?</div>
+
+<div class="user-post-"><h3 class="heading-size-3">Comment by <b>Allakhazam</b></h3>For a 29 rogue to solo him? Not the whole instance, just him?</div>
+
+<div class="user-post-"><h3 class="heading-size-3">Comment by <b>Allakhazam</b></h3>that isn't a better pic than the posted one<br /><br />Edited, Sat Jun 24 13:47:39 2006</div>
+
+<div class="user-post-"><h3 class="heading-size-3">Comment by <b>Allakhazam</b></h3>I grabed the cloak from him and later got the serpent mace, and a kick ass shield for my shaman.<br /><br />Zuty_Da_Shaman</div>
+
+<div class="user-post-"><h3 class="heading-size-3">Comment by <b>Allakhazam</b></h3>Does anyone have a pic of him?</div>
+
+<div class="user-post-"><h3 class="heading-size-3">Comment by <b>Allakhazam</b></h3>whats the dl so u can see his health?</div>
+
+<div class="user-post-"><h3 class="heading-size-3">Comment by <b>Allakhazam</b></h3>I have a better picture if you would like<br /><a href="http://img464.imageshack.us/my.php?image=wowscrnshot0126061625456xn.jpg" rel="nofollow">Skum Pic</a><br /><br />Edited, Tue Feb 14 14:12:26 2006</div>
+
+</div>
+
+</noscript>
+
+<script type="text/javascript">
+var lv_screenshots = [{"id":82790,"user":"adashiel","date":"2008-05-28T17:50:04-05:00","width":1134,"height":885,"type":1,"typeId":3674,"imageType":2,"caption":"Old location"}];
+var lv_videos = [];
+var g_pageInfo = {type: 1, typeId: 3674, name: "Skum"};
+WH.Layout.set({breadcrumb: [0, 4, 1, 0]});
+//]]></script>
+
+<script type='text/javascript'>//<![CDATA[
+$(document).ready(function(){$(".infobox li").last().after("<li><div><span class=\"tip\" onmouseover=\"WH.Tooltip.showAtCursor(event, '<table cellspacing=&quot;10px&quot;><tr><td>Normal&nbsp;&nbsp;</td><td style=&quot;text-align:right&quot;>3,630</td></tr><tr><td>Normal&nbsp;&nbsp;</td><td style=&quot;text-align:right&quot;>3,630</td></tr></table>', 0, 0)\" onmousemove=\"WH.Tooltip.cursorUpdate(event)\" onmouseout=\"WH.Tooltip.hide()\">Health (Normal): 3,630</span></div></li>");});
+//]]></script>
+
+<div class="text">
+
+<div class="db-action-buttons"><script>WH.onLoad(function () {
+    var linksButton = WH.ge('open-links-button');
+    if (linksButton) {
+        linksButton.dataset.displayId = 4203;
+    }
+});</script><a href="javascript:" id="wh-mv-view-in-3d-button" class="btn btn-site btn-small" style="margin-left:5px;float:right" onclick="WH.ModelViewer.showLightbox({&quot;type&quot;:1,&quot;typeId&quot;:3674,&quot;displayId&quot;:4203})" data-mv-type="1" data-mv-type-id="3674" data-mv-display-id="4203">View in 3D</a><a href="javascript:" id="open-links-button" class="btn btn-small fa fa-fw fa-link" style="margin-left:5px;float:right" onclick="WH.Links.show(this, {&quot;type&quot;:1,&quot;typeId&quot;:3674}, event);">Links</a></div><h1 class="heading-size-1">Skum</h1><div id="infobox-alternate-position"></div><div class="block-block-bg is-btf" data-was-parent="true">
+    <div id="ad-mobileMedrec" data-was-unit="true" class="banner-ad">
+        <script>WH.WAS.validateUnit("ad-mobileMedrec");</script>
+    </div>
+</div>
+<div id="article-pre-map"></div>
+<script>//<![CDATA[
+WH.Gatherer.addData(1, 5, {"3653":{"name_enus":"Kresh"},"3671":{"name_enus":"Lady Anacondra"},"3669":{"name_enus":"Lord Cobrahn"},"5912":{"name_enus":"Deviate Faerie Dragon"},"3670":{"name_enus":"Lord Pythas"},"3673":{"name_enus":"Lord Serpentis"},"5775":{"name_enus":"Verdan the Everliving"},"3654":{"name_enus":"Mutanus the Devourer"}});
+WH.Gatherer.addData(3, 5, {"6449":{"name_enus":"Glowing Lizardscale Cloak","quality":3,"icon":"inv_chest_cloth_15","screenshot":{},"jsonequip":{"agi":6,"appearances":{"0":[23001,""]},"armor":20,"displayid":23001,"dmgrange":0.2,"reqlevel":17,"sellprice":701,"slotbak":16,"sta":2},"attainable":0,"flags2":24580},"14124":{"name_enus":"Ritual Gloves","quality":2,"icon":"inv_gauntlets_18","screenshot":{},"jsonequip":{"appearances":{"0":[11051,""]},"armor":21,"avgbuyout":2311,"displayid":11051,"dmgrange":0.2,"dura":20,"reqlevel":15,"sellprice":292,"slotbak":10},"attainable":0,"flags2":24580},"6448":{"name_enus":"Tail Spike","quality":3,"icon":"inv_weapon_shortblade_10","screenshot":{"id":1025032,"imageType":2},"jsonequip":{"agi":3,"appearances":{"0":[20349,""]},"displayid":20349,"dmgmax1":34,"dmgmin1":18,"dmgrange":0.6,"dmgtype1":0,"dps":14.44,"dura":50,"mledmgmax":34,"mledmgmin":18,"mledps":14.44,"mlespeed":1.8,"reqlevel":17,"sellprice":2331,"sheathtype":3,"slotbak":13,"speed":1.8,"str":4},"attainable":0,"flags2":24580}});
+WH.Gatherer.addData(7, 5, {"718":{"name_enus":"Wailing Caverns"}});
+
+//]]></script><script>
+WH.markup.printHtml(
+    "[minibox][h2][zone=718][\/h2]\r\n[npc=3653]\r\n[npc=3671]\r\n[npc=3669]\r\n[npc=5912] (Rare)\r\n[npc=3670]\r\n[b]Skum[\/b]\r\n[npc=3673]\r\n[npc=5775]\r\n[npc=3654]\r\n[\/minibox]\r\n\r\n[b]Skum[\/b] is a thunder lizard that can be encountered in [zone=718]. From the vast plains of the Barrens, Skum become the favorite pet of [npc=3670] and was strengthened from the corruption of Naralex's nightmare.\r\n\r\nWhile [b]Skum[\/b] doesn't have a large loot table, his most notable loot is [item=6449], [item=14124] and [item=6448].\r\n\r\nYou can find an in depth guide for the [zone=718] and the [b]Skum[\/b] encounter [url=\/guides\/wailing-caverns-classic-dungeon#skum] here[\/url].\r\n",
+    "article-pre-map",
+    {
+        allow: WH.markup.CLASS.ADMIN,
+        dbPage: true,
+        disabledEnvironments: {"2":true,"3":true},
+    }
+);
+</script>
+<div id="article-post-map" style="margin-top: 10px"></div>
+<script>
+WH.markup.printHtml(
+    "",
+    "article-post-map",
+    {
+        allow: WH.markup.CLASS.ADMIN,
+        dbPage: true,
+        disabledEnvironments: {"2":true,"3":true},
+    }
+);
+</script>
+<noscript>
+<h2 class="heading-size-2"><a href="/zone=718">Wailing Caverns</a></h2><br /><a href="/npc=3653">Kresh</a><br /><a href="/npc=3671">Lady Anacondra</a><br /><a href="/npc=3669">Lord Cobrahn</a><br /><a href="/npc=5912">Deviate Faerie Dragon</a> (Rare)<br /><a href="/npc=3670">Lord Pythas</a><br /><b>Skum</b><br /><a href="/npc=3673">Lord Serpentis</a><br /><a href="/npc=5775">Verdan the Everliving</a><br /><a href="/npc=3654">Mutanus the Devourer</a><br /><br /><b>Skum</b> is a thunder lizard that can be encountered in <a href="/zone=718">Wailing Caverns</a>. From the vast plains of the Barrens, Skum become the favorite pet of <a href="/npc=3670">Lord Pythas</a> and was strengthened from the corruption of Naralex's nightmare.<br /><br />While <b>Skum</b> doesn't have a large loot table, his most notable loot is <a href="/item=6449">Glowing Lizardscale Cloak</a>, <a href="/item=14124">Ritual Gloves</a> and <a href="/item=6448">Tail Spike</a>.<br /><br />You can find an in depth guide for the <a href="/zone=718">Wailing Caverns</a> and the <b>Skum</b> encounter <a href="https://tbc.wowhead.com/guides/wailing-caverns-classic-dungeon#skum"> here</a>.<br /></noscript>
+<h2 class="heading-size-2 clear">Related</h2></div>
+
+<div id="jkbfksdbl4"></div>
+<div id="lkljbjkb574" class="listview">
+</div>
+<script type="text/javascript">//<![CDATA[
+WH.Gatherer.addData(3, 5, {"1206":{"name_enus":"Moss Agate","quality":2,"icon":"inv_misc_gem_emerald_02","screenshot":{},"jsonequip":{"avgbuyout":2340,"sellprice":400},"attainable":0,"flags2":24580},"1210":{"name_enus":"Shadowgem","quality":2,"icon":"inv_misc_gem_amethyst_01","screenshot":{},"jsonequip":{"avgbuyout":288,"sellprice":250},"attainable":0,"flags2":24580},"1705":{"name_enus":"Lesser Moonstone","quality":2,"icon":"inv_misc_gem_crystal_01","screenshot":{},"jsonequip":{"avgbuyout":1894,"sellprice":600},"attainable":0,"flags2":24580},"2319":{"name_enus":"Medium Leather","quality":1,"icon":"inv_misc_leatherscrap_05","screenshot":{},"jsonequip":{"avgbuyout":172,"buyprice":200,"sellprice":50},"attainable":0,"flags2":24580},"4568":{"name_enus":"Grunt Axe","quality":2,"icon":"inv_axe_12","screenshot":{},"jsonequip":{"appearances":{"0":[22478,""]},"avgbuyout":3061,"displayid":22478,"dmgmax1":32,"dmgmin1":17,"dmgrange":0.6,"dmgtype1":0,"dps":10.65,"dura":60,"mledmgmax":32,"mledmgmin":17,"mledps":10.65,"mlespeed":2.3,"reqlevel":16,"sellprice":1695,"sheathtype":3,"slotbak":13,"speed":2.3},"attainable":0,"flags2":24580},"4576":{"name_enus":"Light Bow","quality":2,"icon":"inv_weapon_bow_07","screenshot":{},"jsonequip":{"appearances":{"0":[20674,""]},"avgbuyout":2475,"displayid":20674,"dmgmax1":26,"dmgmin1":13,"dmgrange":0.6,"dmgtype1":2,"dps":11.47,"dura":50,"reqlevel":16,"rgddmgmax":26,"rgddmgmin":13,"rgddps":11.47,"rgdspeed":1.7,"sellprice":1184,"slotbak":15,"speed":1.7},"attainable":0,"flags2":24580},"5125":{"name_enus":"Charged Scale","quality":0,"icon":"inv_misc_monsterscales_02","screenshot":{},"jsonequip":{"avgbuyout":130,"sellprice":155},"attainable":0,"flags2":24580},"5128":{"name_enus":"Shed Lizard Skin","quality":0,"icon":"inv_misc_monsterscales_03","screenshot":{},"jsonequip":{"avgbuyout":100,"sellprice":202},"attainable":0,"flags2":24580},"5470":{"name_enus":"Thunder Lizard Tail","quality":1,"icon":"inv_misc_bone_04","screenshot":{},"jsonequip":{"avgbuyout":151,"sellprice":28},"attainable":0,"flags2":24580},"6443":{"name_enus":"Deviate Hide","quality":1,"icon":"inv_misc_pelt_wolf_ruin_03","screenshot":{},"jsonequip":{},"attainable":0,"flags2":24580},"6448":{"name_enus":"Tail Spike","quality":3,"icon":"inv_weapon_shortblade_10","screenshot":{"id":1025032,"imageType":2},"jsonequip":{"agi":3,"appearances":{"0":[20349,""]},"displayid":20349,"dmgmax1":34,"dmgmin1":18,"dmgrange":0.6,"dmgtype1":0,"dps":14.44,"dura":50,"mledmgmax":34,"mledmgmin":18,"mledps":14.44,"mlespeed":1.8,"reqlevel":17,"sellprice":2331,"sheathtype":3,"slotbak":13,"speed":1.8,"str":4},"attainable":0,"flags2":24580},"6449":{"name_enus":"Glowing Lizardscale Cloak","quality":3,"icon":"inv_chest_cloth_15","screenshot":{},"jsonequip":{"agi":6,"appearances":{"0":[23001,""]},"armor":20,"displayid":23001,"dmgrange":0.2,"reqlevel":17,"sellprice":701,"slotbak":16,"sta":2},"attainable":0,"flags2":24580},"6470":{"name_enus":"Deviate Scale","quality":1,"icon":"inv_misc_monsterscales_02","screenshot":{},"jsonequip":{"avgbuyout":100,"sellprice":20},"attainable":0,"flags2":24580},"6471":{"name_enus":"Perfect Deviate Scale","quality":1,"icon":"inv_misc_monsterscales_01","screenshot":{},"jsonequip":{"avgbuyout":4653,"sellprice":500},"attainable":0,"flags2":24580},"14124":{"name_enus":"Ritual Gloves","quality":2,"icon":"inv_gauntlets_18","screenshot":{},"jsonequip":{"appearances":{"0":[11051,""]},"armor":21,"avgbuyout":2311,"displayid":11051,"dmgrange":0.2,"dura":20,"reqlevel":15,"sellprice":292,"slotbak":10},"attainable":0,"flags2":24580},"14125":{"name_enus":"Ritual Leggings","quality":2,"icon":"inv_pants_09","screenshot":{},"jsonequip":{"appearances":{"0":[9187,""]},"armor":30,"avgbuyout":2900,"displayid":9187,"dmgrange":0.2,"dura":45,"reqlevel":16,"sellprice":676,"slotbak":7},"attainable":0,"flags2":24580},"14164":{"name_enus":"Pagan Belt","quality":2,"icon":"inv_belt_24","screenshot":{},"jsonequip":{"appearances":{"0":[7894,"inv_belt_11"]},"armor":20,"avgbuyout":1970,"displayid":7894,"dura":20,"reqlevel":16,"sellprice":312,"slotbak":6},"attainable":0,"flags2":24580},"14374":{"name_enus":"Sanguine Sandals","quality":2,"icon":"inv_boots_06","screenshot":{},"jsonequip":{"appearances":{"0":[9008,""]},"armor":26,"avgbuyout":9000,"displayid":9008,"dmgrange":0.2,"dura":30,"int":4,"reqlevel":19,"sellprice":699,"slotbak":8,"sta":4},"attainable":0,"flags2":24580},"14376":{"name_enus":"Sanguine Cape","quality":2,"icon":"inv_misc_cape_18","screenshot":{},"jsonequip":{"appearances":{"0":[25958,""]},"armor":18,"avgbuyout":2200,"displayid":25958,"int":4,"reqlevel":17,"sellprice":552,"slotbak":16},"attainable":0,"flags2":24580},"14565":{"name_enus":"Prospector's Woolies","quality":2,"icon":"inv_pants_02","screenshot":{},"jsonequip":{"agi":6,"appearances":{"0":[10871,"inv_pants_wolf"]},"armor":69,"avgbuyout":3200,"displayid":10871,"dmgrange":0.2,"dura":55,"reqlevel":16,"sellprice":809,"slotbak":7,"str":1},"attainable":0,"flags2":24580},"15110":{"name_enus":"Rigid Belt","quality":2,"icon":"inv_belt_05","screenshot":{},"jsonequip":{"appearances":{"0":[3696,"inv_belt_04"]},"armor":44,"avgbuyout":2500,"displayid":3696,"dura":25,"reqlevel":15,"sellprice":351,"slotbak":6},"attainable":0,"flags2":24580},"15211":{"name_enus":"Militant Shortsword","quality":2,"icon":"inv_sword_20","screenshot":{},"jsonequip":{"appearances":{"0":[28567,""]},"avgbuyout":4899,"displayid":28567,"dmgmax1":36,"dmgmin1":19,"dmgrange":0.6,"dmgtype1":0,"dps":11,"dura":60,"mledmgmax":36,"mledmgmin":19,"mledps":11,"mlespeed":2.5,"reqlevel":17,"sellprice":1917,"sheathtype":3,"slotbak":13,"speed":2.5},"attainable":0,"flags2":24580},"15312":{"name_enus":"Feral Leggings","quality":2,"icon":"inv_pants_06","screenshot":{},"jsonequip":{"appearances":{"0":[9266,""]},"armor":68,"avgbuyout":3554,"displayid":9266,"dmgrange":0.2,"dura":55,"reqlevel":15,"sellprice":745,"slotbak":7},"attainable":0,"flags2":24580},"15488":{"name_enus":"Bloodspattered Surcoat","quality":2,"icon":"inv_chest_chain_07","screenshot":{},"jsonequip":{"appearances":{"0":[27004,""]},"armor":171,"avgbuyout":3000,"displayid":27004,"dura":85,"reqlevel":16,"sellprice":967,"slotbak":5},"attainable":0,"flags2":24580},"4232":{"name_enus":"Medium Hide","quality":1,"icon":"inv_misc_pelt_boar_ruin_02","screenshot":{},"jsonequip":{"avgbuyout":332,"sellprice":125},"attainable":0,"flags2":24580}});
+WH.Gatherer.addData(6, 5, {"6254":{"name_enus":"Chained Bolt","icon":"spell_nature_chainlightning","screenshot":{},"rank_enus":""}});
+WH.Gatherer.addData(1, 5, {"3674":{"name_enus":"Skum"}});
+$.extend(g_npcs[3674], {"boss":1,"classification":1,"id":3674,"location":[718],"maxlevel":20,"minlevel":20,"name":"Skum","react":[-1,-1],"type":1});
+var tabsRelated = new Tabs({parent: WH.ge('jkbfksdbl4'), trackable: 'NPC'});
+new Listview({template: 'item', id: 'drops', name: WH.TERMS.drops, tabs: tabsRelated, parent: 'lkljbjkb574', extraCols: ["contentPhase",'count', 'percent'],  showLootSpecs: 0,sort:['noteworthy', '-percent', 'name'], _totalCount: 7364, computeDataFunc: Listview.funcBox.initLootTable, onAfterCreate: Listview.funcBox.addModeIndicator, data:[{"classs":3,"commondrop":true,"flags2":24580,"id":1206,"level":25,"name":"Moss Agate","quality":2,"slot":0,"source":[2,16,19,21],"subclass":7,"modes":{"mode":[1],"1":{"count":25,"outof":7364},"0":{"count":25,"outof":7364}},"count":25,"stack":[1,1],"contentPhase":1},{"classs":3,"commondrop":true,"flags2":24580,"id":1210,"level":20,"name":"Shadowgem","quality":2,"slot":0,"source":[2,16,19,21],"subclass":7,"modes":{"mode":[1],"1":{"count":14,"outof":7364},"0":{"count":14,"outof":7364}},"count":14,"stack":[1,1],"contentPhase":1},{"classs":3,"commondrop":true,"flags2":24580,"id":1705,"level":30,"name":"Lesser Moonstone","quality":2,"slot":0,"source":[2,16,19,21],"subclass":7,"modes":{"mode":[1],"1":{"count":25,"outof":7364},"0":{"count":25,"outof":7364}},"count":25,"stack":[1,1],"contentPhase":1},{"classs":7,"flags2":24580,"id":2319,"level":20,"name":"Medium Leather","quality":1,"slot":0,"source":[1,2,5,23],"sourcemore":[{"c":11,"icon":"inv_misc_leatherscrap_05","n":"Medium Leather","s":165,"t":6,"ti":20648},{"n":"Lhara","t":1,"ti":14846}],"subclass":6,"modes":{"mode":[1],"1":{"count":462,"outof":7364},"0":{"count":462,"outof":7364}},"count":462,"stack":[1,5],"pctstack":"{1: 98.7013,4: 0.4329,5: 0.865801}"},{"appearances":{"0":[22478,""]},"classs":2,"commondrop":true,"displayid":22478,"dps":10.65,"flags2":24580,"id":4568,"level":21,"name":"Grunt Axe","quality":2,"reqlevel":16,"slot":13,"slotbak":13,"source":[2,16],"speed":2.3,"subclass":0,"modes":{"mode":[1],"1":{"count":14,"outof":7364},"0":{"count":14,"outof":7364}},"count":14,"stack":[1,1],"contentPhase":1},{"appearances":{"0":[20674,""]},"classs":2,"commondrop":true,"displayid":20674,"dps":11.47,"flags2":24580,"id":4576,"level":21,"name":"Light Bow","quality":2,"reqlevel":16,"slot":15,"slotbak":15,"source":[2],"speed":1.7,"subclass":2,"modes":{"mode":[1],"1":{"count":12,"outof":7364},"0":{"count":12,"outof":7364}},"count":12,"stack":[1,1],"contentPhase":1},{"classs":15,"commondrop":true,"flags2":24580,"id":5125,"level":1,"name":"Charged Scale","quality":0,"slot":0,"source":[2],"subclass":0,"modes":{"mode":[1],"1":{"count":1005,"outof":7364},"0":{"count":1005,"outof":7364}},"count":1005,"stack":[1,1],"specificDrop":true},{"classs":15,"commondrop":true,"flags2":24580,"id":5128,"level":1,"name":"Shed Lizard Skin","quality":0,"slot":0,"source":[2],"subclass":0,"modes":{"mode":[1],"1":{"count":2473,"outof":7364},"0":{"count":2473,"outof":7364}},"count":2473,"stack":[1,1]},{"classs":7,"flags2":24580,"id":5470,"level":22,"name":"Thunder Lizard Tail","quality":1,"slot":0,"source":[2],"subclass":8,"modes":{"mode":[1],"1":{"count":1154,"outof":7364},"0":{"count":1154,"outof":7364}},"count":1154,"stack":[1,1],"specificDrop":true},{"classs":12,"flags2":24580,"id":6443,"level":1,"name":"Deviate Hide","quality":1,"slot":0,"source":[2],"subclass":0,"modes":{"mode":[1],"1":{"count":437,"outof":7364},"0":{"count":437,"outof":7364}},"count":437,"stack":[1,1]},{"appearances":{"0":[20349,""]},"classs":2,"displayid":20349,"dps":14.44,"flags2":24580,"id":6448,"level":22,"name":"Tail Spike","quality":3,"reqlevel":17,"slot":13,"slotbak":13,"source":[2],"sourcemore":[{"bd":1,"dd":-1,"n":"Skum","t":1,"ti":3674,"z":718}],"speed":1.8,"subclass":15,"modes":{"mode":[1],"1":{"count":3438,"outof":7364},"0":{"count":3438,"outof":7364}},"count":3438,"stack":[1,1],"contentPhase":1,"specificDrop":true},{"appearances":{"0":[23001,""]},"armor":20,"classs":4,"displayid":23001,"flags2":24580,"id":6449,"level":22,"name":"Glowing Lizardscale Cloak","quality":3,"reqlevel":17,"slot":16,"slotbak":16,"source":[2],"sourcemore":[{"bd":1,"dd":-1,"n":"Skum","t":1,"ti":3674,"z":718}],"subclass":-6,"modes":{"mode":[1],"1":{"count":3366,"outof":7364},"0":{"count":3366,"outof":7364}},"count":3366,"stack":[1,1],"contentPhase":1,"specificDrop":true},{"classs":7,"flags2":24580,"id":6470,"level":1,"name":"Deviate Scale","quality":1,"slot":0,"source":[2,16,23],"subclass":6,"modes":{"mode":[1],"1":{"count":245,"outof":7364},"0":{"count":245,"outof":7364}},"count":245,"stack":[1,1]},{"classs":7,"flags2":24580,"id":6471,"level":1,"name":"Perfect Deviate Scale","quality":1,"slot":0,"source":[2,23],"subclass":6,"modes":{"mode":[1],"1":{"count":80,"outof":7364},"0":{"count":80,"outof":7364}},"count":80,"stack":[1,1]},{"appearances":{"0":[11051,""]},"armor":21,"classs":4,"displayid":11051,"flags2":24580,"id":14124,"level":20,"name":"Ritual Gloves","quality":2,"reqlevel":15,"slot":10,"slotbak":10,"source":[2],"subclass":1,"modes":{"mode":[1],"1":{"count":19,"outof":7364},"0":{"count":19,"outof":7364}},"count":19,"stack":[1,1],"contentPhase":1},{"appearances":{"0":[9187,""]},"armor":30,"classs":4,"displayid":9187,"flags2":24580,"id":14125,"level":21,"name":"Ritual Leggings","quality":2,"reqlevel":16,"slot":7,"slotbak":7,"source":[2],"subclass":1,"modes":{"mode":[1],"1":{"count":10,"outof":7364},"0":{"count":10,"outof":7364}},"count":10,"stack":[1,1],"contentPhase":1},{"appearances":{"0":[7894,"inv_belt_11"]},"armor":20,"classs":4,"displayid":7894,"flags2":24580,"id":14164,"level":21,"name":"Pagan Belt","quality":2,"reqlevel":16,"slot":6,"slotbak":6,"source":[2],"subclass":1,"modes":{"mode":[1],"1":{"count":11,"outof":7364},"0":{"count":11,"outof":7364}},"count":11,"stack":[1,1],"contentPhase":1},{"appearances":{"0":[9008,""]},"armor":26,"classs":4,"displayid":9008,"flags2":24580,"id":14374,"level":24,"name":"Sanguine Sandals","quality":2,"reqlevel":19,"slot":8,"slotbak":8,"source":[2],"subclass":1,"modes":{"mode":[1],"1":{"count":11,"outof":7364},"0":{"count":11,"outof":7364}},"count":11,"stack":[1,1],"contentPhase":1},{"appearances":{"0":[25958,""]},"armor":18,"classs":4,"displayid":25958,"flags2":24580,"id":14376,"level":22,"name":"Sanguine Cape","quality":2,"reqlevel":17,"slot":16,"slotbak":16,"source":[2],"subclass":-6,"modes":{"mode":[1],"1":{"count":8,"outof":7364},"0":{"count":8,"outof":7364}},"count":8,"stack":[1,1],"contentPhase":1},{"appearances":{"0":[10871,"inv_pants_wolf"]},"armor":69,"classs":4,"displayid":10871,"flags2":24580,"id":14565,"level":21,"name":"Prospector's Woolies","quality":2,"reqlevel":16,"slot":7,"slotbak":7,"source":[2],"subclass":2,"modes":{"mode":[1],"1":{"count":11,"outof":7364},"0":{"count":11,"outof":7364}},"count":11,"stack":[1,1],"contentPhase":1},{"appearances":{"0":[3696,"inv_belt_04"]},"armor":44,"classs":4,"displayid":3696,"flags2":24580,"id":15110,"level":20,"name":"Rigid Belt","quality":2,"reqlevel":15,"slot":6,"slotbak":6,"source":[2],"subclass":2,"modes":{"mode":[1],"1":{"count":17,"outof":7364},"0":{"count":17,"outof":7364}},"count":17,"stack":[1,1],"contentPhase":1},{"appearances":{"0":[28567,""]},"classs":2,"commondrop":true,"displayid":28567,"dps":11,"flags2":24580,"id":15211,"level":22,"name":"Militant Shortsword","quality":2,"reqlevel":17,"slot":13,"slotbak":13,"source":[2],"speed":2.5,"subclass":7,"modes":{"mode":[1],"1":{"count":9,"outof":7364},"0":{"count":9,"outof":7364}},"count":9,"stack":[1,1],"contentPhase":1},{"appearances":{"0":[9266,""]},"armor":68,"classs":4,"displayid":9266,"flags2":24580,"id":15312,"level":20,"name":"Feral Leggings","quality":2,"reqlevel":15,"slot":7,"slotbak":7,"source":[2],"subclass":2,"modes":{"mode":[1],"1":{"count":9,"outof":7364},"0":{"count":9,"outof":7364}},"count":9,"stack":[1,1],"contentPhase":1},{"appearances":{"0":[27004,""]},"armor":171,"classs":4,"displayid":27004,"flags2":24580,"id":15488,"level":21,"name":"Bloodspattered Surcoat","quality":2,"reqlevel":16,"slot":5,"slotbak":5,"source":[2],"subclass":3,"modes":{"mode":[1],"1":{"count":11,"outof":7364},"0":{"count":11,"outof":7364}},"count":11,"stack":[1,1],"contentPhase":1}]});
+new Listview({template: 'item', id: 'skinning', name: LANG.tab_skinning, tabs: tabsRelated, parent: 'lkljbjkb574', extraCols: [Listview.extraCols.count, Listview.extraCols.percent], sort:['-percent', 'name'], computeDataFunc: Listview.funcBox.initLootTable, note: WH.sprintf(WH.TERMS.npcskinned_format, 816), _totalCount: 816, data: [{"classs":7,"flags2":24580,"id":2319,"level":20,"name":"Medium Leather","quality":1,"slot":0,"source":[1,2,5,23],"sourcemore":[{"c":11,"icon":"inv_misc_leatherscrap_05","n":"Medium Leather","s":165,"t":6,"ti":20648},{"n":"Lhara","t":1,"ti":14846}],"subclass":6,count:816,stack:[3,5],pctstack:'{3: 38.1127,4: 31.7402,5: 30.1471}'},{"classs":7,"flags2":24580,"id":4232,"level":20,"name":"Medium Hide","quality":1,"slot":0,"source":[2,23],"subclass":6,count:408,stack:[1,1]}]});
+new Listview({template: 'spell', id: 'abilities', name: WH.TERMS.abilities, tabs: tabsRelated, parent: 'lkljbjkb574', visibleCols: ['schools'], hiddenCols: ['reagents', 'skill'], computeDataFunc: Listview.funcBox.initModeFilter, onAfterCreate: Listview.funcBox.addModeIndicator, data: [{"cat":-8,"id":6254,"level":21,"name":"Chained Bolt","schools":8,modes:{"mode":[1]}}]});
+new Listview({template: 'sound', id: 'sounds', name: WH.Types.getUpperPlural(WH.Types.SOUND), tabs: tabsRelated, parent: 'lkljbjkb574', visibleCols: ['activity'], data:[{"activity":"exertion","id":1969,"type":10,"name":"ThunderLizardAttackC.ogg","files":[{"id":562369,"title":"ThunderLizardAttackC","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/193\/562369","type":"audio\/ogg; codecs=\"vorbis\""},{"id":562370,"title":"ThunderLizardAttackA","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/194\/562370","type":"audio\/ogg; codecs=\"vorbis\""},{"id":562374,"title":"ThunderLizardAttackB","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/198\/562374","type":"audio\/ogg; codecs=\"vorbis\""}]},{"activity":"injury","id":1970,"type":10,"name":"ThunderLizardWoundA.ogg","files":[{"id":562367,"title":"ThunderLizardWoundA","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/191\/562367","type":"audio\/ogg; codecs=\"vorbis\""},{"id":562368,"title":"ThunderLizardWoundC","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/192\/562368","type":"audio\/ogg; codecs=\"vorbis\""},{"id":562371,"title":"ThunderLizardWoundB","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/195\/562371","type":"audio\/ogg; codecs=\"vorbis\""}]},{"activity":"injurycritical","id":1971,"type":10,"name":"ThunderLizardWoundCrit.ogg","files":[{"id":562365,"title":"ThunderLizardWoundCrit","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/189\/562365","type":"audio\/ogg; codecs=\"vorbis\""}]},{"activity":"death","id":1972,"type":10,"name":"ThunderLizardDeathA.ogg","files":[{"id":562366,"title":"ThunderLizardDeathA","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/190\/562366","type":"audio\/ogg; codecs=\"vorbis\""}]},{"activity":"aggro","id":1236,"type":10,"name":"ThreshadonAggroA.ogg","files":[{"id":562296,"title":"ThreshadonAggroA","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/120\/562296","type":"audio\/ogg; codecs=\"vorbis\""}]},{"activity":"alert","id":1973,"type":10,"name":"ThunderLizardPreAggroA.ogg","files":[{"id":562373,"title":"ThunderLizardPreAggroA","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/197\/562373","type":"audio\/ogg; codecs=\"vorbis\""}]}]});
+</script><script>new Listview({
+    data: lv_comments0,
+    id: 'comments',
+    name: WH.TERMS.comments,
+    parent: 'lkljbjkb574',
+    
+    tabOpts: {className: 'ugc-tab ugc-tab-comments'},
+    tabs: tabsRelated,
+    template: 'comment',
+});new Listview({
+    data: lv_screenshots,
+    id: 'screenshots',
+    name: WH.TERMS.screenshots,
+    parent: 'lkljbjkb574',
+    tabOpts: {className: 'ugc-tab ugc-tab-screenshots'},
+    tabs: tabsRelated,
+    template: 'screenshot',
+});if (lv_videos.length) {
+    new Listview({
+        data: lv_videos,
+        id: 'videos',
+        name: WH.TERMS.videos,
+        parent: 'lkljbjkb574',
+        tabs: tabsRelated,
+        tabOpts: {className: 'ugc-tab ugc-tab-videos'},
+        template: 'video',
+    });
+}
+if (window.lv_videos_english && lv_videos_english.length) {
+    new Listview({
+        data: lv_videos_english,
+        id: 'videos-english',
+        name: WH.TERMS.englishvideos,
+        parent: 'lkljbjkb574',
+        tabs: tabsRelated,
+        tabOpts: {className: 'ugc-tab ugc-tab-videos'},
+        template: 'video',
+    });
+}tabsRelated.flush();
+//]]></script>
+
+<h2 class="heading-size-2">Contribute</h2>
+<div id="lkgljhkv456" class="comment-tabs"></div>
+
+<div class="text comment-tabs-body">
+<div class="tabbed-contents" style="clear:none">
+<div id="tab-add-your-comment" style="display:none">
+Please keep the following in mind when posting a comment:<ul>
+    <li><div>Your comment must be in English or it will be removed.</div></li>
+    <li><div>Unsure how to post? Check out our <a href="/help=commenting-and-you" target="_blank">handy guide</a>!</div></li>
+    <li><div>You might want to proof-read your comments before posting them.</div></li>
+    <li><div>Please post questions on our <a href="/forums">forums</a> for quicker reply.</div></li>
+</ul>
+<form>
+    <div class="comment-edit-body">
+        <textarea class="comment-editbox" rows="10" cols="40" name="commentbody" disabled="disabled"></textarea>
+    </div>
+    <small>You are not logged in. Please <a href="/account=signin">log in</a> or <a href="/account=signup">register an account</a> to add your comment.</small>
+</form>
+</div>
+<div id="tab-submit-a-screenshot" style="display:none">
+    Simply browse for your screenshot using the form below.    <ul>
+        <li><div>Screenshots containing UI elements are generally declined on sight, the same goes for screenshots from the modelviewer or character selection screen.</div></li>
+        <li><div>The higher the quality the better!</div></li>
+        <li><div>Please review our <a href="/help=screenshot-guidelines" target="_blank">Screenshot Guidelines</a> before submitting!</div></li>
+    </ul>
+    <form action="/" method="post">
+        <input type="file" name="screenshotfile" disabled="disabled"><br>
+        <small>You are not logged in. Please <a href="/account=signin">log in</a> to submit a screenshot.</small>
+    </form>
+</div>
+
+<div id="tab-suggest-a-video" style="display:none">
+    Simply type the URL of the video in the form below.    <div class="pad2"></div>
+    <form action="/video=add&amp;1.3674" method="post" enctype="multipart/form-data"
+          onsubmit="return vi_validateForm(this)">
+
+        URL: <input type="text" name="videourl" style="width:35%">
+        <small>Supported: YouTube only</small>
+                    <div class="pad2"></div>
+            Title: <input type="text" name="videotitle" maxlength="200"> <small>Optional, up to 200 characters</small><br>
+                    <div class="pad"></div>
+        <input type="submit" value="Submit">
+
+        <div class="pad3"></div>
+        <small class="q0">Note: Your video will need to be approved before appearing on the site.</small>
+
+    </form>
+</div>
+<div id="tab-submit-your-data" style="display: none">
+    <p>The <b>Wowhead Client</b> is a little application we use to keep our database up to date, and to provide you with some nifty extra functionality on the website! &nbsp;</p>
+    <div class="pad2"></div>
+    <p>It serves 2 main purposes: &nbsp;</p>
+
+    <ol>
+        <li><div>It maintains a WoW addon called the <b>Wowhead Looter</b>, which collects data as you play the game! &nbsp;</div></li>
+        <li><div>It uploads the <b>collected data</b> to Wowhead in order to keep the database up-to-date! &nbsp;</div></li>
+    </ol>
+
+    <p>You can also use it to keep track of your completed quests, recipes, mounts, companion pets, and titles!&nbsp;</p>
+    <div class="pad2"></div>
+    <p>So, what are you waiting for? <a href="/client">Download the client</a> and get started.&nbsp;</p>
+</div>
+</div>
+</div>
+
+<script>
+var tabsContribute = new Tabs({parent: WH.ge('lkgljhkv456')});
+        tabsContribute.add(WH.TERMS.addyourcomment_stc, {id: 'add-your-comment'});tabsContribute.add(WH.TERMS.submitascreenshot_stc, {id: 'submit-a-screenshot'});tabsContribute.add(WH.TERMS.suggestavideo_stc, {id: 'suggest-a-video'});
+tabsContribute.add(WH.TERMS.submityourdata_stc, {id: 'submit-your-data'});tabsContribute.flush();
+</script>            <div class="clear"></div>
+        </div>    </div>    </div>
+<script>WH.Page.init()</script>
+
+<div class="blocks">
+        <div class="block-pair"><div class="horizontal-block-bg is-btf" data-was-parent="true">
+    <div id="ad-horizontalBTF" data-was-unit="true" class="banner-ad">
+        <script>WH.WAS.validateUnit("ad-horizontalBTF");</script>
+    </div>
+</div>
+</div>
+    </div><div class="mobile-footer-block-bg is-atf" data-was-parent="true">
+    <div id="ad-mobileFooter" data-was-unit="true" class="banner-ad">
+        <script>WH.WAS.validateUnit("ad-mobileFooter");</script>
+    </div>
+</div>
+
+<div class="site-footer">
+    <div class="footer-sites">
+        <div class="imitation-heading heading-size-2">Connect with Wowhead</div>            <ul>
+                                <li><a href="https://discord.gg/wowhead" class="discord-icon">Discord</a></li>
+                <li><a href="https://twitter.com/Wowhead" class="fa fa-twitter">Twitter</a></li>
+                <li><a href="https://www.facebook.com/Wowhead" class="fa fa-facebook">Facebook</a></li>
+                <li><a href="https://www.youtube.com/user/Wowhead" class="fa fa-youtube-play">YouTube</a></li>
+                <li><a href="/news/rss/all" class="fa fa-rss hassubmenu">News Feed</a></li>
+            </ul>
+
+            <div class="imitation-heading heading-size-2">Wowhead Resources</div>            <ul class="footer-site-links"><li><a href="/help" id="footer-help-menu">Need Help?</a></li><li><a href="javascript:" id="footer-tools-menu">User Tools</a></li><li><a href="/aboutus" id="footer-about-menu">About Us</a></li><li><a href="https://corp.fanbyte.com/partner">Advertise</a></li><li><a href="/whats-new">What's New</a></li><li><a href="javascript:" id="footer-cookies" style="display:none">Cookies</a></li><li><a href="/random" class="fa fa-random">Random Page</a></li><li><a href="/premium" class="fa fa-star">Premium</a></li></ul>
+            <script>WH.setupFooterMenus();</script>
+            <div class="imitation-heading heading-size-2">Other Fanbyte Sites</div>            <ul>
+                <li><a href="https://www.fanbyte.com/">Fanbyte</a></li>
+                <li><a href="https://www.hearthstonetopdecks.com/">Hearthstone Top Decks</a></li>
+                <li><a href="http://everquest.allakhazam.com/">Everquest</a></li>
+                <li><a href="http://eq2.zam.com/">Everquest II</a></li>
+                <li><a href="http://ffxi.allakhazam.com/">Final Fantasy XI</a></li>
+            </ul>
+        </div>
+        <div class="footer-fanbyte">
+            <a href="https://www.fanbyte.com/" class="footer-fanbyte-logo lazy-load-background"></a>
+        </div>
+</div>
+<div class="copyright">&copy; 2021 Fanbyte</div>
+
+<script>
+Menu.add(WH.qs('.footer-sites .fa-rss'), [[1,"All news posts","\/news\/rss\/all"],[2,"Classic WoW news","\/news\/rss\/classic"],[3,"Retail WoW news","\/news\/rss\/retail"],[4,"In-development WoW news","\/news\/rss\/in-dev"],[5,"Other Blizzard games news","\/news\/rss\/other-blizzard-games"]]);
+</script>
+
+</div></div><script>Platform.init();</script>
+
+<script>
+    qcdata = {} || qcdata;
+    (function(){
+        var elem = document.createElement('script');
+        elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-80xBzMhbKolFI";
+        elem.async = true;
+        elem.type = "text/javascript";
+        var scpt = document.getElementsByTagName('script')[0];
+        scpt.parentNode.insertBefore(elem,scpt);
+    }());
+
+    var qcdata = {qacct: 'p-80xBzMhbKolFI', labels: ''};
+</script>
+<noscript>
+    <img src="//pixel.quantserve.com/pixel/p-80xBzMhbKolFI.gif?labels=_fp.event.Default" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window,document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '200005404004494');
+    fbq('track', 'PageView');
+</script>
+<noscript>
+    <img height="1" width="1" src="https://www.facebook.com/tr?id=200005404004494&ev=PageView&noscript=1">
+</noscript>
+
+</body>
+</html>
