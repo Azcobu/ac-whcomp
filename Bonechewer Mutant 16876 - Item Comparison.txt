@@ -1,0 +1,433 @@
+ Found in both:
+Item ID | Item Name                     | iLvl| WH Drp | AC Drp |  Diff  | AC RLT
+  21877 | Netherweave Cloth             |  60 | 15.44% | 55.00% | 39.56% | Direct
+  14047 | Runecloth                     |  50 | 51.95% | 20.00% | 31.95% | Direct
+  30327 | Bonechewer Blood              |   1 | 31.05% | 30.00% |  1.05% | Direct
+  13446 | Major Healing Potion          |  55 |  2.21% |  3.00% |  0.79% | Direct
+  24782 | Loosely Threaded Gloves       |  66 |  0.02% |  0.56% |  0.55% | 4000
+  24577 | Loosely Threaded Boots        |  66 |  0.03% |  0.56% |  0.53% | 4000
+  25349 | Moldy Leather Armor           |  66 |  0.05% |  0.56% |  0.51% | 4000
+  25353 | Moldy Leather Gloves          |  66 |  0.05% |  0.56% |  0.51% | 4000
+  25369 | Eroded Mail Circlet           |  66 |  0.05% |  0.56% |  0.51% | 4000
+  25383 | Tarnished Plate Bracers       |  66 |  0.05% |  0.56% |  0.51% | 4000
+  24578 | Loosely Threaded Bracers      |  66 |  0.07% |  0.56% |  0.50% | 4000
+  25352 | Moldy Leather Bracers         |  66 |  0.07% |  0.56% |  0.50% | 4000
+  25355 | Moldy Leather Pants           |  66 |  0.07% |  0.56% |  0.50% | 4000
+  25367 | Eroded Mail Boots             |  66 |  0.07% |  0.56% |  0.50% | 4000
+  25384 | Tarnished Plate Chestpiece    |  66 |  0.07% |  0.56% |  0.50% | 4000
+  25387 | Tarnished Plate Pants         |  66 |  0.07% |  0.56% |  0.50% | 4000
+  24580 | Loosely Threaded Hat          |  66 |  0.08% |  0.56% |  0.48% | 4000
+  25354 | Moldy Leather Helmet          |  66 |  0.08% |  0.56% |  0.48% | 4000
+  25371 | Eroded Mail Pants             |  66 |  0.08% |  0.56% |  0.48% | 4000
+  25386 | Tarnished Plate Helmet        |  66 |  0.08% |  0.56% |  0.48% | 4000
+  24576 | Loosely Threaded Belt         |  66 |  0.10% |  0.56% |  0.46% | 4000
+  25351 | Moldy Leather Boots           |  66 |  0.10% |  0.56% |  0.46% | 4000
+  25356 | Moldy Leather Shoulderpads    |  66 |  0.10% |  0.56% |  0.46% | 4000
+  25368 | Eroded Mail Bracers           |  66 |  0.10% |  0.56% |  0.46% | 4000
+  25381 | Tarnished Plate Belt          |  66 |  0.10% |  0.56% |  0.46% | 4000
+  25350 | Moldy Leather Belt            |  66 |  0.12% |  0.56% |  0.45% | 4000
+  25372 | Eroded Mail Shoulderpads      |  66 |  0.12% |  0.56% |  0.45% | 4000
+  25385 | Tarnished Plate Gloves        |  66 |  0.12% |  0.56% |  0.45% | 4000
+  25402 | The Stoppable Force           |  69 |  0.02% |  0.45% |  0.43% | 4001
+  25338 | Loosely Threaded Pants        |  66 |  0.13% |  0.56% |  0.43% | 4000
+  25366 | Eroded Mail Belt              |  66 |  0.13% |  0.56% |  0.43% | 4000
+  25382 | Tarnished Plate Boots         |  66 |  0.13% |  0.56% |  0.43% | 4000
+  25388 | Tarnished Plate Shoulderpads  |  66 |  0.13% |  0.56% |  0.43% | 4000
+  28399 | Filtered Draenic Water        |  70 |  3.42% |  3.00% |  0.42% | Direct
+  25406 | Broken Longbow                |  69 |  0.07% |  0.45% |  0.38% | 4001
+  25339 | Loosely Threaded Shoulderpads |  66 |  0.18% |  0.56% |  0.38% | 4000
+  25400 | Tarnished Claymore            |  69 |  0.08% |  0.45% |  0.37% | 4001
+  25403 | Sharpened Stilleto            |  69 |  0.08% |  0.45% |  0.37% | 4001
+  25398 | Stone Reaper                  |  69 |  0.10% |  0.45% |  0.35% | 4001
+  25399 | Deteriorating Blade           |  69 |  0.10% |  0.45% |  0.35% | 4001
+  25404 | Dense War Staff               |  69 |  0.10% |  0.45% |  0.35% | 4001
+  25365 | Eroded Mail Armor             |  66 |  0.22% |  0.56% |  0.35% | 4000
+  25405 | Rusted Musket                 |  69 |  0.13% |  0.45% |  0.32% | 4001
+  25397 | Eroded Axe                    |  69 |  0.20% |  0.45% |  0.25% | 4001
+  24920 | Grimscale Armor               |  81 |  0.18% |  0.03% |  0.15% | 4100
+  25296 | Absorption Dagger             |  81 |  0.18% |  0.03% |  0.15% | 4100
+  25058 | Anglesite Choker              |  81 |  0.17% |  0.03% |  0.13% | 4100
+   5759 | Thorium Lockbox               |  55 |  0.33% |  0.20% |  0.13% | Direct
+  24925 | Grimscale Vambraces           |  81 |  0.15% |  0.03% |  0.12% | 4100
+  24586 | Outlander's Leggings          |  81 |  0.13% |  0.03% |  0.10% | 4100
+  24587 | Outlander's Pauldrons         |  81 |  0.13% |  0.03% |  0.10% | 4100
+  24583 | Outlander's Tunic             |  81 |  0.12% |  0.03% |  0.08% | 4100
+  25045 | Azurite Ring                  |  84 |  0.12% |  0.03% |  0.08% | 4101
+  25283 | Crystallized Ebony Wand       |  84 |  0.12% |  0.03% |  0.08% | 4101
+  24582 | Outlander's Boots             |  81 |  0.10% |  0.03% |  0.07% | 4100
+  24700 | Bonechewer Bands              |  81 |  0.10% |  0.03% |  0.07% | 4100
+  24813 | Unyielding Bindings           |  81 |  0.10% |  0.03% |  0.07% | 4100
+  24575 | Outlander's Girdle            |  81 |  0.08% |  0.03% |  0.05% | 4100
+  24584 | Outlander's Gloves            |  81 |  0.08% |  0.03% |  0.05% | 4100
+  24593 | Fireheart Skullcap            |  84 |  0.08% |  0.03% |  0.05% | 4101
+  24693 | Bonechewer Pelt-Girdle        |  81 |  0.08% |  0.03% |  0.05% | 4100
+  24918 | Grimscale Belt                |  81 |  0.08% |  0.03% |  0.05% | 4100
+  31127 | Hauberk of Totemic Rage       |  85 |  0.03% |  0.07% |  0.04% | 4200
+   4500 | Traveler's Backpack           |  55 |  0.05% |  0.09% |  0.04% | 6000
+  24694 | Bonechewer Shredboots         |  81 |  0.07% |  0.03% |  0.03% | 4100
+  24695 | Bonechewer Chestpiece         |  81 |  0.07% |  0.03% |  0.03% | 4100
+  24705 | Haal'eshi Hat                 |  84 |  0.07% |  0.03% |  0.03% | 4101
+  24808 | Unyielding Chain Vest         |  81 |  0.07% |  0.03% |  0.03% | 4100
+  25044 | Rubellite Ring                |  81 |  0.07% |  0.03% |  0.03% | 4100
+  25114 | Doomsayer's Mace              |  81 |  0.07% |  0.03% |  0.03% | 4100
+  25142 | Telaari Longblade             |  81 |  0.07% |  0.03% |  0.03% | 4100
+  25156 | Royal Crusader Sword          |  81 |  0.07% |  0.03% |  0.03% | 4100
+  31125 | Boots of the Decimator        |  85 |  0.05% |  0.07% |  0.02% | 4200
+  24594 | Fireheart Leggings            |  84 |  0.05% |  0.03% |  0.02% | 4101
+  24698 | Bonechewer Ripleggings        |  81 |  0.05% |  0.03% |  0.02% | 4100
+  24699 | Bonechewer Shoulderguards     |  81 |  0.05% |  0.03% |  0.02% | 4100
+  24819 | Felstone Leggings             |  84 |  0.05% |  0.03% |  0.02% | 4101
+  24922 | Grimscale Helm                |  81 |  0.05% |  0.03% |  0.02% | 4100
+  24923 | Grimscale Legguards           |  81 |  0.05% |  0.03% |  0.02% | 4100
+  25030 | Silky Velvet Cloak            |  81 |  0.05% |  0.03% |  0.02% | 4100
+  25212 | Lucky Strike Axe              |  81 |  0.05% |  0.03% |  0.02% | 4100
+  24589 | Fireheart Girdle              |  84 |  0.02% |  0.03% |  0.02% | 4101
+  24696 | Bonechewer Spikegloves        |  81 |  0.02% |  0.03% |  0.02% | 4100
+  24702 | Haal'eshi Boots               |  84 |  0.02% |  0.03% |  0.02% | 4101
+  24706 | Haal'eshi Leggings            |  84 |  0.02% |  0.03% |  0.02% | 4101
+  24806 | Unyielding Waistband          |  81 |  0.02% |  0.03% |  0.02% | 4100
+  24815 | Felstone Greaves              |  84 |  0.02% |  0.03% |  0.02% | 4101
+  24818 | Felstone Helm                 |  84 |  0.02% |  0.03% |  0.02% | 4101
+  24928 | Ango'rosh Breastplate         |  84 |  0.02% |  0.03% |  0.02% | 4101
+  24930 | Ango'rosh Helm                |  84 |  0.02% |  0.03% |  0.02% | 4101
+  25059 | Fire Opal Collar              |  84 |  0.02% |  0.03% |  0.02% | 4101
+  25072 | Northman's Shield             |  81 |  0.02% |  0.03% |  0.02% | 4100
+  25101 | Cross Pommel Dagger           |  84 |  0.02% |  0.03% |  0.02% | 4101
+  25143 | Silver Hand Blade             |  84 |  0.02% |  0.03% |  0.02% | 4101
+  27854 | Smoked Talbuk Venison         |  65 |  7.01% |  7.00% |  0.01% | Direct
+  24585 | Outlander's Facewrap          |  81 |  0.03% |  0.03% |  0.00% | 4100
+  24588 | Outlander's Bracers           |  81 |  0.03% |  0.03% |  0.00% | 4100
+  24701 | Haal'eshi Cord                |  84 |  0.03% |  0.03% |  0.00% | 4101
+  24809 | Unyielding Fists              |  81 |  0.03% |  0.03% |  0.00% | 4100
+  24811 | Unyielding Leggings           |  81 |  0.03% |  0.03% |  0.00% | 4100
+  24817 | Felstone Gauntlets            |  84 |  0.03% |  0.03% |  0.00% | 4101
+  24821 | Felstone Bindings             |  84 |  0.03% |  0.03% |  0.00% | 4101
+  24924 | Grimscale Pauldrons           |  81 |  0.03% |  0.03% |  0.00% | 4100
+  25031 | Silvermoon Royal Cloak        |  84 |  0.03% |  0.03% |  0.00% | 4101
+  25073 | Emperor Shield                |  84 |  0.03% |  0.03% |  0.00% | 4101
+  25100 | Liege Blade                   |  81 |  0.03% |  0.03% |  0.00% | 4100
+  25185 | Thrasher Blades               |  84 |  0.03% |  0.03% |  0.00% | 4101
+  25282 | Mahogany Wand                 |  81 |  0.03% |  0.03% |  0.00% | 4100
+  25297 | Tuning Knife                  |  84 |  0.03% |  0.03% |  0.00% | 4101
+  25310 | Naaru Lightmace               |  81 |  0.03% |  0.03% |  0.00% | 4100
+--------------
+110 common items found.
+
+ Found in WH only:
+   5428 | An Exotic Cookbook            |   1 |  0.05 | WH | --
+  27498 | Scroll of Agility V           |  70 |  0.22 | WH | --
+  27499 | Scroll of Intellect V         |  70 |  0.07 | WH | --
+  27500 | Scroll of Protection V        |  70 |  0.37 | WH | --
+  27501 | Scroll of Spirit V            |  70 |  0.18 | WH | --
+  27502 | Scroll of Stamina V           |  70 |  0.45 | WH | --
+  27503 | Scroll of Strength V          |  70 |  0.22 | WH | --
+--------------
+7 WH-exclusive items found.
+
+ Found in AC only:
+   3914 | Journeyman's Backpack         |  45 |  0.05 | ACDB | 6000
+  13444 | Major Mana Potion             |  59 |  1.00 | ACDB | Direct
+  24590 | Fireheart Boots               |  84 |  0.03 | ACDB | 4101
+  24591 | Fireheart Chestpiece          |  84 |  0.03 | ACDB | 4101
+  24592 | Fireheart Gloves              |  84 |  0.03 | ACDB | 4101
+  24595 | Fireheart Shoulderpads        |  84 |  0.03 | ACDB | 4101
+  24596 | Fireheart Bracers             |  84 |  0.03 | ACDB | 4101
+  24597 | Starfire Sash                 |  87 |  0.03 | ACDB | 4102
+  24598 | Starfire Sandals              |  87 |  0.03 | ACDB | 4102
+  24599 | Starfire Vest                 |  87 |  0.03 | ACDB | 4102
+  24600 | Starfire Gloves               |  87 |  0.03 | ACDB | 4102
+  24601 | Starfire Circlet              |  87 |  0.03 | ACDB | 4102
+  24602 | Starfire Trousers             |  87 |  0.03 | ACDB | 4102
+  24603 | Starfire Mantle               |  87 |  0.03 | ACDB | 4102
+  24604 | Starfire Wristwraps           |  87 |  0.03 | ACDB | 4102
+  24605 | Laughing Skull Waistguard     |  90 |  0.04 | ACDB | 4103
+  24606 | Laughing Skull Boot           |  90 |  0.04 | ACDB | 4103
+  24607 | Laughing Skull Tunic          |  90 |  0.04 | ACDB | 4103
+  24608 | Laughing Skull Gloves         |  90 |  0.04 | ACDB | 4103
+  24609 | Laughing Skull Cap            |  90 |  0.04 | ACDB | 4103
+  24610 | Laughing Skull Pants          |  90 |  0.04 | ACDB | 4103
+  24611 | Laughing Skull Shoulderpads   |  90 |  0.04 | ACDB | 4103
+  24612 | Laughing Skull Bracelets      |  90 |  0.04 | ACDB | 4103
+  24613 | Vindicator Belt               |  93 |  0.03 | ACDB | 4104
+  24614 | Vindicator Boots              |  93 |  0.03 | ACDB | 4104
+  24615 | Vindicator Tunic              |  93 |  0.03 | ACDB | 4104
+  24616 | Vindicator Gloves             |  93 |  0.03 | ACDB | 4104
+  24617 | Vindicator Cap                |  93 |  0.03 | ACDB | 4104
+  24618 | Vindicator Pants              |  93 |  0.03 | ACDB | 4104
+  24619 | Vindicator Shoulderpads       |  93 |  0.03 | ACDB | 4104
+  24620 | Vindicator Bracers            |  93 |  0.03 | ACDB | 4104
+  24621 | Slavehandler Belt             |  96 |  0.03 | ACDB | 4105
+  24622 | Slavehandler Footpads         |  96 |  0.03 | ACDB | 4105
+  24623 | Slavehandler Jerkin           |  96 |  0.03 | ACDB | 4105
+  24624 | Slavehandler Handwraps        |  96 |  0.03 | ACDB | 4105
+  24625 | Slavehandler Cap              |  96 |  0.03 | ACDB | 4105
+  24626 | Slavehandler Pants            |  96 |  0.03 | ACDB | 4105
+  24627 | Slavehandler Amice            |  96 |  0.03 | ACDB | 4105
+  24628 | Slavehandler Wristguards      |  96 |  0.03 | ACDB | 4105
+  24697 | Bonechewer Skincloak          |  81 |  0.03 | ACDB | 4100
+  24703 | Haal'eshi Jerkin              |  84 |  0.03 | ACDB | 4101
+  24704 | Haal'eshi Gloves              |  84 |  0.03 | ACDB | 4101
+  24707 | Haal'eshi Pauldrons           |  84 |  0.03 | ACDB | 4101
+  24708 | Haal'eshi Bindings            |  84 |  0.03 | ACDB | 4101
+  24709 | Vengeance Belt                |  87 |  0.03 | ACDB | 4102
+  24710 | Vengeance Boots               |  87 |  0.03 | ACDB | 4102
+  24711 | Vengeance Chestpiece          |  87 |  0.03 | ACDB | 4102
+  24712 | Vengeance Gloves              |  87 |  0.03 | ACDB | 4102
+  24713 | Vengeance Helm                |  87 |  0.03 | ACDB | 4102
+  24714 | Vengeance Legguards           |  87 |  0.03 | ACDB | 4102
+  24715 | Vengeance Pauldrons           |  87 |  0.03 | ACDB | 4102
+  24716 | Vengeance Bands               |  87 |  0.03 | ACDB | 4102
+  24717 | Dreghood Belt                 |  90 |  0.04 | ACDB | 4103
+  24718 | Dreghood Boots                |  90 |  0.04 | ACDB | 4103
+  24719 | Dreghood Chestpiece           |  90 |  0.04 | ACDB | 4103
+  24720 | Dreghood Gloves               |  90 |  0.04 | ACDB | 4103
+  24721 | Dreghood Cowl                 |  90 |  0.04 | ACDB | 4103
+  24722 | Dreghood Trousers             |  90 |  0.04 | ACDB | 4103
+  24723 | Dreghood Pauldrons            |  90 |  0.04 | ACDB | 4103
+  24724 | Dreghood Bands                |  90 |  0.04 | ACDB | 4103
+  24725 | Dementia Cord                 |  93 |  0.03 | ACDB | 4104
+  24726 | Dementia Boots                |  93 |  0.03 | ACDB | 4104
+  24727 | Dementia Vest                 |  93 |  0.03 | ACDB | 4104
+  24728 | Dementia Gloves               |  93 |  0.03 | ACDB | 4104
+  24729 | Dementia Hood                 |  93 |  0.03 | ACDB | 4104
+  24730 | Dementia Trousers             |  93 |  0.03 | ACDB | 4104
+  24731 | Dementia Shoulderguards       |  93 |  0.03 | ACDB | 4104
+  24732 | Dementia Armguards            |  93 |  0.03 | ACDB | 4104
+  24733 | Sunroc Waistband              |  96 |  0.03 | ACDB | 4105
+  24734 | Sunroc Boots                  |  96 |  0.03 | ACDB | 4105
+  24735 | Sunroc Chestpiece             |  96 |  0.03 | ACDB | 4105
+  24736 | Sunroc Gloves                 |  96 |  0.03 | ACDB | 4105
+  24737 | Sunroc Mask                   |  96 |  0.03 | ACDB | 4105
+  24738 | Sunroc Pants                  |  96 |  0.03 | ACDB | 4105
+  24739 | Sunroc Shoulderguards         |  96 |  0.03 | ACDB | 4105
+  24740 | Sunroc Armguards              |  96 |  0.03 | ACDB | 4105
+  24807 | Unyielding Footwraps          |  81 |  0.03 | ACDB | 4100
+  24810 | Unyielding Helm               |  81 |  0.03 | ACDB | 4100
+  24812 | Unyielding Spaulders          |  81 |  0.03 | ACDB | 4100
+  24814 | Felstone Waistband            |  84 |  0.03 | ACDB | 4101
+  24816 | Felstone Chain Vest           |  84 |  0.03 | ACDB | 4101
+  24820 | Felstone Spaulders            |  84 |  0.03 | ACDB | 4101
+  24822 | Netherstalker Belt            |  87 |  0.03 | ACDB | 4102
+  24823 | Netherstalker Greaves         |  87 |  0.03 | ACDB | 4102
+  24824 | Netherstalker Armor           |  87 |  0.03 | ACDB | 4102
+  24825 | Netherstalker Gloves          |  87 |  0.03 | ACDB | 4102
+  24826 | Netherstalker Helmet          |  87 |  0.03 | ACDB | 4102
+  24827 | Netherstalker Legguards       |  87 |  0.03 | ACDB | 4102
+  24828 | Netherstalker Mantle          |  87 |  0.03 | ACDB | 4102
+  24829 | Netherstalker Bracer          |  87 |  0.03 | ACDB | 4102
+  24830 | Nexus-Strider Belt            |  90 |  0.04 | ACDB | 4103
+  24831 | Nexus-Strider Greaves         |  90 |  0.04 | ACDB | 4103
+  24832 | Nexus-Strider Breastplate     |  90 |  0.04 | ACDB | 4103
+  24833 | Nexus-Strider Gloves          |  90 |  0.04 | ACDB | 4103
+  24834 | Nexus-Strider Helmet          |  90 |  0.04 | ACDB | 4103
+  24835 | Nexus-Strider Legwraps        |  90 |  0.04 | ACDB | 4103
+  24836 | Nexus-Strider Mantle          |  90 |  0.04 | ACDB | 4103
+  24837 | Nexus-Strider Bracer          |  90 |  0.04 | ACDB | 4103
+  24838 | Wrathfin Waistband            |  93 |  0.03 | ACDB | 4104
+  24839 | Wrathfin Greaves              |  93 |  0.03 | ACDB | 4104
+  24840 | Wrathfin Armor                |  93 |  0.03 | ACDB | 4104
+  24841 | Wrathfin Gloves               |  93 |  0.03 | ACDB | 4104
+  24842 | Wrathfin Helmet               |  93 |  0.03 | ACDB | 4104
+  24843 | Wrathfin Legguards            |  93 |  0.03 | ACDB | 4104
+  24844 | Wrathfin Mantle               |  93 |  0.03 | ACDB | 4104
+  24845 | Wrathfin Bindings             |  93 |  0.03 | ACDB | 4104
+  24846 | Fenclaw Waistband             |  96 |  0.03 | ACDB | 4105
+  24847 | Fenclaw Footwraps             |  96 |  0.03 | ACDB | 4105
+  24848 | Fenclaw Armor                 |  96 |  0.03 | ACDB | 4105
+  24849 | Fenclaw Fists                 |  96 |  0.03 | ACDB | 4105
+  24850 | Fenclaw Helm                  |  96 |  0.03 | ACDB | 4105
+  24851 | Fenclaw Legguards             |  96 |  0.03 | ACDB | 4105
+  24852 | Fenclaw Mantle                |  96 |  0.03 | ACDB | 4105
+  24853 | Fenclaw Bindings              |  96 |  0.03 | ACDB | 4105
+  24919 | Grimscale Sabatons            |  81 |  0.03 | ACDB | 4100
+  24921 | Grimscale Gauntlets           |  81 |  0.03 | ACDB | 4100
+  24926 | Ango'rosh Belt                |  84 |  0.03 | ACDB | 4101
+  24927 | Ango'rosh Sabatons            |  84 |  0.03 | ACDB | 4101
+  24929 | Ango'rosh Gauntlets           |  84 |  0.03 | ACDB | 4101
+  24931 | Ango'rosh Legguards           |  84 |  0.03 | ACDB | 4101
+  24932 | Ango'rosh Pauldrons           |  84 |  0.03 | ACDB | 4101
+  24933 | Ango'rosh Vambraces           |  84 |  0.03 | ACDB | 4101
+  24934 | Darkcrest Belt                |  87 |  0.03 | ACDB | 4102
+  24935 | Darkcrest Sabatons            |  87 |  0.03 | ACDB | 4102
+  24936 | Darkcrest Breastplate         |  87 |  0.03 | ACDB | 4102
+  24937 | Darkcrest Gauntlets           |  87 |  0.03 | ACDB | 4102
+  24938 | Darkcrest Helm                |  87 |  0.03 | ACDB | 4102
+  24939 | Darkcrest Legguards           |  87 |  0.03 | ACDB | 4102
+  24940 | Darkcrest Pauldrons           |  87 |  0.03 | ACDB | 4102
+  24941 | Darkcrest Bracers             |  87 |  0.03 | ACDB | 4102
+  24942 | Bloodscale Belt               |  90 |  0.04 | ACDB | 4103
+  24943 | Bloodscale Sabatons           |  90 |  0.04 | ACDB | 4103
+  24944 | Bloodscale Breastplate        |  90 |  0.04 | ACDB | 4103
+  24945 | Bloodscale Gauntlets          |  90 |  0.04 | ACDB | 4103
+  24946 | Bloodscale Helm               |  90 |  0.04 | ACDB | 4103
+  24947 | Bloodscale Legguards          |  90 |  0.04 | ACDB | 4103
+  24948 | Bloodscale Pauldrons          |  90 |  0.04 | ACDB | 4103
+  24949 | Bloodscale Bracers            |  90 |  0.04 | ACDB | 4103
+  24950 | Bogslayer Belt                |  93 |  0.03 | ACDB | 4104
+  24951 | Bogslayer Sabatons            |  93 |  0.03 | ACDB | 4104
+  24952 | Bogslayer Breastplate         |  93 |  0.03 | ACDB | 4104
+  24953 | Bogslayer Gauntlets           |  93 |  0.03 | ACDB | 4104
+  24954 | Bogslayer Helm                |  93 |  0.03 | ACDB | 4104
+  24955 | Bogslayer Legplates           |  93 |  0.03 | ACDB | 4104
+  24956 | Bogslayer Pauldrons           |  93 |  0.03 | ACDB | 4104
+  24957 | Bogslayer Bracers             |  93 |  0.03 | ACDB | 4104
+  24958 | Khan'aish Girdle              |  96 |  0.03 | ACDB | 4105
+  24959 | Khan'aish Greaves             |  96 |  0.03 | ACDB | 4105
+  24960 | Khan'aish Breastplate         |  96 |  0.03 | ACDB | 4105
+  24961 | Khan'aish Gloves              |  96 |  0.03 | ACDB | 4105
+  24962 | Khan'aish Helmet              |  96 |  0.03 | ACDB | 4105
+  24963 | Khan'aish Legplates           |  96 |  0.03 | ACDB | 4105
+  24964 | Khan'aish Epaulets            |  96 |  0.03 | ACDB | 4105
+  24965 | Khan'aish Bracers             |  96 |  0.03 | ACDB | 4105
+  25032 | Hellfire Cloak                |  87 |  0.03 | ACDB | 4102
+  25033 | Scavenger's Cloak             |  90 |  0.04 | ACDB | 4103
+  25034 | Elementalist Cloak            |  93 |  0.03 | ACDB | 4104
+  25035 | Silver-Lined Cloak            |  96 |  0.03 | ACDB | 4105
+  25046 | Spined Ring                   |  87 |  0.03 | ACDB | 4102
+  25047 | Tourmaline Loop               |  90 |  0.04 | ACDB | 4103
+  25048 | Smoky Quartz Ring             |  93 |  0.03 | ACDB | 4104
+  25049 | Scheelite Ring                |  96 |  0.03 | ACDB | 4105
+  25060 | Sunstone Necklace             |  87 |  0.03 | ACDB | 4102
+  25061 | Hiddenite Necklace            |  90 |  0.04 | ACDB | 4103
+  25062 | Zircon Amulet                 |  93 |  0.03 | ACDB | 4104
+  25063 | Multi-Colored Beads           |  96 |  0.03 | ACDB | 4105
+  25074 | Telaari Shield                |  87 |  0.03 | ACDB | 4102
+  25075 | Hardened Steel Shield         |  90 |  0.04 | ACDB | 4103
+  25076 | Screaming Shield              |  93 |  0.03 | ACDB | 4104
+  25077 | Modani War-Shield             |  96 |  0.03 | ACDB | 4105
+  25086 | Dreamseeker Dandelion         |  81 |  0.03 | ACDB | 4100
+  25087 | Bleeding Eye                  |  84 |  0.03 | ACDB | 4101
+  25088 | Laughing Skull Orb            |  87 |  0.03 | ACDB | 4102
+  25089 | Supplicant's Rod              |  90 |  0.04 | ACDB | 4103
+  25090 | Slavehandler Rod              |  93 |  0.03 | ACDB | 4104
+  25091 | Mistyreed Torch               |  96 |  0.03 | ACDB | 4105
+  25102 | Jaedenis Dagger               |  87 |  0.03 | ACDB | 4102
+  25103 | Nightstalker Dagger           |  90 |  0.04 | ACDB | 4103
+  25104 | Anzac Dagger                  |  93 |  0.03 | ACDB | 4104
+  25105 | Arachnid Dagger               |  96 |  0.03 | ACDB | 4105
+  25115 | Riversong Mace                |  84 |  0.03 | ACDB | 4101
+  25116 | Pneumatic War Hammer          |  87 |  0.03 | ACDB | 4102
+  25117 | Flanged Battle Mace           |  90 |  0.04 | ACDB | 4103
+  25118 | Battle Star                   |  93 |  0.03 | ACDB | 4104
+  25119 | Silvermoon War-Mace           |  96 |  0.03 | ACDB | 4105
+  25128 | Shining Mace                  |  81 |  0.03 | ACDB | 4100
+  25129 | Giant's Leg Bone              |  84 |  0.03 | ACDB | 4101
+  25130 | Gronn-Bone Club               |  87 |  0.03 | ACDB | 4102
+  25131 | Hateful Bludgeon              |  90 |  0.04 | ACDB | 4103
+  25132 | Thrallmar War Hammer          |  93 |  0.03 | ACDB | 4104
+  25133 | Stormwind Maul                |  96 |  0.03 | ACDB | 4105
+  25144 | Skettis Curved Blade          |  87 |  0.03 | ACDB | 4102
+  25146 | Light-Etched Longsword        |  93 |  0.03 | ACDB | 4104
+  25147 | Skystrider Katana             |  96 |  0.03 | ACDB | 4105
+  25157 | Serpentlord Claymore          |  84 |  0.03 | ACDB | 4101
+  25158 | Skeletal Broadsword           |  87 |  0.03 | ACDB | 4102
+  25160 | Vengeance Blade               |  93 |  0.03 | ACDB | 4104
+  25161 | Dragon Wing Blade             |  96 |  0.03 | ACDB | 4105
+  25170 | Rattan Bo Staff               |  81 |  0.03 | ACDB | 4100
+  25171 | Straight Hardwood Staff       |  84 |  0.03 | ACDB | 4101
+  25172 | Jinbali Warp-Staff            |  87 |  0.03 | ACDB | 4102
+  25174 | Hanbo Staff                   |  93 |  0.03 | ACDB | 4104
+  25175 | Demoniac Longstaff            |  96 |  0.03 | ACDB | 4105
+  25184 | Ravager Claws                 |  81 |  0.03 | ACDB | 4100
+  25186 | Vampiric Handscythes          |  87 |  0.03 | ACDB | 4102
+  25187 | Shekketh Talons               |  90 |  0.04 | ACDB | 4103
+  25188 | Spleenripper Claws            |  93 |  0.03 | ACDB | 4104
+  25189 | Ironspine Point               |  96 |  0.03 | ACDB | 4105
+  25198 | Karaborian Battle Axe         |  81 |  0.03 | ACDB | 4100
+  25199 | Knight's War Axe              |  84 |  0.03 | ACDB | 4101
+  25200 | Jagged Broadaxe               |  87 |  0.03 | ACDB | 4102
+  25201 | Reaver's Sickle               |  90 |  0.04 | ACDB | 4103
+  25202 | Kingly Axe                    |  93 |  0.03 | ACDB | 4104
+  25203 | Chipped Woodchopper           |  96 |  0.03 | ACDB | 4105
+  25213 | Fel-Touched Axe               |  84 |  0.03 | ACDB | 4101
+  25214 | Mok'Nathal Battleaxe          |  87 |  0.03 | ACDB | 4102
+  25215 | Spiked Battle Axe             |  90 |  0.04 | ACDB | 4103
+  25216 | Ogre Splitting Axe            |  93 |  0.03 | ACDB | 4104
+  25217 | Sundering Axe                 |  96 |  0.03 | ACDB | 4105
+  25226 | War Scythe                    |  81 |  0.03 | ACDB | 4100
+  25227 | Sha'tari Longspear            |  84 |  0.03 | ACDB | 4101
+  25228 | Halberd Polearm               |  87 |  0.03 | ACDB | 4102
+  25229 | Partisan Polearm              |  90 |  0.04 | ACDB | 4103
+  25230 | Voulge Blade                  |  93 |  0.03 | ACDB | 4104
+  25231 | Fel-Wrought Halberd           |  96 |  0.03 | ACDB | 4105
+  25240 | Azerothian Longbow            |  81 |  0.03 | ACDB | 4100
+  25241 | Ashenvale Longbow             |  84 |  0.03 | ACDB | 4101
+  25242 | Telaari Longbow               |  87 |  0.03 | ACDB | 4102
+  25243 | Windtalker Bow                |  90 |  0.04 | ACDB | 4103
+  25244 | Viper Bow                     |  93 |  0.03 | ACDB | 4104
+  25245 | Razorsong Bow                 |  96 |  0.03 | ACDB | 4105
+  25254 | Tower Crossbow                |  81 |  0.03 | ACDB | 4100
+  25255 | Ram's Head Crossbow           |  84 |  0.03 | ACDB | 4101
+  25256 | Stronghold Crossbow           |  87 |  0.03 | ACDB | 4102
+  25257 | Citadel Crossbow              |  90 |  0.04 | ACDB | 4103
+  25258 | Repeater Crossbow             |  93 |  0.03 | ACDB | 4104
+  25259 | Collapsible Crossbow          |  96 |  0.03 | ACDB | 4105
+  25268 | Lead-Slug Shotgun             |  81 |  0.03 | ACDB | 4100
+  25269 | Longbeard Rifle               |  84 |  0.03 | ACDB | 4101
+  25270 | Gnomish Assault Rifle         |  87 |  0.03 | ACDB | 4102
+  25271 | Croc-Hunter's Rifle           |  90 |  0.04 | ACDB | 4103
+  25272 | PC-54 Shotgun                 |  93 |  0.03 | ACDB | 4104
+  25273 | Sawed-Off Shotgun             |  96 |  0.03 | ACDB | 4105
+  25284 | Purpleheart Wand              |  87 |  0.03 | ACDB | 4102
+  25286 | Yew Wand                      |  93 |  0.03 | ACDB | 4104
+  25287 | Magician's Wand               |  96 |  0.03 | ACDB | 4105
+  25298 | Combustion Dagger             |  87 |  0.03 | ACDB | 4102
+  25299 | Siphoning Dagger              |  90 |  0.04 | ACDB | 4103
+  25300 | Lightning Dagger              |  93 |  0.03 | ACDB | 4104
+  25301 | Shattering Dagger             |  96 |  0.03 | ACDB | 4105
+  25311 | Revitalizing Hammer           |  84 |  0.03 | ACDB | 4101
+  25312 | Glorious Scepter              |  87 |  0.03 | ACDB | 4102
+  25313 | Cold-Iron Scepter             |  90 |  0.04 | ACDB | 4103
+  25314 | Ceremonial Hammer             |  93 |  0.03 | ACDB | 4104
+  25315 | Restorative Mace              |  96 |  0.03 | ACDB | 4105
+  25324 | Angerstaff                    |  81 |  0.03 | ACDB | 4100
+  25325 | Brutal Scar-Limb              |  84 |  0.03 | ACDB | 4101
+  25326 | Primal Lore-Staff             |  87 |  0.03 | ACDB | 4102
+  25327 | Frenzied Staff                |  90 |  0.04 | ACDB | 4103
+  25328 | Faerie-Kind Staff             |  93 |  0.03 | ACDB | 4104
+  25329 | Tranquility Staff             |  96 |  0.03 | ACDB | 4105
+  25340 | Loosely Threaded Vest         |  66 |  0.56 | ACDB | 4000
+  25370 | Eroded Mail Gloves            |  66 |  0.56 | ACDB | 4000
+  25401 | Corroded Mace                 |  69 |  0.45 | ACDB | 4001
+  28531 | Barbed Shrike                 |  81 |  0.03 | ACDB | 4100
+  28532 | Silver Throwing Knives        |  84 |  0.03 | ACDB | 4101
+  28533 | Wooden Boomerang              |  87 |  0.03 | ACDB | 4102
+  28534 | Fel Tipped Dart               |  90 |  0.04 | ACDB | 4103
+  28535 | Amani Throwing Axe            |  93 |  0.03 | ACDB | 4104
+  28536 | Jagged Guillotine             |  96 |  0.03 | ACDB | 4105
+  31126 | Gloves of Ferocity            |  85 |  0.07 | ACDB | 4200
+  31131 | Sash of Silent Blades         |  85 |  0.07 | ACDB | 4200
+  31133 | Leggings of Concentrated Darkn|  85 |  0.07 | ACDB | 4200
+  31134 | Blade of Misfortune           |  85 |  0.07 | ACDB | 4200
+  31136 | Breastplate of Blade Turning  |  88 |  0.07 | ACDB | 4201
+  31137 | Gauntlets of Purification     |  88 |  0.07 | ACDB | 4201
+  31138 | Storm Lord's Girdle           |  88 |  0.07 | ACDB | 4201
+  31139 | Fist of Reckoning             |  88 |  0.07 | ACDB | 4201
+  31140 | Cloak of Entropy              |  88 |  0.07 | ACDB | 4201
+  31142 | Blade of Trapped Knowledge    |  88 |  0.07 | ACDB | 4201
+  31143 | Shroud of Frenzy              |  91 |  0.07 | ACDB | 4202
+  31145 | Headdress of the Sleeper      |  91 |  0.07 | ACDB | 4202
+  31147 | Pendant of Cunning            |  91 |  0.07 | ACDB | 4202
+  31148 | Demon Hide Spaulders          |  91 |  0.07 | ACDB | 4202
+  31149 | Gloves of Pandemonium         |  91 |  0.07 | ACDB | 4202
+  31150 | Gloves of Piety               |  91 |  0.07 | ACDB | 4202
+  31151 | Girdle of Siege               |  94 |  0.07 | ACDB | 4203
+  31152 | Chestguard of Illumination    |  94 |  0.07 | ACDB | 4203
+  31153 | Axe of the Legion             |  94 |  0.07 | ACDB | 4203
+  31173 | Boots of Savagery             |  94 |  0.07 | ACDB | 4203
+  31175 | Blade Dancer's Wristguards    |  94 |  0.07 | ACDB | 4203
+  31178 | Amulet of Unstable Power      |  94 |  0.07 | ACDB | 4203
+  31180 | Gauntlets of the Skullsplitter|  97 |  0.07 | ACDB | 4204
+  31186 | Braxxis' Staff of Slumber     |  97 |  0.07 | ACDB | 4204
+  31187 | Boots of the Pathfinder       |  97 |  0.07 | ACDB | 4204
+  31190 | The Dreamer's Shoulderpads    |  97 |  0.07 | ACDB | 4204
+  31193 | Blade of Unquenched Thirst    |  97 |  0.07 | ACDB | 4204
+  31196 | Amulet of Sanctification      |  97 |  0.07 | ACDB | 4204
+  33457 | Scroll of Agility VI          |  70 |  0.33 | ACDB | 6003
+  33458 | Scroll of Intellect VI        |  70 |  0.33 | ACDB | 6003
+  33459 | Scroll of Protection VI       |  70 |  0.33 | ACDB | 6003
+  33460 | Scroll of Spirit VI           |  70 |  0.33 | ACDB | 6003
+  33461 | Scroll of Stamina VI          |  70 |  0.33 | ACDB | 6003
+  33462 | Scroll of Strength VI         |  70 |  0.33 | ACDB | 6003
+--------------
+304 AC-exclusive items found.

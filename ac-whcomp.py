@@ -6,7 +6,7 @@
 #        - need to sort out recursive RLTs [x]
 #        - add RLT numbers to WH-only and AC-WH listings [x]
 #        - with dict collisions, update associated item drop chance instead of discarding [x]
-#        - extract NPC name for more useful file name
+#        - extract NPC name for more useful file name [x]
 
 from mysql.connector import connect, Error
 import requests
@@ -54,7 +54,7 @@ def get_ac_rlt_items(npc_id, item_qual, db, cursor):
 
     while rltlist:
         rlt_id, rlt_chance = rltlist.pop()
-        query = ('SELECT it.entry, it.name, it.itemlevel, it.quality '
+        query = ('SELECT it.entry, it.name, it.itemlevel, it.quality, rlt.chance '
                  'FROM `item_template` it '
                  'JOIN `reference_loot_template` rlt ON it.entry = rlt.item '
                  f'WHERE rlt.entry = {rlt_id} AND rlt.reference = 0')
@@ -63,8 +63,12 @@ def get_ac_rlt_items(npc_id, item_qual, db, cursor):
         cursor.execute(query)
         rlt_itemlist = cursor.fetchall()
         if rlt_itemlist: # some RLTS are empty of items and just hold other RLTs
-            item_dropchance = round(rlt_chance / len(rlt_itemlist), 2)
             for item in rlt_itemlist:
+                if item[4]: # checks if a drop chance is given
+                    item_dropchance = (rlt_chance / 100 * item[4] / 100) * 100
+                else: # if not, then we're just picking from the list of items at random
+                    item_dropchance = round(rlt_chance / len(rlt_itemlist), 3)
+
                 if item[0] not in itemdict:
                     itemdict[item[0]] = Item(item[0], item[1], item[2], item_dropchance,
                                              item[3], 'ACDB', rlt_id)
@@ -246,9 +250,10 @@ def output_data(npc_id, results, item_quality=0):
     save_data(savefilename, outstr)
 
 def main():
-    npc_id = 938
-    # optional, defaults to 0, where 0 = grey/all items, 1 = white, 2 = green, 3 = blue
-    item_quality = 3
+    npc_id = 16876
+    # optional, minimum item quality to scan, defaults to 0, where
+    # 0 = all items, 1 = white, 2 = green, 3 = blue
+    item_quality = 0
     results = compare_drops(npc_id, item_quality)
     output_data(npc_id, results, item_quality)
 
