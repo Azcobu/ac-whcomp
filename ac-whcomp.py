@@ -7,6 +7,7 @@
 #        - add RLT numbers to WH-only and AC-WH listings [x]
 #        - with dict collisions, update associated item drop chance instead of discarding [x]
 #        - extract NPC name for more useful file name [x]
+#        - tracks which RLTs are AC-only and can thus be deleted
 
 from mysql.connector import connect, Error
 import requests
@@ -96,7 +97,7 @@ def get_npc_name(npc_id, cursor):
 
 def get_ac_items(npc_id, item_qual):
     itemdict = {}
-    db, cursor = open_sql_db('acore', 'password')
+    db, cursor = open_sql_db('acore', 'acore')
 
     query = ('SELECT it.entry, it.name, it.itemlevel, clt.chance, it.quality '
              'FROM `creature_template` ct '
@@ -200,24 +201,31 @@ def compare_drops(npc_id, item_qual=0):
     ac_only, wh_only, both = [], [], []
     ac_items, npc_name = get_ac_items(npc_id, item_qual)
     wh_items = get_wh_items(npc_id, item_qual)
+    rlts = {'Both':[], 'AC only':[]}
 
     for k, v in wh_items.items():
         if k in ac_items:
             both.append(generate_merged_item(v, ac_items[k]))
+            rlts['Both'].append(ac_items[k].rlt)
             del ac_items[k]
         else:
             wh_only.append(v)
     for k, v in ac_items.items():
         ac_only.append(v)
+        rlts['AC only'].append(v.rlt)
+        
+    rlts = {k:set(v) for k, v in rlts.items()}
+    ac_only_rlts = sorted(list(rlts['AC only'] - rlts['Both']))
+    both_rlts = sorted([x for x in rlts['Both'] if x != 'Direct'])
 
     both = sorted(both, key = lambda x:x[5], reverse=True)
     ac_only = sorted(ac_only, key = lambda x:x.it_id)
     wh_only = sorted(wh_only, key = lambda x:x.it_id)
-    return both, ac_only, wh_only, npc_name
+    return both, ac_only, wh_only, npc_name, ac_only_rlts, both_rlts
 
 def output_data(npc_id, results, item_quality=0):
     outstr = []
-    both, ac_only, wh_only, npc_name = results
+    both, ac_only, wh_only, npc_name, ac_only_rlts, both_rlts = results
 
     if both:
         maxwidth = max([len(x[1]) for x in both]) + 1
@@ -239,7 +247,10 @@ def output_data(npc_id, results, item_quality=0):
     outstr.append('\n Found in AC only:\n')
     for item in ac_only:
         outstr.append(str(item) + '\n')
-    outstr.append(f'--------------\n{len(ac_only)} AC-exclusive items found.\n')
+    outstr.append(f'--------------\n{len(ac_only)} AC-exclusive items found.\n\n')
+    
+    outstr.append(f'RLTs found only in AC (can be deleted): {ac_only_rlts}\n')
+    outstr.append(f'RLTs found in both: {both_rlts}')
 
     outstr = ''.join(outstr)
     savefilename = f'{npc_name} {npc_id} - Item Comparison'
@@ -250,7 +261,7 @@ def output_data(npc_id, results, item_quality=0):
     save_data(savefilename, outstr)
 
 def main():
-    npc_id = 16876
+    npc_id = 435
     # optional, minimum item quality to scan, defaults to 0, where
     # 0 = all items, 1 = white, 2 = green, 3 = blue
     item_quality = 0
