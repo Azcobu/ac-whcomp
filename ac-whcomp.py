@@ -97,7 +97,7 @@ def get_npc_name(npc_id, cursor):
 
 def get_ac_items(npc_id, item_qual):
     itemdict = {}
-    db, cursor = open_sql_db('acore', 'acore')
+    db, cursor = open_sql_db('acore', 'password')
 
     query = ('SELECT it.entry, it.name, it.itemlevel, clt.chance, it.quality '
              'FROM `creature_template` ct '
@@ -213,7 +213,7 @@ def compare_drops(npc_id, item_qual=0):
     for k, v in ac_items.items():
         ac_only.append(v)
         rlts['AC only'].append(v.rlt)
-        
+
     rlts = {k:set(v) for k, v in rlts.items()}
     ac_only_rlts = sorted(list(rlts['AC only'] - rlts['Both']))
     both_rlts = sorted([x for x in rlts['Both'] if x != 'Direct'])
@@ -248,8 +248,8 @@ def output_data(npc_id, results, item_quality=0):
     for item in ac_only:
         outstr.append(str(item) + '\n')
     outstr.append(f'--------------\n{len(ac_only)} AC-exclusive items found.\n\n')
-    
-    outstr.append(f'RLTs found only in AC (can be deleted): {ac_only_rlts}\n')
+
+    outstr.append(f'RLTs found only in AC (can be deleted): {ac_only_rlts or "None."}\n')
     outstr.append(f'RLTs found in both: {both_rlts}')
 
     outstr = ''.join(outstr)
@@ -261,7 +261,7 @@ def output_data(npc_id, results, item_quality=0):
     save_data(savefilename, outstr)
 
 def main():
-    npc_id = 435
+    npc_id = 4093
     # optional, minimum item quality to scan, defaults to 0, where
     # 0 = all items, 1 = white, 2 = green, 3 = blue
     item_quality = 0
