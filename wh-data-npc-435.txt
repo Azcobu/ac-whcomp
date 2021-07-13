@@ -36,12 +36,21 @@
     <script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Person","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/tbc.wowhead.com\/npc=435\/blackrock-champion"},"name":"Blackrock Champion","url":"https:\/\/tbc.wowhead.com\/npc=435\/blackrock-champion","logo":"https:\/\/wow.zamimg.com\/images\/logos\/wh-logo.png","publisher":{"@type":"Organization","name":"Wowhead Logo","logo":{"@type":"ImageObject","url":"https:\/\/wow.zamimg.com\/images\/logos\/amp-valid.png","width":395,"height":60}},"description":"Blackrock Champion is a level 24 - 25 NPC that can be found in Redridge Mountains. This NPC can be found in Redridge Mountains. This NPC is the objective of Blackrock Bounty.","image":{"@type":"ImageObject","url":"https:\/\/wow.zamimg.com\/uploads\/screenshots\/normal\/76951-blackrock-champion.jpg","height":732,"width":564}}</script>
 
 
+<<<<<<< HEAD
 <link rel="stylesheet" type="text/css" href="https://wow.zamimg.com/css/classic/basic.css?f5c9027" onerror="location.href=&quot;/error-static-cdn?reason=css&amp;hash=f5c9027&amp;at=1625136457&quot;;">
 <link rel="stylesheet" type="text/css" href="https://wow.zamimg.com/css/classic/global.css?f5c9027">
 <link rel="stylesheet" type="text/css" href="https://wow.zamimg.com/css/themes/classic.css?f5c9027">
 <link rel="stylesheet" type="text/css" href="https://wow.zamimg.com/css/classic/tools/partials/class-selector.css?f5c9027">
 
 <script src="https://wow.zamimg.com/js/preamble.js?f5c9027" onerror="location.href=&quot;/error-static-cdn?reason=js&amp;hash=f5c9027&amp;at=1625136457&quot;;"></script>
+=======
+<link rel="stylesheet" type="text/css" href="https://wow.zamimg.com/css/classic/basic.css?bed2c33" onerror="location.href=&quot;/error-static-cdn?reason=css&amp;hash=bed2c33&amp;at=1625019694&quot;;">
+<link rel="stylesheet" type="text/css" href="https://wow.zamimg.com/css/classic/global.css?bed2c33">
+<link rel="stylesheet" type="text/css" href="https://wow.zamimg.com/css/themes/classic.css?bed2c33">
+<link rel="stylesheet" type="text/css" href="https://wow.zamimg.com/css/classic/tools/partials/class-selector.css?bed2c33">
+
+<script src="https://wow.zamimg.com/js/preamble.js?bed2c33" onerror="location.href=&quot;/error-static-cdn?reason=js&amp;hash=bed2c33&amp;at=1625019694&quot;;"></script>
+>>>>>>> 638569dc2a69b9204938fb534111231acf989aac
     <script>
         g_user = {"id":0,"name":"","roles":0,"permissions":0,"ads":true,"canDeleteComments":false};
     </script>
@@ -50,6 +59,7 @@
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 
+<<<<<<< HEAD
 <script type="application/json" id="data.pageMeta">{"dataBuild":{"1":"39226","2":"39069","4":"38363","5":"38988"},"dataEnv":{"env":5,"tree":5,"active":{"ptr":true,"beta":false},"versions":{"1":"9.1.0","2":"9.1.0","3":"9.0.2","4":"1.13.7","5":"2.5.1"}},"event":null,"hasSidebar":true,"page":"npc","serverTime":"2021-07-01T05:47:37-05:00","scriptVersionQueryString":"f5c9027","staticUrl":"https:\/\/wow.zamimg.com","theme":"classic","wowhead":true,"staticResizing":{"limit":3000,"throttle":{"start":3000,"percent":0}}}</script>
 <script type="application/json" id="data.notifications.public-key">"BCv9I9cvqAYEi2ddxSOqAbkm8KTL-CNlIGmXk8R7ievkXR7QfBrNtkXQqk73vleylt5MlZQ8jFQ-tEQ_ObVxxMI"</script>
 <script type="application/json" id="data.page.info">{"commentsLocked":false,"entityId":435,"entityType":1}</script>
@@ -65,6 +75,23 @@
     <script src="https://wow.zamimg.com/js/global.js?f5c9027"></script>
     <script src="https://wow.zamimg.com/js/WH/Page/Npc.js?f5c9027"></script>
     <script src="https://wow.zamimg.com/js/WH/Listview/Templates/comment.js?f5c9027"></script>
+=======
+<script type="application/json" id="data.pageMeta">{"dataBuild":{"1":"39185","2":"39069","4":"38363","5":"38988"},"dataEnv":{"env":5,"tree":5,"active":{"ptr":true,"beta":false},"versions":{"1":"9.1.0","2":"9.1.0","3":"9.0.2","4":"1.13.7","5":"2.5.1"}},"event":"pride","hasSidebar":true,"page":"npc","serverTime":"2021-06-29T21:21:34-05:00","scriptVersionQueryString":"bed2c33","staticUrl":"https:\/\/wow.zamimg.com","theme":"classic","wowhead":true,"staticResizing":{"limit":3000,"throttle":{"start":3000,"percent":0}}}</script>
+<script type="application/json" id="data.notifications.public-key">"BCv9I9cvqAYEi2ddxSOqAbkm8KTL-CNlIGmXk8R7ievkXR7QfBrNtkXQqk73vleylt5MlZQ8jFQ-tEQ_ObVxxMI"</script>
+<script type="application/json" id="data.page.info">{"commentsLocked":false,"entityId":435,"entityType":1}</script>
+
+    <script src="https://wow.zamimg.com/js/basic.js?bed2c33"></script>
+    <script src="https://wow.zamimg.com/widgets/power.js?bed2c33"></script>
+    <script src="https://wow.zamimg.com/global-strings/tbc.enus.js?hash=z2bNF3lBxO-rt536xBwe5g"></script>
+    <script src="/menus?0656e96139590e700f66fe28b7f9dca7"></script>
+    <script src="https://wow.zamimg.com/js/locale/live.enus.js?bed2c33"></script>
+    <script src="https://wow.zamimg.com/js/locale/tbc.enus.js?bed2c33"></script>
+    <script src="https://wow.zamimg.com/js/locale-post-processing.js?bed2c33"></script>
+    <script src="/data/global?locale=0&dataEnv=5&dv=19&b=38988&versionsSig=e63f2d6e284ccd8152b4ef2eb2b9fd97"></script>
+    <script src="https://wow.zamimg.com/js/global.js?bed2c33"></script>
+    <script src="https://wow.zamimg.com/js/WH/Page/Npc.js?bed2c33"></script>
+    <script src="https://wow.zamimg.com/js/WH/Listview/Templates/comment.js?bed2c33"></script>
+>>>>>>> 638569dc2a69b9204938fb534111231acf989aac
 
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -158,6 +185,23 @@ WH.Track.gaInit();
         <div class="main-contents" id="main-contents">
             <div id="announcement-0"></div>
 
+<<<<<<< HEAD
+=======
+<div id="announcement-416"></div>
+<script type="text/javascript">
+    new Announcement({
+        parent: 'announcement-416',
+        id: 416,
+        text: "[div class=announcement-content-image][url=https:\/\/tiltify.com\/@wowhead\/wowheads-2021-pride-fundraiser][img src=\"https:\/\/wow.zamimg.com\/uploads\/screenshots\/normal\/1025803.png?maxHeight=120\" border=0][\/url][\/div]\r\n[div class=announcement-content-title][b][url=https:\/\/www.wowhead.com\/news\/wowhead-pride-pin-and-fundraiser-to-benefit-the-trevor-project-322737]Last Call: Wowhead's 2021 Pride Fundraiser benefiting The Trevor Project[\/url][\/b][\/div]\r\n[div class=announcement-content-content]We've achieved [b]over $24,000[\/b] in donations! All stretch goals and rewards have been unlocked! [b]Donations of $25 or more[\/b] will earn you up to [b]FOUR[\/b] of these limited edition pins and more![pad]\r\n[cta-button=https:\/\/tiltify.com\/@wowhead\/wowheads-2021-pride-fundraiser border=strong]Donate Here & Claim Your Pin(s)[\/cta-button]",
+        mobiletext: "[div class=announcement-content-image][url=https:\/\/tiltify.com\/@wowhead\/wowheads-2021-pride-fundraiser][img src=\"https:\/\/wow.zamimg.com\/uploads\/screenshots\/normal\/1025803.png?maxHeight=60\" border=0][\/url][\/div]\r\n[div class=announcement-content-content][b][url=https:\/\/tiltify.com\/@wowhead\/wowheads-2021-pride-fundraiser]Last Call: Wowhead's 2021 Pride Fundraiser benefiting The Trevor Project[\/url][\/b][\/div][pad]",
+        name: "Wowhead Pride 2021 Update",
+        style: "background-image: url(\"https:\/\/wow.zamimg.com\/uploads\/guide\/images\/18722.jpg\");\r\nbackground-repeat: repeat;",
+        'class': "promo",
+        status: 1,
+        mode: 1,
+    });
+</script>
+>>>>>>> 638569dc2a69b9204938fb534111231acf989aac
 <script>
     WH.Layout.set({"pageName":"npc","activeTab":0,"breadcrumb":[]});
     WH.Layout.init();
