@@ -1,0 +1,489 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1, user-scalable=no">
+    <script>var _sf_startpt=(new Date()).getTime();</script>
+    <title>Young Scavenger - NPC - TBC Classic</title>
+
+    <meta name="description" content="Young Scavenger is a level 1 NPC that can be found in Tirisfal Glades. This NPC can be found in Tirisfal Glades. In the Wolf NPCs category. Always up to date.">
+    <meta name="keywords" content="Young Scavenger, NPC, Screenshots, 1.13.2, Classic">
+
+    <meta name="google-site-verification" content="SScjPPnjqJ0lGTlZeVs9x0D3_jmctKZ-6nE4cvfGL00">
+    <meta property="twitter:title" content="Young Scavenger">
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:image" content="https://wow.zamimg.com/uploads/screenshots/normal/37084-young-scavenger.jpg">
+    <meta property="twitter:imageUrl" content="https://wow.zamimg.com/uploads/screenshots/normal/37084-young-scavenger.jpg">
+    <meta property="twitter:site:id" content="17258481">
+    <meta property="twitter:site" content="@Wowhead">
+    <meta property="twitter:domain" content="wowhead.com">
+    <meta property="twitter:description" content="Young Scavenger is a level 1 NPC that can be found in Tirisfal Glades. This NPC can be found in Tirisfal Glades. In the Wolf NPCs category. Always up to date.">
+    <meta property="twitter:image:alt" content="Young Scavenger is a level 1 NPC that can be found in Tirisfal Glades. This NPC can be found in Tirisfal Glades. In the Wolf NPCs category. Always up to date.">
+    <meta property="og:title" content="Young Scavenger">
+    <meta property="og:type" content="article">
+    <meta property="og:image" content="https://wow.zamimg.com/uploads/screenshots/normal/37084-young-scavenger.jpg">
+    <meta property="og:site_name" content="Wowhead">
+    <meta property="og:url" content="https://tbc.wowhead.com/npc=1508/young-scavenger">
+    <meta property="og:description" content="Young Scavenger is a level 1 NPC that can be found in Tirisfal Glades. This NPC can be found in Tirisfal Glades. In the Wolf NPCs category. Always up to date.">
+    <meta property="fb:pages" content="169121139638">
+
+    <link rel="canonical" href="https://tbc.wowhead.com/npc=1508/young-scavenger">
+    <link rel="alternate" hreflang="en" href="https://tbc.wowhead.com/npc=1508/young-scavenger"><link rel="alternate" hreflang="fr" href="https://fr.tbc.wowhead.com/npc=1508/jeune-charognard"><link rel="alternate" hreflang="de" href="https://de.tbc.wowhead.com/npc=1508/junger-aasfresser"><link rel="alternate" hreflang="es" href="https://es.tbc.wowhead.com/npc=1508/carroñero-joven"><link rel="alternate" hreflang="ru" href="https://ru.tbc.wowhead.com/npc=1508/молодой-падальщик"><link rel="alternate" hreflang="pt" href="https://pt.tbc.wowhead.com/npc=1508/carniceiro-jovem"><link rel="alternate" hreflang="it" href="https://it.tbc.wowhead.com/npc=1508/young-scavenger"><link rel="alternate" hreflang="zh" href="https://cn.tbc.wowhead.com/npc=1508/食腐狼幼崽"><link rel="alternate" hreflang="ko" href="https://ko.tbc.wowhead.com/npc=1508/새끼-승냥이">    <link rel="search" type="application/opensearchdescription+xml" href="https://tbc.wowhead.com/opensearch/description?v=3" title="Wowhead (Burning Crusade)">
+    <link rel="icon" type="image/png" href="https://wow.zamimg.com/images/logos/favicon-classic.png">
+    <link rel="apple-touch-icon-precomposed" href="https://wow.zamimg.com/apple-touch-icon.png">
+
+
+    <script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Person","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/tbc.wowhead.com\/npc=1508\/young-scavenger"},"name":"Young Scavenger","url":"https:\/\/tbc.wowhead.com\/npc=1508\/young-scavenger","logo":"https:\/\/wow.zamimg.com\/images\/logos\/wh-logo.png","publisher":{"@type":"Organization","name":"Wowhead Logo","logo":{"@type":"ImageObject","url":"https:\/\/wow.zamimg.com\/images\/logos\/amp-valid.png","width":395,"height":60}},"description":"Young Scavenger is a level 1 NPC that can be found in Tirisfal Glades. This NPC can be found in Tirisfal Glades. In the Wolf NPCs category. Always up to date.","image":{"@type":"ImageObject","url":"https:\/\/wow.zamimg.com\/uploads\/screenshots\/normal\/37084-young-scavenger.jpg","height":454,"width":508}}</script>
+
+
+<link rel="stylesheet" type="text/css" href="https://wow.zamimg.com/css/classic/basic.css?f5c9027" onerror="location.href=&quot;/error-static-cdn?reason=css&amp;hash=f5c9027&amp;at=1625145486&quot;;">
+<link rel="stylesheet" type="text/css" href="https://wow.zamimg.com/css/classic/global.css?f5c9027">
+<link rel="stylesheet" type="text/css" href="https://wow.zamimg.com/css/themes/classic.css?f5c9027">
+<link rel="stylesheet" type="text/css" href="https://wow.zamimg.com/css/classic/tools/partials/class-selector.css?f5c9027">
+
+<script src="https://wow.zamimg.com/js/preamble.js?f5c9027" onerror="location.href=&quot;/error-static-cdn?reason=js&amp;hash=f5c9027&amp;at=1625145486&quot;;"></script>
+    <script>
+        g_user = {"id":0,"name":"","roles":0,"permissions":0,"ads":true,"canDeleteComments":false};
+    </script>
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="11986010-b318-46fd-ab82-e05142e195e2" data-ignore-ga="true"></script>
+<script>function OptanonWrapper() {}</script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+<script type="application/json" id="data.pageMeta">{"dataBuild":{"1":"39226","2":"39069","4":"38363","5":"38988"},"dataEnv":{"env":5,"tree":5,"active":{"ptr":true,"beta":false},"versions":{"1":"9.1.0","2":"9.1.0","3":"9.0.2","4":"1.13.7","5":"2.5.1"}},"event":null,"hasSidebar":true,"page":"npc","serverTime":"2021-07-01T08:18:06-05:00","scriptVersionQueryString":"f5c9027","staticUrl":"https:\/\/wow.zamimg.com","theme":"classic","wowhead":true,"staticResizing":{"limit":3000,"throttle":{"start":3000,"percent":0}}}</script>
+<script type="application/json" id="data.notifications.public-key">"BCv9I9cvqAYEi2ddxSOqAbkm8KTL-CNlIGmXk8R7ievkXR7QfBrNtkXQqk73vleylt5MlZQ8jFQ-tEQ_ObVxxMI"</script>
+<script type="application/json" id="data.page.info">{"commentsLocked":false,"entityId":1508,"entityType":1}</script>
+
+    <script src="https://wow.zamimg.com/js/basic.js?f5c9027"></script>
+    <script src="https://wow.zamimg.com/widgets/power.js?f5c9027"></script>
+    <script src="https://wow.zamimg.com/global-strings/tbc.enus.js?hash=MTesStCEItL1LIOHSn1NOA"></script>
+    <script src="/menus?739e7b0b2e7bc3c35f36dcb52c1880d8"></script>
+    <script src="https://wow.zamimg.com/js/locale/live.enus.js?f5c9027"></script>
+    <script src="https://wow.zamimg.com/js/locale/tbc.enus.js?f5c9027"></script>
+    <script src="https://wow.zamimg.com/js/locale-post-processing.js?f5c9027"></script>
+    <script src="/data/global?locale=0&dataEnv=5&dv=20&b=38988&versionsSig=99242df8a4422000a3c2738485dc5297"></script>
+    <script src="https://wow.zamimg.com/js/global.js?f5c9027"></script>
+    <script src="https://wow.zamimg.com/js/WH/Page/Npc.js?f5c9027"></script>
+    <script src="https://wow.zamimg.com/js/WH/Listview/Templates/comment.js?f5c9027"></script>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+WH.Track.gaInit();
+</script>
+
+<script>WH.WAS.init("NPC", "Database Detail", ["horizontal","skin","vertical","mobileMedrec","mobileFooter","horizontalBTF"]);</script>
+
+    <script src="/data/difficulties?locale=0&dataEnv=5&dv=2&b=38988"></script>
+    <script src="/data/item-bonuses?locale=0&dataEnv=5&dv=11&b=38988"></script>
+    <script src="/data/zones?locale=0&dataEnv=5&dv=14&b=38988"></script>
+
+
+</head>
+
+<body class="standard-layout locale-0 has-ads">
+<script>document.dispatchEvent(new CustomEvent('bodyAvailable'))</script>
+<noscript>
+    <div id="noscript-wrapper">
+        <div id="noscript-text">
+            <b>This site makes extensive use of JavaScript.</b><br />
+            Please <a href="https://www.enable-javascript.com/" target="_blank">enable JavaScript</a> in your browser.        </div>
+    </div>
+</noscript>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KN7HXDF"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>
+    Locale.set(0);
+
+    $(function() {
+                ZUL.init({state: 'loggedOut'});
+                ZUL.whInit = true;
+    });
+</script>
+<script>Platform.preInit1();</script>
+<div class="skin-block-bg is-atf" data-was-parent="true">
+    <div id="ad-skin" data-was-unit="true" class="banner-ad">
+        <script>WH.WAS.validateUnit("ad-skin");</script>
+    </div>
+</div>
+
+
+<div class="header-wrapper">
+<div class="header">
+    <div class="header-left">
+        <a href="/" class="header-logo"></a>    </div>
+
+    <div class="header-right">
+        <div class="header-search">
+            <form action="/search"><input type="text" name="q" placeholder="Search guides, news, database…" value="" /></form>
+        </div>
+        <div class="data-env-links" data-ptr="active"><div class="data-env-links-group"><a class="btn btn-site fa fa-fw fa-square" data-env="live" data-whattach="true" title="View the Live (9.1.0) version of this page" href="https://www.wowhead.com/npc=1508/young-scavenger?fromBurningCrusade">Live</a><a class="btn btn-site fa fa-fw fa-square" data-env="ptr" data-whattach="true" title="View the 9.1.0 PTR version of this page" href="https://ptr.wowhead.com/npc=1508/young-scavenger?fromBurningCrusade">PTR</a></div><div class="data-env-links-group"><a class="btn btn-site fa fa-fw fa-square" data-env="classic" data-whattach="true" title="View the Classic version of this page" href="https://classic.wowhead.com/npc=1508/young-scavenger?fromBurningCrusade">Classic</a><a class="btn btn-site fa fa-fw fa-check current" data-env="tbc" data-whattach="true" title="Currently viewing the Burning Crusade version of this page">TBC</a></div></div>
+<div class="header-theme-switcher">    <a href="javascript:" class="btn btn-site fa fa-fw fa-check current" data-theme="classic">Classic Theme</a>
+        <a href="javascript:" class="btn btn-site fa fa-fw fa-square" data-theme="thottbot">Thottbot Theme</a>
+    </div>
+    </div>
+
+    <script>WH.Layout.User.init();</script>
+
+            <a class="header-expand-site-tab"></a>
+    </div>
+</div>
+
+<div class="layout-wrapper">
+<div class="layout">
+    <div id="page-content" class="page-content">
+                <div class="sidebar-wrapper"><div class="sidebar">
+            <div id="sidebar-zamaf-bt-ph"></div><div class="vertical-block-bg is-atf" data-was-parent="true">
+    <div id="ad-vertical" data-was-unit="true" class="banner-ad">
+        <script>WH.WAS.validateUnit("ad-vertical");</script>
+    </div>
+</div>
+        </div></div>
+        <script>WH.Layout.initSidebar();</script>
+        
+    <div class="main" id="main">
+                <div class="blocks">
+            <div class="block-pair">
+                <div class="horizontal-block-bg is-atf" data-was-parent="true">
+    <div id="ad-horizontal" data-was-unit="true" class="banner-ad">
+        <script>WH.WAS.validateUnit("ad-horizontal");</script>
+    </div>
+</div>
+            </div>
+            <div id="video-pos-static"><div id="ac-container"></div><script>WH.WAS.validateUnit("video-pos-static")</script></div>        </div>
+        <div id="video-pos-fixed"><script>WH.WAS.validateUnit("video-pos-fixed")</script></div><script>WH.WAS.initVideo();</script>                <div class="main-precontents" id="main-precontents"></div>
+        <script>Platform.preInit2();</script>
+        <div class="main-contents" id="main-contents">
+            <div id="announcement-0"></div>
+
+<script>
+    WH.Layout.set({"pageName":"npc","activeTab":0,"breadcrumb":[]});
+    WH.Layout.init();
+    skipCaptcha = true;
+    g_host = "https:\/\/tbc.wowhead.com";
+</script>
+
+<div id="infobox-original-position">
+<table class="infobox"><tr>
+    <td>
+    <table class="infobox-inner-table">
+    <tr class="infobox-heading">
+        <th id="infobox-quick-facts">
+                        Quick Facts        </th>
+    </tr>
+    <tr>
+        <td>
+        <div class="infobox-spacer"></div>
+                <div id="infobox-contents-0"></div>
+        <script>
+            WH.markup.printHtml("[ul][li]Level: 1[\/li][li]React: [color=q]H[\/color][\/li][li]Type: Beast[\/li][li]Tameable ([url=\/pet=1]Wolf[\/url])[\/li][li]Worth: [tooltip=tooltip_avgmoneydropped][money=2][\/tooltip][\/li][li]Added in patch 1.13.2.30550[\/li][\/ul]", "infobox-contents-0", {
+                allow: WH.markup.CLASS.STAFF,
+                dbPage: true,            });
+        </script>
+            </td></tr>
+    </table>
+    </td>
+    <td>
+    <table class="infobox-inner-table">
+    <tr class="infobox-heading">
+        <th id="infobox-">
+                                </th>
+    </tr>
+    <tr>
+        <td>
+        <div class="infobox-spacer"></div>
+                <div id="infobox-sticky-model"></div>            </td></tr>
+    </table>
+    </td>
+    <td>
+    <table class="infobox-inner-table">
+    <tr class="infobox-heading">
+        <th id="infobox-screenshots">
+                        Screenshots        </th>
+    </tr>
+    <tr>
+        <td>
+        <div class="infobox-spacer"></div>
+                <div id="infobox-sticky-ss"></div>            </td></tr>
+    </table>
+    </td>
+    <td>
+    <table class="infobox-inner-table">
+    <tr class="infobox-heading">
+        <th id="infobox-videos">
+                        Videos        </th>
+    </tr>
+    <tr>
+        <td>
+        <div class="infobox-spacer"></div>
+                <div id="infobox-sticky-vi"></div>            </td></tr>
+    </table>
+    </td>
+</tr></table>
+</div>
+<script>WH.prepInfobox();</script>
+<script>
+        WH.onLoad(function () {
+            ss_appendSticky();
+            vi_appendSticky();
+        });
+    </script><script type="text/javascript">//<![CDATA[
+var lv_comments0 = [{"commentv2":1,"number":0,"id":2796478,"nreplies":0,"sticky":0,"user":"Thottbot","body":"I got this lvl 1 pet when i was lvl 11...\nits not that bad... im lvl 35 and its working pretty well... But i abandoned him cause he dies too much. Its got pretty good dmg but dies... easily.\n\nlol this pet sucks....","date":"2006-02-18T06:03:29-06:00","rating":-11,"indent":0,"roles":64,"deleted":0,"outofdate":0,"userRating":0,"replies":[],"dataTree":1,"markupDisabledEnvironments":{"2":true,"3":false},"imported":true,"importedAuthor":"rizzwan","importedSubject":"This pet..."},{"commentv2":1,"number":1,"id":2895282,"nreplies":0,"sticky":0,"user":"Allakhazam","body":"Believe it or not, this wolf actually makes a good hunter pet.  I tamed a level one Young Scavenger just so I could see it in better light to see what the colors looked like, and thought it would be fun to be able to say I raised a pet from level one.  Turned out to be a pretty good pet.  Now that the new patch is out, listing stats would be kind of meaningless, but I can say that MoonShadow (my Young Scavenger) doesn't die nearly as much as other pets that I've tried.  Unfortunately, 2.0 attack speed, but pretty good DPS.  Tanks well for a wolf.  Just think these guys deserve a bit of praise.  They look very cool: black on their backs fading to almost a white underneath and yellow eyes.  Great if you want a wolf, but not the brown ones from the Tauren area that every Horde hunter seems to have.  I think they're worth the effort of leveling up, especially now that patch 1.7 made it easier to level up low level pets.","date":"2005-09-14T06:22:51-05:00","rating":2,"indent":0,"roles":64,"deleted":0,"outofdate":0,"userRating":0,"replies":[],"dataTree":1,"markupDisabledEnvironments":{"2":true,"3":false},"imported":true,"importedAuthor":"Soxrobin","importedSubject":"Good Pet"}];
+</script>
+
+<noscript><div id="user-comments"><h2 class="heading-size-2">Comments</h2><div class="user-post-"><h3 class="heading-size-3">Comment by <b>Thottbot</b></h3>I got this lvl 1 pet when i was lvl 11...<br />its not that bad... im lvl 35 and its working pretty well... But i abandoned him cause he dies too much. Its got pretty good dmg but dies... easily.<br /><br />lol this pet sucks....</div>
+
+<div class="user-post-"><h3 class="heading-size-3">Comment by <b>Allakhazam</b></h3>Believe it or not, this wolf actually makes a good hunter pet. I tamed a level one Young Scavenger just so I could see it in better light to see what the colors looked like, and thought it would be fun to be able to say I raised a pet from level one. Turned out to be a pretty good pet. Now that the new patch is out, listing stats would be kind of meaningless, but I can say that MoonShadow (my Young Scavenger) doesn't die nearly as much as other pets that I've tried. Unfortunately, 2.0 attack speed, but pretty good DPS. Tanks well for a wolf. Just think these guys deserve a bit of praise. They look very cool: black on their backs fading to almost a white underneath and yellow eyes. Great if you want a wolf, but not the brown ones from the Tauren area that every Horde hunter seems to have. I think they're worth the effort of leveling up, especially now that patch 1.7 made it easier to level up low level pets.</div>
+
+</div>
+
+</noscript>
+
+<script type="text/javascript">
+var lv_screenshots = [{"id":37084,"user":"dJe781","date":"2007-08-29T12:21:07-05:00","width":508,"height":454,"type":1,"typeId":1508,"imageType":2}];
+var lv_videos = [];
+var g_pageInfo = {type: 1, typeId: 1508, name: "Young Scavenger"};
+WH.Layout.set({breadcrumb: [0, 4, 1, 1]});
+//]]></script>
+
+<script type='text/javascript'>//<![CDATA[
+$(document).ready(function(){$(".infobox li").last().after("<li><div>Health: 42</div></li>");});
+//]]></script>
+
+<div class="text">
+
+<div class="db-action-buttons"><script>WH.onLoad(function () {
+    var linksButton = WH.ge('open-links-button');
+    if (linksButton) {
+        linksButton.dataset.displayId = 447;
+    }
+});</script><a href="javascript:" id="wh-mv-view-in-3d-button" class="btn btn-site btn-small" style="margin-left:5px;float:right" onclick="WH.ModelViewer.showLightbox({&quot;type&quot;:1,&quot;typeId&quot;:1508,&quot;displayId&quot;:447})" data-mv-type="1" data-mv-type-id="1508" data-mv-display-id="447">View in 3D</a><a href="javascript:" id="open-links-button" class="btn btn-small fa fa-fw fa-link" style="margin-left:5px;float:right" onclick="WH.Links.show(this, {&quot;type&quot;:1,&quot;typeId&quot;:1508}, event);">Links</a></div><h1 class="heading-size-1">Young Scavenger</h1><div id="infobox-alternate-position"></div><div class="block-block-bg is-btf" data-was-parent="true">
+    <div id="ad-mobileMedrec" data-was-unit="true" class="banner-ad">
+        <script>WH.WAS.validateUnit("ad-mobileMedrec");</script>
+    </div>
+</div>
+<div>This NPC can be found in <span id="locations">                        <a href="javascript:" onclick="
+                            myMapper.update({
+                                zone: 85,
+                                level: 0,
+                            });
+                            WH.setSelectedLink(this, 'mapper');
+                            return false;
+                            " onmousedown="return false">Tirisfal Glades</a>
+                        &nbsp;(42).</span>
+</div><div id="k6b43j6b"></div>
+<div style="clear:left"></div>
+
+<script>var g_mapperData = {"85":[{"count":42,"coords":[[29,67.8],[29.2,64.2],[29.2,65],[29.2,67.4],[29.2,68.6],[29.4,60.2],[29.4,60.6],[29.4,66.4],[29.6,60],[29.6,60.6],[29.6,66.4],[29.6,67],[30,63.2],[30,65.4],[30.2,62.2],[30.4,64],[30.6,63.8],[30.8,60.4],[30.8,60.8],[30.8,62.2],[31,55.6],[31,62.6],[31.4,58.4],[31.4,58.6],[31.6,58.2],[31.6,58.8],[32,59.8],[32.2,57.4],[32.4,67],[32.6,58],[33,67.2],[33.2,68.8],[33.4,68.4],[33.6,68.4],[34.2,56.8],[34.2,67],[34.4,58.2],[34.4,66.4],[34.6,57.2],[34.6,66.4],[34.6,66.6],[35,57.8]],"uiMapId":1420,"uiMapName":"Tirisfal Glades"}]};
+var myMapper = new Mapper({"parent":"k6b43j6b","zone":85,"name":"Young Scavenger"});
+WH.gE(WH.ge('locations'), 'a')[0].onclick();
+</script><h2 class="heading-size-2 clear">Related</h2></div>
+
+<div id="jkbfksdbl4"></div>
+<div id="lkljbjkb574" class="listview">
+</div>
+<script type="text/javascript">//<![CDATA[
+WH.Gatherer.addData(3, 5, {"805":{"name_enus":"Small Red Pouch","quality":1,"icon":"inv_misc_bag_09_red","screenshot":{},"jsonequip":{"avgbuyout":247,"sellprice":250,"slotbak":18},"attainable":0,"flags2":24580},"828":{"name_enus":"Small Blue Pouch","quality":1,"icon":"inv_misc_bag_09_blue","screenshot":{},"jsonequip":{"avgbuyout":260,"sellprice":250,"slotbak":18},"attainable":0,"flags2":24580},"1364":{"name_enus":"Ragged Leather Vest","quality":0,"icon":"inv_shirt_05","screenshot":{},"jsonequip":{"appearances":{"0":[4589,""]},"armor":31,"avgbuyout":100,"displayid":4589,"dura":45,"reqlevel":1,"sellprice":8,"slotbak":5},"attainable":0,"flags2":24580},"1366":{"name_enus":"Ragged Leather Pants","quality":0,"icon":"inv_pants_06","screenshot":{},"jsonequip":{"appearances":{"0":[8409,""]},"armor":17,"avgbuyout":150,"displayid":8409,"dura":30,"reqlevel":1,"sellprice":2,"slotbak":7},"attainable":0,"flags2":24580},"1367":{"name_enus":"Ragged Leather Boots","quality":0,"icon":"inv_boots_06","screenshot":{},"jsonequip":{"appearances":{"0":[4463,""]},"armor":16,"avgbuyout":200,"displayid":4463,"dura":20,"reqlevel":1,"sellprice":2,"slotbak":8},"attainable":0,"flags2":24580},"1368":{"name_enus":"Ragged Leather Gloves","quality":0,"icon":"inv_gauntlets_18","screenshot":{},"jsonequip":{"appearances":{"0":[9374,""]},"armor":17,"avgbuyout":1400,"displayid":9374,"dura":16,"reqlevel":1,"sellprice":2,"slotbak":10},"attainable":0,"flags2":24580},"1369":{"name_enus":"Ragged Leather Belt","quality":0,"icon":"inv_belt_24","screenshot":{},"jsonequip":{"appearances":{"0":[5728,""]},"armor":18,"avgbuyout":100,"displayid":5728,"dura":16,"reqlevel":1,"sellprice":4,"slotbak":6},"attainable":0,"flags2":24580},"1370":{"name_enus":"Ragged Leather Bracers","quality":0,"icon":"inv_bracer_10","screenshot":{},"jsonequip":{"appearances":{"0":[5578,""]},"armor":12,"avgbuyout":3333,"displayid":5578,"dura":16,"reqlevel":1,"sellprice":2,"slotbak":9},"attainable":0,"flags2":24580},"1372":{"name_enus":"Ragged Cloak","quality":0,"icon":"inv_misc_cape_10","screenshot":{},"jsonequip":{"appearances":{"0":[23014,"inv_misc_pelt_bear_02"]},"armor":3,"avgbuyout":2,"displayid":23014,"reqlevel":1,"sellprice":2,"slotbak":16},"attainable":0,"flags2":24580},"1374":{"name_enus":"Frayed Shoes","quality":0,"icon":"inv_boots_09","screenshot":{},"jsonequip":{"appearances":{"0":[12850,""]},"armor":5,"avgbuyout":20000,"displayid":12850,"dura":18,"reqlevel":1,"sellprice":3,"slotbak":8},"attainable":0,"flags2":24580},"1376":{"name_enus":"Frayed Cloak","quality":0,"icon":"inv_misc_cape_10","screenshot":{},"jsonequip":{"appearances":{"0":[23090,""]},"armor":5,"avgbuyout":5555,"displayid":23090,"reqlevel":1,"sellprice":4,"slotbak":16},"attainable":0,"flags2":24580},"1377":{"name_enus":"Frayed Gloves","quality":0,"icon":"inv_gauntlets_18","screenshot":{},"jsonequip":{"appearances":{"0":[11051,""]},"armor":4,"avgbuyout":349,"displayid":11051,"dura":12,"reqlevel":1,"sellprice":1,"slotbak":10},"attainable":0,"flags2":24580},"1378":{"name_enus":"Frayed Pants","quality":0,"icon":"inv_pants_09","screenshot":{},"jsonequip":{"appearances":{"0":[9187,""]},"armor":4,"avgbuyout":50003,"displayid":9187,"dura":25,"reqlevel":1,"sellprice":1,"slotbak":7},"attainable":0,"flags2":24580},"1380":{"name_enus":"Frayed Robe","quality":0,"icon":"inv_chest_cloth_21","screenshot":{},"jsonequip":{"appearances":{"0":[12426,""]},"armor":8,"avgbuyout":1994,"displayid":12426,"dmgrange":0.2,"dura":35,"reqlevel":1,"sellprice":4,"slotbak":20},"attainable":0,"flags2":24580},"2210":{"name_enus":"Battered Buckler","quality":0,"icon":"inv_shield_09","screenshot":{},"jsonequip":{"appearances":{"0":[2552,""]},"armor":12,"blockamount":1,"displayid":2552,"dura":25,"reqlevel":1,"sellprice":3,"sheathtype":4,"slotbak":14},"attainable":0,"flags2":24580},"2211":{"name_enus":"Bent Large Shield","quality":0,"icon":"inv_shield_09","screenshot":{},"jsonequip":{"appearances":{"0":[18656,""]},"armor":32,"avgbuyout":200,"blockamount":1,"displayid":18656,"dura":30,"reqlevel":1,"sellprice":7,"sheathtype":4,"slotbak":14},"attainable":0,"flags2":24580},"2589":{"name_enus":"Linen Cloth","quality":1,"icon":"inv_fabric_linen_01","screenshot":{},"jsonequip":{"avgbuyout":49,"buyprice":55,"sellprice":13},"attainable":0,"flags2":24580},"2649":{"name_enus":"Flimsy Chain Belt","quality":0,"icon":"inv_belt_06","screenshot":{},"jsonequip":{"appearances":{"0":[3254,""]},"armor":24,"avgbuyout":112,"displayid":3254,"dmgrange":0.2,"dura":16,"reqlevel":1,"sellprice":1,"slotbak":6},"attainable":0,"flags2":24580},"2650":{"name_enus":"Flimsy Chain Boots","quality":0,"icon":"inv_boots_01","screenshot":{},"jsonequip":{"appearances":{"0":[233,""]},"armor":34,"displayid":233,"dmgrange":0.2,"dura":25,"reqlevel":1,"sellprice":3,"slotbak":8},"attainable":0,"flags2":24580},"2651":{"name_enus":"Flimsy Chain Bracers","quality":0,"icon":"inv_bracer_03","screenshot":{},"jsonequip":{"appearances":{"0":[2219,""]},"armor":25,"avgbuyout":30,"displayid":2219,"dmgrange":0.2,"dura":18,"reqlevel":1,"sellprice":3,"slotbak":9},"attainable":0,"flags2":24580},"2652":{"name_enus":"Flimsy Chain Cloak","quality":0,"icon":"inv_misc_cape_02","screenshot":{},"jsonequip":{"appearances":{"0":[15089,""]},"armor":5,"avgbuyout":21,"displayid":15089,"dmgrange":0.2,"reqlevel":1,"sellprice":4,"slotbak":16},"attainable":0,"flags2":24580},"2653":{"name_enus":"Flimsy Chain Gloves","quality":0,"icon":"inv_gauntlets_04","screenshot":{},"jsonequip":{"appearances":{"0":[976,""]},"armor":35,"avgbuyout":50009,"displayid":976,"dmgrange":0.2,"dura":18,"reqlevel":1,"sellprice":3,"slotbak":10},"attainable":0,"flags2":24580},"2654":{"name_enus":"Flimsy Chain Pants","quality":0,"icon":"inv_pants_03","screenshot":{},"jsonequip":{"appearances":{"0":[687,""]},"armor":37,"avgbuyout":5555,"displayid":687,"dmgrange":0.2,"dura":35,"reqlevel":1,"sellprice":2,"slotbak":7},"attainable":0,"flags2":24580},"2656":{"name_enus":"Flimsy Chain Vest","quality":0,"icon":"inv_chest_chain","screenshot":{},"jsonequip":{"appearances":{"0":[977,""]},"armor":63,"avgbuyout":3888,"displayid":977,"dmgrange":0.2,"dura":55,"reqlevel":1,"sellprice":9,"slotbak":5},"attainable":0,"flags2":24580},"3264":{"name_enus":"Duskbat Wing","quality":1,"icon":"inv_misc_pelt_bear_ruin_05","screenshot":{},"jsonequip":{},"attainable":0,"flags2":24580},"3265":{"name_enus":"Scavenger Paw","quality":1,"icon":"inv_misc_monsterclaw_04","screenshot":{},"jsonequip":{},"attainable":0,"flags2":24580},"3363":{"name_enus":"Frayed Belt","quality":0,"icon":"inv_belt_04","screenshot":{},"jsonequip":{"appearances":{"0":[10061,""]},"armor":3,"avgbuyout":12,"displayid":10061,"dura":12,"reqlevel":1,"sellprice":1,"slotbak":6},"attainable":0,"flags2":24580},"3365":{"name_enus":"Frayed Bracers","quality":0,"icon":"inv_bracer_10","screenshot":{},"jsonequip":{"appearances":{"0":[10939,""]},"armor":4,"avgbuyout":48,"displayid":10939,"dura":14,"reqlevel":1,"sellprice":3,"slotbak":9},"attainable":0,"flags2":24580},"4496":{"name_enus":"Small Brown Pouch","quality":1,"icon":"inv_misc_bag_09","screenshot":{},"jsonequip":{"avgbuyout":300,"buyprice":500,"sellprice":125,"slotbak":18},"attainable":0,"flags2":24580},"4604":{"name_enus":"Forest Mushroom Cap","quality":1,"icon":"inv_mushroom_13","screenshot":{},"jsonequip":{"avgbuyout":1,"buyprice":25,"cooldown":1000,"reqlevel":1,"sellprice":1},"attainable":0,"flags2":24580},"4865":{"name_enus":"Ruined Pelt","quality":0,"icon":"inv_misc_pelt_wolf_ruin_04","screenshot":{},"jsonequip":{"avgbuyout":60000,"sellprice":5},"attainable":0,"flags2":24580},"5571":{"name_enus":"Small Black Pouch","quality":1,"icon":"inv_misc_bag_09_black","screenshot":{},"jsonequip":{"avgbuyout":255,"sellprice":250,"slotbak":18},"attainable":0,"flags2":24580},"5572":{"name_enus":"Small Green Pouch","quality":1,"icon":"inv_misc_bag_09_green","screenshot":{},"jsonequip":{"avgbuyout":266,"sellprice":250,"slotbak":18},"attainable":0,"flags2":24580},"7073":{"name_enus":"Broken Fang","quality":0,"icon":"inv_misc_bone_08","screenshot":{},"jsonequip":{"avgbuyout":20,"sellprice":6},"attainable":0,"flags2":24580},"7074":{"name_enus":"Chipped Claw","quality":0,"icon":"inv_misc_bone_06","screenshot":{},"jsonequip":{"avgbuyout":5000000,"sellprice":4},"attainable":0,"flags2":24580},"7099":{"name_enus":"Severed Pincer","quality":0,"icon":"inv_misc_birdbeck_02","screenshot":{},"jsonequip":{"sellprice":6,"sheathtype":1},"attainable":0,"flags2":24580}});
+WH.Gatherer.addData(6, 5, {"1604":{"name_enus":"Dazed","icon":"spell_frost_stun","screenshot":{},"rank_enus":""},"5101":{"name_enus":"Dazed","icon":"spell_shadow_mindsteal","screenshot":{},"rank_enus":""},"13496":{"name_enus":"Dazed","icon":"spell_frost_stun","screenshot":{},"rank_enus":""},"15571":{"name_enus":"Dazed","icon":"spell_frost_stun","screenshot":{},"rank_enus":""},"29703":{"name_enus":"Dazed","icon":"spell_frost_stun","screenshot":{},"rank_enus":""},"31125":{"name_enus":"Dazed","icon":"spell_frost_stun","screenshot":{},"rank_enus":""},"35955":{"name_enus":"Dazed","icon":"spell_frost_stun","screenshot":{},"rank_enus":""}});
+WH.Gatherer.addData(1, 5, {"1508":{"name_enus":"Young Scavenger"}});
+$.extend(g_npcs[1508], {"classification":0,"family":1,"id":1508,"location":[85],"maxlevel":1,"minlevel":1,"name":"Young Scavenger","react":[null,0],"type":1});
+var tabsRelated = new Tabs({parent: WH.ge('jkbfksdbl4'), trackable: 'NPC'});
+new Listview({template: 'item', id: 'drops', name: WH.TERMS.drops, tabs: tabsRelated, parent: 'lkljbjkb574', extraCols: ["contentPhase",'count', 'percent'],  showLootSpecs: 0,sort:['noteworthy', '-percent', 'name'], _totalCount: 33518, computeDataFunc: Listview.funcBox.initLootTable, onAfterCreate: Listview.funcBox.addModeIndicator, data:[{"classs":1,"commondrop":true,"flags2":24580,"id":805,"level":5,"name":"Small Red Pouch","nslots":6,"quality":1,"slot":18,"slotbak":18,"source":[2,16,21],"subclass":0,"modes":{"mode":[0],"0":{"count":32,"outof":33518}},"count":32,"stack":[1,1]},{"classs":1,"commondrop":true,"flags2":24580,"id":828,"level":5,"name":"Small Blue Pouch","nslots":6,"quality":1,"slot":18,"slotbak":18,"source":[2,21],"subclass":0,"modes":{"mode":[0],"0":{"count":22,"outof":33518}},"count":22,"stack":[1,1]},{"appearances":{"0":[4589,""]},"armor":31,"classs":4,"commondrop":true,"displayid":4589,"flags2":24580,"id":1364,"level":5,"name":"Ragged Leather Vest","quality":0,"slot":5,"slotbak":5,"source":[2,19,21],"subclass":2,"modes":{"mode":[0],"0":{"count":434,"outof":33518}},"count":434,"stack":[1,1]},{"appearances":{"0":[8409,""]},"armor":17,"classs":4,"commondrop":true,"displayid":8409,"flags2":24580,"id":1366,"level":2,"name":"Ragged Leather Pants","quality":0,"slot":7,"slotbak":7,"source":[2,19,21],"subclass":2,"modes":{"mode":[0],"0":{"count":376,"outof":33518}},"count":376,"stack":[1,1]},{"appearances":{"0":[4463,""]},"armor":16,"classs":4,"commondrop":true,"displayid":4463,"flags2":24580,"id":1367,"level":3,"name":"Ragged Leather Boots","quality":0,"slot":8,"slotbak":8,"source":[2,19,21],"subclass":2,"modes":{"mode":[0],"0":{"count":412,"outof":33518}},"count":412,"stack":[1,1]},{"appearances":{"0":[9374,""]},"armor":17,"classs":4,"commondrop":true,"displayid":9374,"flags2":24580,"id":1368,"level":4,"name":"Ragged Leather Gloves","quality":0,"slot":10,"slotbak":10,"source":[2,19,21],"subclass":2,"modes":{"mode":[0],"0":{"count":396,"outof":33518}},"count":396,"stack":[1,1]},{"appearances":{"0":[5728,""]},"armor":18,"classs":4,"commondrop":true,"displayid":5728,"flags2":24580,"id":1369,"level":5,"name":"Ragged Leather Belt","quality":0,"slot":6,"slotbak":6,"source":[2,19,21],"subclass":2,"modes":{"mode":[0],"0":{"count":428,"outof":33518}},"count":428,"stack":[1,1]},{"appearances":{"0":[5578,""]},"armor":12,"classs":4,"commondrop":true,"displayid":5578,"flags2":24580,"id":1370,"level":4,"name":"Ragged Leather Bracers","quality":0,"slot":9,"slotbak":9,"source":[2,19,21],"subclass":2,"modes":{"mode":[0],"0":{"count":437,"outof":33518}},"count":437,"stack":[1,1]},{"appearances":{"0":[23014,"inv_misc_pelt_bear_02"]},"armor":3,"classs":4,"commondrop":true,"displayid":23014,"flags2":24580,"id":1372,"level":3,"name":"Ragged Cloak","quality":0,"slot":16,"slotbak":16,"source":[2,19,21],"subclass":-6,"modes":{"mode":[0],"0":{"count":408,"outof":33518}},"count":408,"stack":[1,1]},{"appearances":{"0":[12850,""]},"armor":5,"classs":4,"commondrop":true,"displayid":12850,"flags2":24580,"id":1374,"level":4,"name":"Frayed Shoes","quality":0,"slot":8,"slotbak":8,"source":[2,19,21],"subclass":1,"modes":{"mode":[0],"0":{"count":543,"outof":33518}},"count":543,"stack":[1,1]},{"appearances":{"0":[23090,""]},"armor":5,"classs":4,"commondrop":true,"displayid":23090,"flags2":24580,"id":1376,"level":5,"name":"Frayed Cloak","quality":0,"slot":16,"slotbak":16,"source":[2,19,21],"subclass":-6,"modes":{"mode":[0],"0":{"count":445,"outof":33518}},"count":445,"stack":[1,1]},{"appearances":{"0":[11051,""]},"armor":4,"classs":4,"commondrop":true,"displayid":11051,"flags2":24580,"id":1377,"level":3,"name":"Frayed Gloves","quality":0,"slot":10,"slotbak":10,"source":[2,19,21],"subclass":1,"modes":{"mode":[0],"0":{"count":491,"outof":33518}},"count":491,"stack":[1,1]},{"appearances":{"0":[9187,""]},"armor":4,"classs":4,"commondrop":true,"displayid":9187,"flags2":24580,"id":1378,"level":2,"name":"Frayed Pants","quality":0,"slot":7,"slotbak":7,"source":[2,21],"subclass":1,"modes":{"mode":[0],"0":{"count":549,"outof":33518}},"count":549,"stack":[1,1]},{"appearances":{"0":[12426,""]},"armor":8,"classs":4,"commondrop":true,"displayid":12426,"flags2":24580,"id":1380,"level":4,"name":"Frayed Robe","quality":0,"slot":5,"slotbak":20,"source":[2,21],"subclass":1,"modes":{"mode":[0],"0":{"count":470,"outof":33518}},"count":470,"stack":[1,1]},{"appearances":{"0":[2552,""]},"armor":12,"classs":4,"commondrop":true,"displayid":2552,"flags2":24580,"id":2210,"level":2,"name":"Battered Buckler","quality":0,"slot":14,"slotbak":14,"source":[2,19,21],"subclass":6,"modes":{"mode":[0],"0":{"count":373,"outof":33518}},"count":373,"stack":[1,1]},{"appearances":{"0":[18656,""]},"armor":32,"classs":4,"commondrop":true,"displayid":18656,"flags2":24580,"id":2211,"level":4,"name":"Bent Large Shield","quality":0,"slot":14,"slotbak":14,"source":[2,19,21],"subclass":6,"modes":{"mode":[0],"0":{"count":458,"outof":33518}},"count":458,"stack":[1,1]},{"classs":7,"commondrop":true,"flags2":24580,"id":2589,"level":5,"name":"Linen Cloth","quality":1,"slot":0,"source":[2,5,19,21],"sourcemore":[{"n":"Andra","t":1,"ti":16631,"z":3487}],"subclass":5,"modes":{"mode":[0],"0":{"count":1,"outof":33518}},"count":1,"stack":[2,2]},{"appearances":{"0":[3254,""]},"armor":24,"classs":4,"commondrop":true,"displayid":3254,"flags2":24580,"id":2649,"level":2,"name":"Flimsy Chain Belt","quality":0,"slot":6,"slotbak":6,"source":[2,19,21],"subclass":3,"modes":{"mode":[0],"0":{"count":333,"outof":33518}},"count":333,"stack":[1,1]},{"appearances":{"0":[233,""]},"armor":34,"classs":4,"commondrop":true,"displayid":233,"flags2":24580,"id":2650,"level":3,"name":"Flimsy Chain Boots","quality":0,"slot":8,"slotbak":8,"source":[2,19,21,23],"subclass":3,"modes":{"mode":[0],"0":{"count":280,"outof":33518}},"count":280,"stack":[1,1]},{"appearances":{"0":[2219,""]},"armor":25,"classs":4,"commondrop":true,"displayid":2219,"flags2":24580,"id":2651,"level":4,"name":"Flimsy Chain Bracers","quality":0,"slot":9,"slotbak":9,"source":[2,19,21],"subclass":3,"modes":{"mode":[0],"0":{"count":367,"outof":33518}},"count":367,"stack":[1,1]},{"appearances":{"0":[15089,""]},"armor":5,"classs":4,"commondrop":true,"displayid":15089,"flags2":24580,"id":2652,"level":5,"name":"Flimsy Chain Cloak","quality":0,"slot":16,"slotbak":16,"source":[2,19,21],"subclass":-6,"modes":{"mode":[0],"0":{"count":319,"outof":33518}},"count":319,"stack":[1,1]},{"appearances":{"0":[976,""]},"armor":35,"classs":4,"commondrop":true,"displayid":976,"flags2":24580,"id":2653,"level":4,"name":"Flimsy Chain Gloves","quality":0,"slot":10,"slotbak":10,"source":[2,19,21],"subclass":3,"modes":{"mode":[0],"0":{"count":392,"outof":33518}},"count":392,"stack":[1,1]},{"appearances":{"0":[687,""]},"armor":37,"classs":4,"commondrop":true,"displayid":687,"flags2":24580,"id":2654,"level":2,"name":"Flimsy Chain Pants","quality":0,"slot":7,"slotbak":7,"source":[2,19,21],"subclass":3,"modes":{"mode":[0],"0":{"count":322,"outof":33518}},"count":322,"stack":[1,1]},{"appearances":{"0":[977,""]},"armor":63,"classs":4,"commondrop":true,"displayid":977,"flags2":24580,"id":2656,"level":5,"name":"Flimsy Chain Vest","quality":0,"slot":5,"slotbak":5,"source":[2,21],"subclass":3,"modes":{"mode":[0],"0":{"count":346,"outof":33518}},"count":346,"stack":[1,1]},{"classs":12,"flags2":24580,"id":3264,"level":1,"name":"Duskbat Wing","quality":1,"slot":0,"source":[2,21],"subclass":0,"modes":{"mode":[0],"0":{"count":3,"outof":33518}},"count":3,"stack":[1,1]},{"classs":12,"flags2":24580,"id":3265,"level":1,"name":"Scavenger Paw","quality":1,"slot":0,"source":[2],"sourcemore":[{"z":85}],"subclass":0,"modes":{"mode":[0],"0":{"count":23542,"outof":33518}},"count":23542,"stack":[1,1],"specificDrop":true},{"appearances":{"0":[10061,""]},"armor":3,"classs":4,"commondrop":true,"displayid":10061,"flags2":24580,"id":3363,"level":3,"name":"Frayed Belt","quality":0,"slot":6,"slotbak":6,"source":[2,19,21],"subclass":1,"modes":{"mode":[0],"0":{"count":436,"outof":33518}},"count":436,"stack":[1,1]},{"appearances":{"0":[10939,""]},"armor":4,"classs":4,"commondrop":true,"displayid":10939,"flags2":24580,"id":3365,"level":5,"name":"Frayed Bracers","quality":0,"slot":9,"slotbak":9,"source":[2,19,21],"subclass":1,"modes":{"mode":[0],"0":{"count":524,"outof":33518}},"count":524,"stack":[1,1]},{"classs":1,"commondrop":true,"flags2":24580,"id":4496,"level":5,"name":"Small Brown Pouch","nslots":6,"quality":1,"slot":18,"slotbak":18,"source":[2,5,16,21],"subclass":0,"modes":{"mode":[0],"0":{"count":39,"outof":33518}},"count":39,"stack":[1,1]},{"classs":0,"flags2":24580,"id":4604,"level":5,"name":"Forest Mushroom Cap","quality":1,"reqlevel":4,"slot":0,"source":[2,4,5,19,21],"subclass":5,"modes":{"mode":[0],"0":{"count":3,"outof":33518}},"count":3,"stack":[1,1]},{"classs":15,"commondrop":true,"flags2":24580,"id":4865,"level":1,"name":"Ruined Pelt","quality":0,"slot":0,"source":[2,19,21],"subclass":0,"modes":{"mode":[0],"0":{"count":12466,"outof":33518}},"count":12466,"stack":[1,2],"pctstack":"{1: 92.3632,2: 7.63677}"},{"classs":1,"commondrop":true,"flags2":24580,"id":5571,"level":5,"name":"Small Black Pouch","nslots":6,"quality":1,"slot":18,"slotbak":18,"source":[2],"subclass":0,"modes":{"mode":[0],"0":{"count":37,"outof":33518}},"count":37,"stack":[1,1]},{"classs":1,"commondrop":true,"flags2":24580,"id":5572,"level":5,"name":"Small Green Pouch","nslots":6,"quality":1,"slot":18,"slotbak":18,"source":[2,16,19],"subclass":0,"modes":{"mode":[0],"0":{"count":37,"outof":33518}},"count":37,"stack":[1,1]},{"classs":15,"commondrop":true,"flags2":24580,"id":7073,"level":1,"name":"Broken Fang","quality":0,"slot":0,"source":[2,19,21,23],"subclass":0,"modes":{"mode":[0],"0":{"count":12224,"outof":33518}},"count":12224,"stack":[1,2],"pctstack":"{1: 92.5474,2: 7.45255}"},{"classs":15,"commondrop":true,"flags2":24580,"id":7074,"level":1,"name":"Chipped Claw","quality":0,"slot":0,"source":[2,19,21],"subclass":0,"modes":{"mode":[0],"0":{"count":12627,"outof":33518}},"count":12627,"stack":[1,2],"pctstack":"{1: 93.015,2: 6.98503}"},{"classs":15,"commondrop":true,"flags2":24580,"id":7099,"level":1,"name":"Severed Pincer","quality":0,"slot":0,"source":[2,21],"subclass":0,"modes":{"mode":[0],"0":{"count":1,"outof":33518}},"count":1,"stack":[1,1]}]});
+new Listview({template: 'spell', id: 'abilities', name: WH.TERMS.abilities, tabs: tabsRelated, parent: 'lkljbjkb574', visibleCols: ['schools'], hiddenCols: ['reagents', 'skill'], computeDataFunc: Listview.funcBox.initModeFilter, onAfterCreate: Listview.funcBox.addModeIndicator, data: [{"cat":0,"id":1604,"level":0,"name":"Dazed","schools":1,modes:{"mode":[0]}},{"cat":0,"id":5101,"level":12,"name":"Dazed","schools":1,modes:{"mode":[0]}},{"cat":0,"id":13496,"level":0,"name":"Dazed","schools":1,modes:{"mode":[0]}},{"cat":0,"id":15571,"level":20,"name":"Dazed","schools":1,modes:{"mode":[0]}},{"cat":0,"id":29703,"level":1,"name":"Dazed","schools":1,modes:{"mode":[0]}},{"cat":0,"chrclass":8,"id":31125,"level":1,"name":"Dazed","nskillup":1,"reqclass":8,"schools":1,"skill":[],modes:{"mode":[0]}},{"cat":0,"id":35955,"level":0,"name":"Dazed","schools":1,modes:{"mode":[0]}}]});
+new Listview({template: 'sound', id: 'sounds', name: WH.Types.getUpperPlural(WH.Types.SOUND), tabs: tabsRelated, parent: 'lkljbjkb574', visibleCols: ['activity'], data:[{"activity":"exertion","id":391,"type":10,"name":"mWolfAttack4.ogg","files":[{"id":564209,"title":"mWolfAttack4","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/241\/564209","type":"audio\/ogg; codecs=\"vorbis\""},{"id":564210,"title":"mWolfAttack1","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/242\/564210","type":"audio\/ogg; codecs=\"vorbis\""},{"id":564212,"title":"mWolfAttack6","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/244\/564212","type":"audio\/ogg; codecs=\"vorbis\""},{"id":564213,"title":"mWolfAttack2","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/245\/564213","type":"audio\/ogg; codecs=\"vorbis\""},{"id":564216,"title":"mWolfAttack3","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/248\/564216","type":"audio\/ogg; codecs=\"vorbis\""},{"id":564230,"title":"mWolfAttack5","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/6\/564230","type":"audio\/ogg; codecs=\"vorbis\""}]},{"activity":"injury","id":392,"type":10,"name":"mWolfWound2.ogg","files":[{"id":564218,"title":"mWolfWound2","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/250\/564218","type":"audio\/ogg; codecs=\"vorbis\""},{"id":564225,"title":"mWolfWound1","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/1\/564225","type":"audio\/ogg; codecs=\"vorbis\""},{"id":564227,"title":"mWolfWound3","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/3\/564227","type":"audio\/ogg; codecs=\"vorbis\""},{"id":564232,"title":"mWolfWound4","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/8\/564232","type":"audio\/ogg; codecs=\"vorbis\""}]},{"activity":"injurycritical","id":393,"type":10,"name":"mWolfWoundCritical1.ogg","files":[{"id":564231,"title":"mWolfWoundCritical1","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/7\/564231","type":"audio\/ogg; codecs=\"vorbis\""}]},{"activity":"death","id":394,"type":10,"name":"mWolfDeath1.ogg","files":[{"id":564219,"title":"mWolfDeath1","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/251\/564219","type":"audio\/ogg; codecs=\"vorbis\""}]},{"activity":"aggro","id":390,"type":10,"name":"mWolfAggro3.ogg","files":[{"id":564222,"title":"mWolfAggro3","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/254\/564222","type":"audio\/ogg; codecs=\"vorbis\""}]},{"activity":"alert","id":1108,"type":10,"name":"mWolfPreAggro1.ogg","files":[{"id":564224,"title":"mWolfPreAggro1","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/0\/564224","type":"audio\/ogg; codecs=\"vorbis\""}]},{"activity":"fidget","id":1018,"type":10,"name":"WolfStandVar4.ogg","files":[{"id":564211,"title":"WolfStandVar4","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/243\/564211","type":"audio\/ogg; codecs=\"vorbis\""},{"id":564217,"title":"WolfStandVar4B","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/249\/564217","type":"audio\/ogg; codecs=\"vorbis\""}]},{"activity":"customattack","id":3176,"type":10,"name":"BiteMediumA.ogg","files":[{"id":564214,"title":"BiteMediumA","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/246\/564214","type":"audio\/ogg; codecs=\"vorbis\""},{"id":564220,"title":"BiteMediumB","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/252\/564220","type":"audio\/ogg; codecs=\"vorbis\""},{"id":564221,"title":"BiteMediumC","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/253\/564221","type":"audio\/ogg; codecs=\"vorbis\""}]},{"activity":"customattack","id":3176,"type":10,"name":"BiteMediumA.ogg","files":[{"id":564214,"title":"BiteMediumA","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/246\/564214","type":"audio\/ogg; codecs=\"vorbis\""},{"id":564220,"title":"BiteMediumB","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/252\/564220","type":"audio\/ogg; codecs=\"vorbis\""},{"id":564221,"title":"BiteMediumC","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/253\/564221","type":"audio\/ogg; codecs=\"vorbis\""}]},{"activity":"customattack","id":3176,"type":10,"name":"BiteMediumA.ogg","files":[{"id":564214,"title":"BiteMediumA","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/246\/564214","type":"audio\/ogg; codecs=\"vorbis\""},{"id":564220,"title":"BiteMediumB","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/252\/564220","type":"audio\/ogg; codecs=\"vorbis\""},{"id":564221,"title":"BiteMediumC","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/253\/564221","type":"audio\/ogg; codecs=\"vorbis\""}]},{"activity":"customattack","id":3176,"type":10,"name":"BiteMediumA.ogg","files":[{"id":564214,"title":"BiteMediumA","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/246\/564214","type":"audio\/ogg; codecs=\"vorbis\""},{"id":564220,"title":"BiteMediumB","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/252\/564220","type":"audio\/ogg; codecs=\"vorbis\""},{"id":564221,"title":"BiteMediumC","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/253\/564221","type":"audio\/ogg; codecs=\"vorbis\""}]}]});
+</script><script>new Listview({
+    data: lv_comments0,
+    id: 'comments',
+    name: WH.TERMS.comments,
+    parent: 'lkljbjkb574',
+    
+    tabOpts: {className: 'ugc-tab ugc-tab-comments'},
+    tabs: tabsRelated,
+    template: 'comment',
+});new Listview({
+    data: lv_screenshots,
+    id: 'screenshots',
+    name: WH.TERMS.screenshots,
+    parent: 'lkljbjkb574',
+    tabOpts: {className: 'ugc-tab ugc-tab-screenshots'},
+    tabs: tabsRelated,
+    template: 'screenshot',
+});if (lv_videos.length) {
+    new Listview({
+        data: lv_videos,
+        id: 'videos',
+        name: WH.TERMS.videos,
+        parent: 'lkljbjkb574',
+        tabs: tabsRelated,
+        tabOpts: {className: 'ugc-tab ugc-tab-videos'},
+        template: 'video',
+    });
+}
+if (window.lv_videos_english && lv_videos_english.length) {
+    new Listview({
+        data: lv_videos_english,
+        id: 'videos-english',
+        name: WH.TERMS.englishvideos,
+        parent: 'lkljbjkb574',
+        tabs: tabsRelated,
+        tabOpts: {className: 'ugc-tab ugc-tab-videos'},
+        template: 'video',
+    });
+}tabsRelated.flush();
+//]]></script>
+
+<h2 class="heading-size-2">Contribute</h2>
+<div id="lkgljhkv456" class="comment-tabs"></div>
+
+<div class="text comment-tabs-body">
+<div class="tabbed-contents" style="clear:none">
+<div id="tab-add-your-comment" style="display:none">
+Please keep the following in mind when posting a comment:<ul>
+    <li><div>Your comment must be in English or it will be removed.</div></li>
+    <li><div>Unsure how to post? Check out our <a href="/help=commenting-and-you" target="_blank">handy guide</a>!</div></li>
+    <li><div>You might want to proof-read your comments before posting them.</div></li>
+    <li><div>Please post questions on our <a href="/forums">forums</a> for quicker reply.</div></li>
+</ul>
+<form>
+    <div class="comment-edit-body">
+        <textarea class="comment-editbox" rows="10" cols="40" name="commentbody" disabled="disabled"></textarea>
+    </div>
+    <small>You are not logged in. Please <a href="/account=signin">log in</a> or <a href="/account=signup">register an account</a> to add your comment.</small>
+</form>
+</div>
+<div id="tab-submit-a-screenshot" style="display:none">
+    Simply browse for your screenshot using the form below.    <ul>
+        <li><div>Screenshots containing UI elements are generally declined on sight, the same goes for screenshots from the modelviewer or character selection screen.</div></li>
+        <li><div>The higher the quality the better!</div></li>
+        <li><div>Please review our <a href="/help=screenshot-guidelines" target="_blank">Screenshot Guidelines</a> before submitting!</div></li>
+    </ul>
+    <form action="/" method="post">
+        <input type="file" name="screenshotfile" disabled="disabled"><br>
+        <small>You are not logged in. Please <a href="/account=signin">log in</a> to submit a screenshot.</small>
+    </form>
+</div>
+
+<div id="tab-suggest-a-video" style="display:none">
+    Simply type the URL of the video in the form below.    <div class="pad2"></div>
+    <form action="/video=add&amp;1.1508" method="post" enctype="multipart/form-data"
+          onsubmit="return vi_validateForm(this)">
+
+        URL: <input type="text" name="videourl" style="width:35%">
+        <small>Supported: YouTube only</small>
+                    <div class="pad2"></div>
+            Title: <input type="text" name="videotitle" maxlength="200"> <small>Optional, up to 200 characters</small><br>
+                    <div class="pad"></div>
+        <input type="submit" value="Submit">
+
+        <div class="pad3"></div>
+        <small class="q0">Note: Your video will need to be approved before appearing on the site.</small>
+
+    </form>
+</div>
+<div id="tab-submit-your-data" style="display: none">
+    <p>The <b>Wowhead Client</b> is a little application we use to keep our database up to date, and to provide you with some nifty extra functionality on the website! &nbsp;</p>
+    <div class="pad2"></div>
+    <p>It serves 2 main purposes: &nbsp;</p>
+
+    <ol>
+        <li><div>It maintains a WoW addon called the <b>Wowhead Looter</b>, which collects data as you play the game! &nbsp;</div></li>
+        <li><div>It uploads the <b>collected data</b> to Wowhead in order to keep the database up-to-date! &nbsp;</div></li>
+    </ol>
+
+    <p>You can also use it to keep track of your completed quests, recipes, mounts, companion pets, and titles!&nbsp;</p>
+    <div class="pad2"></div>
+    <p>So, what are you waiting for? <a href="/client">Download the client</a> and get started.&nbsp;</p>
+</div>
+</div>
+</div>
+
+<script>
+var tabsContribute = new Tabs({parent: WH.ge('lkgljhkv456')});
+        tabsContribute.add(WH.TERMS.addyourcomment_stc, {id: 'add-your-comment'});tabsContribute.add(WH.TERMS.submitascreenshot_stc, {id: 'submit-a-screenshot'});tabsContribute.add(WH.TERMS.suggestavideo_stc, {id: 'suggest-a-video'});
+tabsContribute.add(WH.TERMS.submityourdata_stc, {id: 'submit-your-data'});tabsContribute.flush();
+</script>            <div class="clear"></div>
+        </div>    </div>    </div>
+<script>WH.Page.init()</script>
+
+<div class="blocks">
+        <div class="block-pair"><div class="horizontal-block-bg is-btf" data-was-parent="true">
+    <div id="ad-horizontalBTF" data-was-unit="true" class="banner-ad">
+        <script>WH.WAS.validateUnit("ad-horizontalBTF");</script>
+    </div>
+</div>
+</div>
+    </div><div class="mobile-footer-block-bg is-atf" data-was-parent="true">
+    <div id="ad-mobileFooter" data-was-unit="true" class="banner-ad">
+        <script>WH.WAS.validateUnit("ad-mobileFooter");</script>
+    </div>
+</div>
+
+<div class="site-footer">
+    <div class="footer-sites">
+        <div class="imitation-heading heading-size-2">Connect with Wowhead</div>            <ul>
+                                <li><a href="https://discord.gg/wowhead" class="discord-icon">Discord</a></li>
+                <li><a href="https://twitter.com/Wowhead" class="fa fa-twitter">Twitter</a></li>
+                <li><a href="https://www.facebook.com/Wowhead" class="fa fa-facebook">Facebook</a></li>
+                <li><a href="https://www.youtube.com/user/Wowhead" class="fa fa-youtube-play">YouTube</a></li>
+                <li><a href="/news/rss/all" class="fa fa-rss hassubmenu">News Feed</a></li>
+            </ul>
+
+            <div class="imitation-heading heading-size-2">Wowhead Resources</div>            <ul class="footer-site-links"><li><a href="/help" id="footer-help-menu">Need Help?</a></li><li><a href="javascript:" id="footer-tools-menu">User Tools</a></li><li><a href="/aboutus" id="footer-about-menu">About Us</a></li><li><a href="https://corp.fanbyte.com/partner">Advertise</a></li><li><a href="/whats-new">What's New</a></li><li><a href="javascript:" id="footer-cookies" style="display:none">Cookies</a></li><li><a href="/random" class="fa fa-random">Random Page</a></li><li><a href="/premium" class="fa fa-star">Premium</a></li></ul>
+            <script>WH.setupFooterMenus();</script>
+            <div class="imitation-heading heading-size-2">Other Fanbyte Sites</div>            <ul>
+                <li><a href="https://www.fanbyte.com/">Fanbyte</a></li>
+                <li><a href="https://www.hearthstonetopdecks.com/">Hearthstone Top Decks</a></li>
+                <li><a href="http://everquest.allakhazam.com/">Everquest</a></li>
+                <li><a href="http://eq2.zam.com/">Everquest II</a></li>
+                <li><a href="http://ffxi.allakhazam.com/">Final Fantasy XI</a></li>
+            </ul>
+        </div>
+        <div class="footer-fanbyte">
+            <a href="https://www.fanbyte.com/" class="footer-fanbyte-logo lazy-load-background"></a>
+        </div>
+</div>
+<div class="copyright">&copy; 2021 Fanbyte</div>
+
+<script>
+Menu.add(WH.qs('.footer-sites .fa-rss'), [[1,"All news posts","\/news\/rss\/all"],[2,"Classic WoW news","\/news\/rss\/classic"],[3,"Retail WoW news","\/news\/rss\/retail"],[4,"In-development WoW news","\/news\/rss\/in-dev"],[5,"Other Blizzard games news","\/news\/rss\/other-blizzard-games"]]);
+</script>
+
+</div></div><script>Platform.init();</script>
+
+<script>
+    qcdata = {} || qcdata;
+    (function(){
+        var elem = document.createElement('script');
+        elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-80xBzMhbKolFI";
+        elem.async = true;
+        elem.type = "text/javascript";
+        var scpt = document.getElementsByTagName('script')[0];
+        scpt.parentNode.insertBefore(elem,scpt);
+    }());
+
+    var qcdata = {qacct: 'p-80xBzMhbKolFI', labels: ''};
+</script>
+<noscript>
+    <img src="//pixel.quantserve.com/pixel/p-80xBzMhbKolFI.gif?labels=_fp.event.Default" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window,document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '200005404004494');
+    fbq('track', 'PageView');
+</script>
+<noscript>
+    <img height="1" width="1" src="https://www.facebook.com/tr?id=200005404004494&ev=PageView&noscript=1">
+</noscript>
+
+</body>
+</html>

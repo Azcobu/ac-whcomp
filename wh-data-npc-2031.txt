@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1, user-scalable=no">
+    <script>var _sf_startpt=(new Date()).getTime();</script>
+    <title>Young Nightsaber - NPC - TBC Classic</title>
+
+    <meta name="description" content="Young Nightsaber is a level 1 NPC that can be found in Teldrassil. This NPC can be found in Teldrassil. This NPC is the objective of The Balance of Nature.">
+    <meta name="keywords" content="Young Nightsaber, NPC, Screenshots, 1.13.2, Classic">
+
+    <meta name="google-site-verification" content="SScjPPnjqJ0lGTlZeVs9x0D3_jmctKZ-6nE4cvfGL00">
+    <meta property="twitter:title" content="Young Nightsaber">
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:image" content="https://wow.zamimg.com/uploads/screenshots/normal/75704-young-nightsaber.jpg">
+    <meta property="twitter:imageUrl" content="https://wow.zamimg.com/uploads/screenshots/normal/75704-young-nightsaber.jpg">
+    <meta property="twitter:site:id" content="17258481">
+    <meta property="twitter:site" content="@Wowhead">
+    <meta property="twitter:domain" content="wowhead.com">
+    <meta property="twitter:description" content="Young Nightsaber is a level 1 NPC that can be found in Teldrassil. This NPC can be found in Teldrassil. This NPC is the objective of The Balance of Nature.">
+    <meta property="twitter:image:alt" content="Young Nightsaber is a level 1 NPC that can be found in Teldrassil. This NPC can be found in Teldrassil. This NPC is the objective of The Balance of Nature.">
+    <meta property="og:title" content="Young Nightsaber">
+    <meta property="og:type" content="article">
+    <meta property="og:image" content="https://wow.zamimg.com/uploads/screenshots/normal/75704-young-nightsaber.jpg">
+    <meta property="og:site_name" content="Wowhead">
+    <meta property="og:url" content="https://tbc.wowhead.com/npc=2031/young-nightsaber">
+    <meta property="og:description" content="Young Nightsaber is a level 1 NPC that can be found in Teldrassil. This NPC can be found in Teldrassil. This NPC is the objective of The Balance of Nature.">
+    <meta property="fb:pages" content="169121139638">
+
+    <link rel="canonical" href="https://tbc.wowhead.com/npc=2031/young-nightsaber">
+    <link rel="alternate" hreflang="en" href="https://tbc.wowhead.com/npc=2031/young-nightsaber"><link rel="alternate" hreflang="fr" href="https://fr.tbc.wowhead.com/npc=2031/jeune-sabre-de-nuit"><link rel="alternate" hreflang="de" href="https://de.tbc.wowhead.com/npc=2031/junger-nachtsäbler"><link rel="alternate" hreflang="es" href="https://es.tbc.wowhead.com/npc=2031/sable-de-la-noche-joven"><link rel="alternate" hreflang="ru" href="https://ru.tbc.wowhead.com/npc=2031/молодой-ночной-саблезуб"><link rel="alternate" hreflang="pt" href="https://pt.tbc.wowhead.com/npc=2031/sabre-da-noite-jovem"><link rel="alternate" hreflang="it" href="https://it.tbc.wowhead.com/npc=2031/young-nightsaber"><link rel="alternate" hreflang="zh" href="https://cn.tbc.wowhead.com/npc=2031/夜刃豹幼崽"><link rel="alternate" hreflang="ko" href="https://ko.tbc.wowhead.com/npc=2031/새끼-흑호">    <link rel="search" type="application/opensearchdescription+xml" href="https://tbc.wowhead.com/opensearch/description?v=3" title="Wowhead (Burning Crusade)">
+    <link rel="icon" type="image/png" href="https://wow.zamimg.com/images/logos/favicon-classic.png">
+    <link rel="apple-touch-icon-precomposed" href="https://wow.zamimg.com/apple-touch-icon.png">
+
+
+    <script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Person","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/tbc.wowhead.com\/npc=2031\/young-nightsaber"},"name":"Young Nightsaber","url":"https:\/\/tbc.wowhead.com\/npc=2031\/young-nightsaber","logo":"https:\/\/wow.zamimg.com\/images\/logos\/wh-logo.png","publisher":{"@type":"Organization","name":"Wowhead Logo","logo":{"@type":"ImageObject","url":"https:\/\/wow.zamimg.com\/images\/logos\/amp-valid.png","width":395,"height":60}},"description":"Young Nightsaber is a level 1 NPC that can be found in Teldrassil. This NPC can be found in Teldrassil. This NPC is the objective of The Balance of Nature.","image":{"@type":"ImageObject","url":"https:\/\/wow.zamimg.com\/uploads\/screenshots\/normal\/75704-young-nightsaber.jpg","height":396,"width":645}}</script>
+
+
+<link rel="stylesheet" type="text/css" href="https://wow.zamimg.com/css/classic/basic.css?f5c9027" onerror="location.href=&quot;/error-static-cdn?reason=css&amp;hash=f5c9027&amp;at=1625145527&quot;;">
+<link rel="stylesheet" type="text/css" href="https://wow.zamimg.com/css/classic/global.css?f5c9027">
+<link rel="stylesheet" type="text/css" href="https://wow.zamimg.com/css/themes/classic.css?f5c9027">
+<link rel="stylesheet" type="text/css" href="https://wow.zamimg.com/css/classic/tools/partials/class-selector.css?f5c9027">
+
+<script src="https://wow.zamimg.com/js/preamble.js?f5c9027" onerror="location.href=&quot;/error-static-cdn?reason=js&amp;hash=f5c9027&amp;at=1625145527&quot;;"></script>
+    <script>
+        g_user = {"id":0,"name":"","roles":0,"permissions":0,"ads":true,"canDeleteComments":false};
+    </script>
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="11986010-b318-46fd-ab82-e05142e195e2" data-ignore-ga="true"></script>
+<script>function OptanonWrapper() {}</script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+<script type="application/json" id="data.pageMeta">{"dataBuild":{"1":"39226","2":"39069","4":"38363","5":"38988"},"dataEnv":{"env":5,"tree":5,"active":{"ptr":true,"beta":false},"versions":{"1":"9.1.0","2":"9.1.0","3":"9.0.2","4":"1.13.7","5":"2.5.1"}},"event":null,"hasSidebar":true,"page":"npc","serverTime":"2021-07-01T08:18:47-05:00","scriptVersionQueryString":"f5c9027","staticUrl":"https:\/\/wow.zamimg.com","theme":"classic","wowhead":true,"staticResizing":{"limit":3000,"throttle":{"start":3000,"percent":0}}}</script>
+<script type="application/json" id="data.notifications.public-key">"BCv9I9cvqAYEi2ddxSOqAbkm8KTL-CNlIGmXk8R7ievkXR7QfBrNtkXQqk73vleylt5MlZQ8jFQ-tEQ_ObVxxMI"</script>
+<script type="application/json" id="data.page.info">{"commentsLocked":false,"entityId":2031,"entityType":1}</script>
+
+    <script src="https://wow.zamimg.com/js/basic.js?f5c9027"></script>
+    <script src="https://wow.zamimg.com/widgets/power.js?f5c9027"></script>
+    <script src="https://wow.zamimg.com/global-strings/tbc.enus.js?hash=MTesStCEItL1LIOHSn1NOA"></script>
+    <script src="/menus?739e7b0b2e7bc3c35f36dcb52c1880d8"></script>
+    <script src="https://wow.zamimg.com/js/locale/live.enus.js?f5c9027"></script>
+    <script src="https://wow.zamimg.com/js/locale/tbc.enus.js?f5c9027"></script>
+    <script src="https://wow.zamimg.com/js/locale-post-processing.js?f5c9027"></script>
+    <script src="/data/global?locale=0&dataEnv=5&dv=20&b=38988&versionsSig=99242df8a4422000a3c2738485dc5297"></script>
+    <script src="https://wow.zamimg.com/js/global.js?f5c9027"></script>
+    <script src="https://wow.zamimg.com/js/WH/Page/Npc.js?f5c9027"></script>
+    <script src="https://wow.zamimg.com/js/WH/Listview/Templates/comment.js?f5c9027"></script>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+WH.Track.gaInit();
+</script>
+
+<script>WH.WAS.init("NPC", "Database Detail", ["horizontal","skin","vertical","mobileMedrec","mobileFooter","horizontalBTF"]);</script>
+
+    <script src="/data/difficulties?locale=0&dataEnv=5&dv=2&b=38988"></script>
+    <script src="/data/item-bonuses?locale=0&dataEnv=5&dv=11&b=38988"></script>
+    <script src="/data/zones?locale=0&dataEnv=5&dv=14&b=38988"></script>
+
+
+</head>
+
+<body class="standard-layout locale-0 has-ads">
+<script>document.dispatchEvent(new CustomEvent('bodyAvailable'))</script>
+<noscript>
+    <div id="noscript-wrapper">
+        <div id="noscript-text">
+            <b>This site makes extensive use of JavaScript.</b><br />
+            Please <a href="https://www.enable-javascript.com/" target="_blank">enable JavaScript</a> in your browser.        </div>
+    </div>
+</noscript>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KN7HXDF"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>
+    Locale.set(0);
+
+    $(function() {
+                ZUL.init({state: 'loggedOut'});
+                ZUL.whInit = true;
+    });
+</script>
+<script>Platform.preInit1();</script>
+<div class="skin-block-bg is-atf" data-was-parent="true">
+    <div id="ad-skin" data-was-unit="true" class="banner-ad">
+        <script>WH.WAS.validateUnit("ad-skin");</script>
+    </div>
+</div>
+
+
+<div class="header-wrapper">
+<div class="header">
+    <div class="header-left">
+        <a href="/" class="header-logo"></a>    </div>
+
+    <div class="header-right">
+        <div class="header-search">
+            <form action="/search"><input type="text" name="q" placeholder="Search guides, news, database…" value="" /></form>
+        </div>
+        <div class="data-env-links" data-ptr="active"><div class="data-env-links-group"><a class="btn btn-site fa fa-fw fa-square" data-env="live" data-whattach="true" title="View the Live (9.1.0) version of this page" href="https://www.wowhead.com/npc=2031/young-nightsaber?fromBurningCrusade">Live</a><a class="btn btn-site fa fa-fw fa-square" data-env="ptr" data-whattach="true" title="View the 9.1.0 PTR version of this page" href="https://ptr.wowhead.com/npc=2031/young-nightsaber?fromBurningCrusade">PTR</a></div><div class="data-env-links-group"><a class="btn btn-site fa fa-fw fa-square" data-env="classic" data-whattach="true" title="View the Classic version of this page" href="https://classic.wowhead.com/npc=2031/young-nightsaber?fromBurningCrusade">Classic</a><a class="btn btn-site fa fa-fw fa-check current" data-env="tbc" data-whattach="true" title="Currently viewing the Burning Crusade version of this page">TBC</a></div></div>
+<div class="header-theme-switcher">    <a href="javascript:" class="btn btn-site fa fa-fw fa-check current" data-theme="classic">Classic Theme</a>
+        <a href="javascript:" class="btn btn-site fa fa-fw fa-square" data-theme="thottbot">Thottbot Theme</a>
+    </div>
+    </div>
+
+    <script>WH.Layout.User.init();</script>
+
+            <a class="header-expand-site-tab"></a>
+    </div>
+</div>
+
+<div class="layout-wrapper">
+<div class="layout">
+    <div id="page-content" class="page-content">
+                <div class="sidebar-wrapper"><div class="sidebar">
+            <div id="sidebar-zamaf-bt-ph"></div><div class="vertical-block-bg is-atf" data-was-parent="true">
+    <div id="ad-vertical" data-was-unit="true" class="banner-ad">
+        <script>WH.WAS.validateUnit("ad-vertical");</script>
+    </div>
+</div>
+        </div></div>
+        <script>WH.Layout.initSidebar();</script>
+        
+    <div class="main" id="main">
+                <div class="blocks">
+            <div class="block-pair">
+                <div class="horizontal-block-bg is-atf" data-was-parent="true">
+    <div id="ad-horizontal" data-was-unit="true" class="banner-ad">
+        <script>WH.WAS.validateUnit("ad-horizontal");</script>
+    </div>
+</div>
+            </div>
+            <div id="video-pos-static"><div id="ac-container"></div><script>WH.WAS.validateUnit("video-pos-static")</script></div>        </div>
+        <div id="video-pos-fixed"><script>WH.WAS.validateUnit("video-pos-fixed")</script></div><script>WH.WAS.initVideo();</script>                <div class="main-precontents" id="main-precontents"></div>
+        <script>Platform.preInit2();</script>
+        <div class="main-contents" id="main-contents">
+            <div id="announcement-0"></div>
+
+<script>
+    WH.Layout.set({"pageName":"npc","activeTab":0,"breadcrumb":[]});
+    WH.Layout.init();
+    skipCaptcha = true;
+    g_host = "https:\/\/tbc.wowhead.com";
+</script>
+
+<div id="infobox-original-position">
+<table class="infobox"><tr>
+    <td>
+    <table class="infobox-inner-table">
+    <tr class="infobox-heading">
+        <th id="infobox-quick-facts">
+                        Quick Facts        </th>
+    </tr>
+    <tr>
+        <td>
+        <div class="infobox-spacer"></div>
+                <div id="infobox-contents-0"></div>
+        <script>
+            WH.markup.printHtml("[ul][li]Level: 1[\/li][li]React: [color=q]A[\/color][\/li][li]Type: Beast[\/li][li]Tameable ([url=\/pet=2]Cat[\/url])[\/li][li]Worth: [tooltip=tooltip_avgmoneydropped][money=3][\/tooltip][\/li][li]Added in patch 1.13.2.30550[\/li][\/ul]", "infobox-contents-0", {
+                allow: WH.markup.CLASS.STAFF,
+                dbPage: true,            });
+        </script>
+            </td></tr>
+    </table>
+    </td>
+    <td>
+    <table class="infobox-inner-table">
+    <tr class="infobox-heading">
+        <th id="infobox-">
+                                </th>
+    </tr>
+    <tr>
+        <td>
+        <div class="infobox-spacer"></div>
+                <div id="infobox-sticky-model"></div>            </td></tr>
+    </table>
+    </td>
+    <td>
+    <table class="infobox-inner-table">
+    <tr class="infobox-heading">
+        <th id="infobox-screenshots">
+                        Screenshots        </th>
+    </tr>
+    <tr>
+        <td>
+        <div class="infobox-spacer"></div>
+                <div id="infobox-sticky-ss"></div>            </td></tr>
+    </table>
+    </td>
+    <td>
+    <table class="infobox-inner-table">
+    <tr class="infobox-heading">
+        <th id="infobox-videos">
+                        Videos        </th>
+    </tr>
+    <tr>
+        <td>
+        <div class="infobox-spacer"></div>
+                <div id="infobox-sticky-vi"></div>            </td></tr>
+    </table>
+    </td>
+</tr></table>
+</div>
+<script>WH.prepInfobox();</script>
+<script>
+        WH.onLoad(function () {
+            ss_appendSticky();
+            vi_appendSticky();
+        });
+    </script><script type="text/javascript">//<![CDATA[
+var lv_comments0 = [{"commentv2":1,"number":0,"id":8410,"nreplies":0,"sticky":0,"user":"7114","body":"Found in the southern region of Shadowglen, the Night Elf starting zone.","date":"2006-12-07T11:38:40-06:00","rating":2,"indent":0,"roles":0,"deleted":0,"outofdate":0,"userRating":0,"replies":[],"dataTree":1,"markupDisabledEnvironments":{"2":true,"3":false}},{"commentv2":1,"number":1,"id":2839438,"nreplies":0,"sticky":0,"user":"Thottbot","body":"this thing suck so bad","date":"2006-06-24T23:22:05-05:00","rating":0,"indent":0,"roles":64,"deleted":0,"outofdate":0,"userRating":0,"replies":[],"dataTree":1,"markupDisabledEnvironments":{"2":true,"3":false},"imported":true,"importedAuthor":"hitman01","importedSubject":"this pet sucks"},{"commentv2":1,"number":2,"id":2896110,"nreplies":0,"sticky":0,"user":"Allakhazam","body":"NVM got answer in game.\n\n[i][small]Edited, Dec 27th 2006  3:57pm by Atonmcintosh[\/small][\/i]","date":"2006-12-24T02:04:38-06:00","rating":1,"indent":0,"roles":64,"deleted":0,"outofdate":0,"userRating":0,"replies":[],"dataTree":1,"markupDisabledEnvironments":{"2":true,"3":false},"imported":true,"importedAuthor":"Atonmcintosh","importedSubject":"Big cat?"},{"commentv2":1,"number":3,"id":2896111,"nreplies":0,"sticky":0,"user":"Allakhazam","body":"i've got a one of these and it's lvl 17 and it's attack speek is about one and a half seconds.","date":"2006-07-11T18:19:37-05:00","rating":1,"indent":0,"roles":64,"deleted":0,"outofdate":0,"userRating":0,"replies":[],"dataTree":1,"markupDisabledEnvironments":{"2":true,"3":false},"imported":true,"importedAuthor":"SaineRaine","importedSubject":"i've got one"},{"commentv2":1,"number":4,"id":2896112,"nreplies":1,"sticky":0,"user":"Allakhazam","body":"whats the attack speed on this guy? i figured ide keep swappin pets on my hunter to get the skills, then at 60 tame some lower lvl ones such as a lvl1 young nightsaber and raise him to 60. get more training points that way to teach em more. but i still dont know what the attack speed on one of these guys is.","date":"2006-04-03T07:23:07-05:00","rating":1,"indent":0,"roles":64,"deleted":0,"outofdate":0,"userRating":0,"replies":[{"body":"Um, new hunter are we? \nI want to clear some stuff up.\n1. your get 300 training points to use, and if you say get a cat, get a lot of training points and save them, then abandon that cat\/switch to another animal, all those training points are gone(training points stay with that one animal)\n2. Attack speed does NOT change with your level, you didnt say this but some other implied it changes as you level. \n3. Have ANY questions about hunters? go to TKAsomething.com\nIf you cant find your info on the site main section click on the \"forums\" tab. Search there and or join us into my favorite online f","creationdate":"2006-10-12T01:00:17-05:00","id":1234513,"rating":0,"commentid":2896112,"dataTree":1,"roles":64,"username":"Allakhazam","markupDisabledEnvironments":{"2":true,"3":false},"downvotedByUser":false,"reportedByUser":false,"votedByUser":false,"imported":true,"importedAuthor":"milcontwo","importedSubject":"hunting"}],"dataTree":1,"markupDisabledEnvironments":{"2":true,"3":false},"imported":true,"importedAuthor":"DragonStorms","importedSubject":"hunting"},{"commentv2":1,"number":5,"id":2896113,"nreplies":0,"sticky":0,"user":"Allakhazam","body":"I tamed one of them with my troll hunter on 10 level(u do not want to know how) and i am pretty happy. About attack speed- for now it is 2secs, donno what will hapen when i raise it more.","date":"2006-07-13T10:12:35-05:00","rating":1,"indent":0,"roles":64,"deleted":0,"outofdate":0,"userRating":0,"replies":[],"dataTree":1,"markupDisabledEnvironments":{"2":true,"3":false},"imported":true,"importedAuthor":"FalloutBGVault","importedSubject":"Young Nightsaber"},{"commentv2":1,"number":6,"id":2896114,"nreplies":0,"sticky":0,"user":"Allakhazam","body":"Uber. Totally.","date":"2006-02-23T00:59:46-06:00","rating":1,"indent":0,"roles":64,"deleted":0,"outofdate":0,"userRating":0,"replies":[],"dataTree":1,"markupDisabledEnvironments":{"2":true,"3":false},"imported":true,"importedAuthor":"thezurcher","importedSubject":"OMFG PWNZORZ"},{"commentv2":1,"number":7,"id":2896115,"nreplies":0,"sticky":0,"user":"Allakhazam","body":"Ok, I know the old trick to getting into opposing faction areas. That no longer works since the early 2008 update. So how to I get to Darnassus alive to even get to the Young Nightsabers?\n\n*********************************************************\n\nWell, I found a way in and it hurts.\nStep 1. Get to Auberdine in Darkstand; Swim out avoiding aggro and drown yourself at the end of the North pier; Run back to the pier, staying on the pier this time, and wait for the boat to dock; Get on the boat and wait until it pulls away from the dock and res. \n\nStep 2. going to take a few tries, but get as close to the teleport to darnassus as you can, hopefully close enough to res and get into the portal before you die again, this will get you to Darnassus alive, but not for long as the guards kill you there and you are sent to the Dolanarr gy. Res the and run like hell North East, you'll die from a nearby guard, but should be able to reres at a further distance with your body between you and the guard. Once more run like hell.\n\nStep 3. Run to ShadowGlen, you'll die the first and second attempts to res from the guards blocking the path, but just res as far from your body as possible and keep running.\n\nStep 4. Congratulations, you've finally made it to the Night Elf starting area and can now tame a Level 1 Young Nightsaber to raise.\n\nStep 5. Hearth the frell out of there and enjoy your new Young Nightsaber.\n\nInstruction courtesy of Iraboom, US Kirin Tor.\n\n[i][small]Edited, May 31st 2008  5:35am by Ronthock[\/small][\/i]\n\n[i][small]Edited, May 31st 2008  5:36am by Ronthock[\/small][\/i]\n\n[i][small]Edited, May 31st 2008  5:36am by Ronthock[\/small][\/i]","date":"2008-05-31T05:43:53-05:00","rating":1,"indent":0,"roles":64,"deleted":0,"outofdate":0,"userRating":0,"replies":[],"dataTree":1,"markupDisabledEnvironments":{"2":true,"3":false},"imported":true,"importedAuthor":"Ronthock","importedSubject":"Question"}];
+</script>
+
+<noscript><div id="user-comments"><h2 class="heading-size-2">Comments</h2><div class="user-post-"><h3 class="heading-size-3">Comment by <b>7114</b></h3>Found in the southern region of Shadowglen, the Night Elf starting zone.</div>
+
+<div class="user-post-"><h3 class="heading-size-3">Comment by <b>Thottbot</b></h3>this thing suck so bad</div>
+
+<div class="user-post-"><h3 class="heading-size-3">Comment by <b>Thottbot</b></h3>currently 52 and still have it, will be keeping it until 70 probably</div>
+
+<div class="user-post-"><h3 class="heading-size-3">Comment by <b>Allakhazam</b></h3>NVM got answer in game.<br /><br /><i>Edited, Dec 27th 2006 3:57pm by Atonmcintosh</i></div>
+
+<div class="user-post-"><h3 class="heading-size-3">Comment by <b>Allakhazam</b></h3>i've got a one of these and it's lvl 17 and it's attack speek is about one and a half seconds.</div>
+
+<div class="user-post-"><h3 class="heading-size-3">Comment by <b>Allakhazam</b></h3>whats the attack speed on this guy? i figured ide keep swappin pets on my hunter to get the skills, then at 60 tame some lower lvl ones such as a lvl1 young nightsaber and raise him to 60. get more training points that way to teach em more. but i still dont know what the attack speed on one of these guys is.</div>
+
+<div class="user-post-"><h3 class="heading-size-3">Comment by <b>Allakhazam</b></h3>I tamed one of them with my troll hunter on 10 level(u do not want to know how) and i am pretty happy. About attack speed- for now it is 2secs, donno what will hapen when i raise it more.</div>
+
+<div class="user-post-"><h3 class="heading-size-3">Comment by <b>Allakhazam</b></h3>Uber. Totally.</div>
+
+<div class="user-post-"><h3 class="heading-size-3">Comment by <b>Allakhazam</b></h3>Ok, I know the old trick to getting into opposing faction areas. That no longer works since the early 2008 update. So how to I get to Darnassus alive to even get to the Young Nightsabers?<br /><br />*********************************************************<br /><br />Well, I found a way in and it hurts.<br />Step 1. Get to Auberdine in Darkstand; Swim out avoiding aggro and drown yourself at the end of the North pier; Run back to the pier, staying on the pier this time, and wait for the boat to dock; Get on the boat and wait until it pulls away from the dock and res. <br /><br />Step 2. going to take a few tries, but get as close to the teleport to darnassus as you can, hopefully close enough to res and get into the portal before you die again, this will get you to Darnassus alive, but not for long as the guards kill you there and you are sent to the Dolanarr gy. Res the and run like hell North East, you'll die from a nearby guard, but should be able to reres at a further distance with your body between you and the guard. Once more run like hell.<br /><br />Step 3. Run to ShadowGlen, you'll die the first and second attempts to res from the guards blocking the path, but just res as far from your body as possible and keep running.<br /><br />Step 4. Congratulations, you've finally made it to the Night Elf starting area and can now tame a Level 1 Young Nightsaber to raise.<br /><br />Step 5. Hearth the frell out of there and enjoy your new Young Nightsaber.<br /><br />Instruction courtesy of Iraboom, US Kirin Tor.<br /><br /><i>Edited, May 31st 2008 5:35am by Ronthock</i><br /><br /><i>Edited, May 31st 2008 5:36am by Ronthock</i><br /><br /><i>Edited, May 31st 2008 5:36am by Ronthock</i></div>
+
+</div>
+
+</noscript>
+
+<script type="text/javascript">
+var lv_screenshots = [{"id":75704,"user":30676,"date":"2008-03-15T15:27:00-05:00","width":645,"height":396,"type":1,"typeId":2031,"imageType":2}];
+var lv_videos = [];
+var g_pageInfo = {type: 1, typeId: 2031, name: "Young Nightsaber"};
+WH.Layout.set({breadcrumb: [0, 4, 1, 2]});
+//]]></script>
+
+<script type='text/javascript'>//<![CDATA[
+$(document).ready(function(){$(".infobox li").last().after("<li><div>Health: 42</div></li>");});
+//]]></script>
+
+<div class="text">
+
+<div class="db-action-buttons"><script>WH.onLoad(function () {
+    var linksButton = WH.ge('open-links-button');
+    if (linksButton) {
+        linksButton.dataset.displayId = 11454;
+    }
+});</script><a href="javascript:" id="wh-mv-view-in-3d-button" class="btn btn-site btn-small" style="margin-left:5px;float:right" onclick="WH.ModelViewer.showLightbox({&quot;type&quot;:1,&quot;typeId&quot;:2031,&quot;displayId&quot;:11454})" data-mv-type="1" data-mv-type-id="2031" data-mv-display-id="11454">View in 3D</a><a href="javascript:" id="open-links-button" class="btn btn-small fa fa-fw fa-link" style="margin-left:5px;float:right" onclick="WH.Links.show(this, {&quot;type&quot;:1,&quot;typeId&quot;:2031}, event);">Links</a></div><h1 class="heading-size-1">Young Nightsaber</h1><div id="infobox-alternate-position"></div><div class="block-block-bg is-btf" data-was-parent="true">
+    <div id="ad-mobileMedrec" data-was-unit="true" class="banner-ad">
+        <script>WH.WAS.validateUnit("ad-mobileMedrec");</script>
+    </div>
+</div>
+<div>This NPC can be found in <span id="locations">                        <a href="javascript:" onclick="
+                            myMapper.update({
+                                zone: 141,
+                                level: 0,
+                            });
+                            WH.setSelectedLink(this, 'mapper');
+                            return false;
+                            " onmousedown="return false">Teldrassil</a>
+                        &nbsp;(33).</span>
+</div><div id="k6b43j6b"></div>
+<div style="clear:left"></div>
+
+<script>var g_mapperData = {"141":[{"count":33,"coords":[[56.4,44.4],[56.4,45.2],[56.6,44.4],[57,45],[57.2,39.2],[57.4,39.6],[57.6,39.8],[57.8,38.6],[57.8,44.2],[58.2,45.4],[58.2,46.8],[58.4,45.6],[58.6,45.4],[58.8,45.6],[60,45.4],[60,45.6],[60.4,44.2],[60.6,45.2],[60.6,45.6],[61.2,42.4],[61.4,39.4],[61.4,43.4],[61.4,43.6],[61.6,39.4],[61.6,39.6],[61.6,43.8],[61.6,45.4],[61.8,41.4],[61.8,42],[61.8,42.6],[62.6,42.2],[63,42.6],[63.8,41.6]],"uiMapId":1438,"uiMapName":"Teldrassil"}]};
+var myMapper = new Mapper({"parent":"k6b43j6b","zone":141,"name":"Young Nightsaber"});
+WH.gE(WH.ge('locations'), 'a')[0].onclick();
+</script><h2 class="heading-size-2 clear">Related</h2></div>
+
+<div id="jkbfksdbl4"></div>
+<div id="lkljbjkb574" class="listview">
+</div>
+<script type="text/javascript">//<![CDATA[
+WH.Gatherer.addData(3, 5, {"117":{"name_enus":"Tough Jerky","quality":1,"icon":"inv_misc_food_16","screenshot":{},"jsonequip":{"avgbuyout":505000,"buyprice":25,"cooldown":1000,"reqlevel":1,"sellprice":1},"attainable":0,"flags2":24580},"555":{"name_enus":"Rough Vulture Feathers","quality":0,"icon":"spell_magic_featherfall","screenshot":{},"jsonequip":{"avgbuyout":7,"sellprice":8},"attainable":0,"flags2":24580},"750":{"name_enus":"Tough Wolf Meat","quality":1,"icon":"inv_misc_food_16","screenshot":{},"jsonequip":{},"attainable":0,"flags2":24580},"805":{"name_enus":"Small Red Pouch","quality":1,"icon":"inv_misc_bag_09_red","screenshot":{},"jsonequip":{"avgbuyout":247,"sellprice":250,"slotbak":18},"attainable":0,"flags2":24580},"828":{"name_enus":"Small Blue Pouch","quality":1,"icon":"inv_misc_bag_09_blue","screenshot":{},"jsonequip":{"avgbuyout":260,"sellprice":250,"slotbak":18},"attainable":0,"flags2":24580},"1364":{"name_enus":"Ragged Leather Vest","quality":0,"icon":"inv_shirt_05","screenshot":{},"jsonequip":{"appearances":{"0":[4589,""]},"armor":31,"avgbuyout":100,"displayid":4589,"dura":45,"reqlevel":1,"sellprice":8,"slotbak":5},"attainable":0,"flags2":24580},"1366":{"name_enus":"Ragged Leather Pants","quality":0,"icon":"inv_pants_06","screenshot":{},"jsonequip":{"appearances":{"0":[8409,""]},"armor":17,"avgbuyout":150,"displayid":8409,"dura":30,"reqlevel":1,"sellprice":2,"slotbak":7},"attainable":0,"flags2":24580},"1367":{"name_enus":"Ragged Leather Boots","quality":0,"icon":"inv_boots_06","screenshot":{},"jsonequip":{"appearances":{"0":[4463,""]},"armor":16,"avgbuyout":200,"displayid":4463,"dura":20,"reqlevel":1,"sellprice":2,"slotbak":8},"attainable":0,"flags2":24580},"1368":{"name_enus":"Ragged Leather Gloves","quality":0,"icon":"inv_gauntlets_18","screenshot":{},"jsonequip":{"appearances":{"0":[9374,""]},"armor":17,"avgbuyout":1400,"displayid":9374,"dura":16,"reqlevel":1,"sellprice":2,"slotbak":10},"attainable":0,"flags2":24580},"1369":{"name_enus":"Ragged Leather Belt","quality":0,"icon":"inv_belt_24","screenshot":{},"jsonequip":{"appearances":{"0":[5728,""]},"armor":18,"avgbuyout":100,"displayid":5728,"dura":16,"reqlevel":1,"sellprice":4,"slotbak":6},"attainable":0,"flags2":24580},"1370":{"name_enus":"Ragged Leather Bracers","quality":0,"icon":"inv_bracer_10","screenshot":{},"jsonequip":{"appearances":{"0":[5578,""]},"armor":12,"avgbuyout":3333,"displayid":5578,"dura":16,"reqlevel":1,"sellprice":2,"slotbak":9},"attainable":0,"flags2":24580},"1372":{"name_enus":"Ragged Cloak","quality":0,"icon":"inv_misc_cape_10","screenshot":{},"jsonequip":{"appearances":{"0":[23014,"inv_misc_pelt_bear_02"]},"armor":3,"avgbuyout":2,"displayid":23014,"reqlevel":1,"sellprice":2,"slotbak":16},"attainable":0,"flags2":24580},"1374":{"name_enus":"Frayed Shoes","quality":0,"icon":"inv_boots_09","screenshot":{},"jsonequip":{"appearances":{"0":[12850,""]},"armor":5,"avgbuyout":20000,"displayid":12850,"dura":18,"reqlevel":1,"sellprice":3,"slotbak":8},"attainable":0,"flags2":24580},"1376":{"name_enus":"Frayed Cloak","quality":0,"icon":"inv_misc_cape_10","screenshot":{},"jsonequip":{"appearances":{"0":[23090,""]},"armor":5,"avgbuyout":5555,"displayid":23090,"reqlevel":1,"sellprice":4,"slotbak":16},"attainable":0,"flags2":24580},"1377":{"name_enus":"Frayed Gloves","quality":0,"icon":"inv_gauntlets_18","screenshot":{},"jsonequip":{"appearances":{"0":[11051,""]},"armor":4,"avgbuyout":349,"displayid":11051,"dura":12,"reqlevel":1,"sellprice":1,"slotbak":10},"attainable":0,"flags2":24580},"1378":{"name_enus":"Frayed Pants","quality":0,"icon":"inv_pants_09","screenshot":{},"jsonequip":{"appearances":{"0":[9187,""]},"armor":4,"avgbuyout":50003,"displayid":9187,"dura":25,"reqlevel":1,"sellprice":1,"slotbak":7},"attainable":0,"flags2":24580},"1380":{"name_enus":"Frayed Robe","quality":0,"icon":"inv_chest_cloth_21","screenshot":{},"jsonequip":{"appearances":{"0":[12426,""]},"armor":8,"avgbuyout":1994,"displayid":12426,"dmgrange":0.2,"dura":35,"reqlevel":1,"sellprice":4,"slotbak":20},"attainable":0,"flags2":24580},"1476":{"name_enus":"Snapped Spider Limb","quality":0,"icon":"inv_misc_monsterspidercarapace_01","screenshot":{},"jsonequip":{"sellprice":6,"sheathtype":1},"attainable":0,"flags2":24580},"2070":{"name_enus":"Darnassian Bleu","quality":1,"icon":"inv_misc_food_06","screenshot":{},"jsonequip":{"avgbuyout":1000000,"buyprice":25,"cooldown":1000,"reqlevel":1,"sellprice":1},"attainable":0,"flags2":24580},"2210":{"name_enus":"Battered Buckler","quality":0,"icon":"inv_shield_09","screenshot":{},"jsonequip":{"appearances":{"0":[2552,""]},"armor":12,"blockamount":1,"displayid":2552,"dura":25,"reqlevel":1,"sellprice":3,"sheathtype":4,"slotbak":14},"attainable":0,"flags2":24580},"2211":{"name_enus":"Bent Large Shield","quality":0,"icon":"inv_shield_09","screenshot":{},"jsonequip":{"appearances":{"0":[18656,""]},"armor":32,"avgbuyout":200,"blockamount":1,"displayid":18656,"dura":30,"reqlevel":1,"sellprice":7,"sheathtype":4,"slotbak":14},"attainable":0,"flags2":24580},"2649":{"name_enus":"Flimsy Chain Belt","quality":0,"icon":"inv_belt_06","screenshot":{},"jsonequip":{"appearances":{"0":[3254,""]},"armor":24,"avgbuyout":112,"displayid":3254,"dmgrange":0.2,"dura":16,"reqlevel":1,"sellprice":1,"slotbak":6},"attainable":0,"flags2":24580},"2650":{"name_enus":"Flimsy Chain Boots","quality":0,"icon":"inv_boots_01","screenshot":{},"jsonequip":{"appearances":{"0":[233,""]},"armor":34,"displayid":233,"dmgrange":0.2,"dura":25,"reqlevel":1,"sellprice":3,"slotbak":8},"attainable":0,"flags2":24580},"2651":{"name_enus":"Flimsy Chain Bracers","quality":0,"icon":"inv_bracer_03","screenshot":{},"jsonequip":{"appearances":{"0":[2219,""]},"armor":25,"avgbuyout":30,"displayid":2219,"dmgrange":0.2,"dura":18,"reqlevel":1,"sellprice":3,"slotbak":9},"attainable":0,"flags2":24580},"2652":{"name_enus":"Flimsy Chain Cloak","quality":0,"icon":"inv_misc_cape_02","screenshot":{},"jsonequip":{"appearances":{"0":[15089,""]},"armor":5,"avgbuyout":21,"displayid":15089,"dmgrange":0.2,"reqlevel":1,"sellprice":4,"slotbak":16},"attainable":0,"flags2":24580},"2653":{"name_enus":"Flimsy Chain Gloves","quality":0,"icon":"inv_gauntlets_04","screenshot":{},"jsonequip":{"appearances":{"0":[976,""]},"armor":35,"avgbuyout":50009,"displayid":976,"dmgrange":0.2,"dura":18,"reqlevel":1,"sellprice":3,"slotbak":10},"attainable":0,"flags2":24580},"2654":{"name_enus":"Flimsy Chain Pants","quality":0,"icon":"inv_pants_03","screenshot":{},"jsonequip":{"appearances":{"0":[687,""]},"armor":37,"avgbuyout":5555,"displayid":687,"dmgrange":0.2,"dura":35,"reqlevel":1,"sellprice":2,"slotbak":7},"attainable":0,"flags2":24580},"2656":{"name_enus":"Flimsy Chain Vest","quality":0,"icon":"inv_chest_chain","screenshot":{},"jsonequip":{"appearances":{"0":[977,""]},"armor":63,"avgbuyout":3888,"displayid":977,"dmgrange":0.2,"dura":55,"reqlevel":1,"sellprice":9,"slotbak":5},"attainable":0,"flags2":24580},"3363":{"name_enus":"Frayed Belt","quality":0,"icon":"inv_belt_04","screenshot":{},"jsonequip":{"appearances":{"0":[10061,""]},"armor":3,"avgbuyout":12,"displayid":10061,"dura":12,"reqlevel":1,"sellprice":1,"slotbak":6},"attainable":0,"flags2":24580},"3365":{"name_enus":"Frayed Bracers","quality":0,"icon":"inv_bracer_10","screenshot":{},"jsonequip":{"appearances":{"0":[10939,""]},"armor":4,"avgbuyout":48,"displayid":10939,"dura":14,"reqlevel":1,"sellprice":3,"slotbak":9},"attainable":0,"flags2":24580},"4496":{"name_enus":"Small Brown Pouch","quality":1,"icon":"inv_misc_bag_09","screenshot":{},"jsonequip":{"avgbuyout":300,"buyprice":500,"sellprice":125,"slotbak":18},"attainable":0,"flags2":24580},"4865":{"name_enus":"Ruined Pelt","quality":0,"icon":"inv_misc_pelt_wolf_ruin_04","screenshot":{},"jsonequip":{"avgbuyout":60000,"sellprice":5},"attainable":0,"flags2":24580},"5571":{"name_enus":"Small Black Pouch","quality":1,"icon":"inv_misc_bag_09_black","screenshot":{},"jsonequip":{"avgbuyout":255,"sellprice":250,"slotbak":18},"attainable":0,"flags2":24580},"5572":{"name_enus":"Small Green Pouch","quality":1,"icon":"inv_misc_bag_09_green","screenshot":{},"jsonequip":{"avgbuyout":266,"sellprice":250,"slotbak":18},"attainable":0,"flags2":24580},"7073":{"name_enus":"Broken Fang","quality":0,"icon":"inv_misc_bone_08","screenshot":{},"jsonequip":{"avgbuyout":20,"sellprice":6},"attainable":0,"flags2":24580},"7074":{"name_enus":"Chipped Claw","quality":0,"icon":"inv_misc_bone_06","screenshot":{},"jsonequip":{"avgbuyout":5000000,"sellprice":4},"attainable":0,"flags2":24580},"7096":{"name_enus":"Plucked Feather","quality":0,"icon":"inv_feather_16","screenshot":{},"jsonequip":{"avgbuyout":500000,"sellprice":5},"attainable":0,"flags2":24580},"7098":{"name_enus":"Splintered Tusk","quality":0,"icon":"inv_misc_bone_05","screenshot":{},"jsonequip":{"avgbuyout":500000,"sellprice":6},"attainable":0,"flags2":24580},"7100":{"name_enus":"Sticky Ichor","quality":0,"icon":"inv_misc_slime_01","screenshot":{},"jsonequip":{"sellprice":7,"sheathtype":1},"attainable":0,"flags2":24580},"7101":{"name_enus":"Bug Eye","quality":0,"icon":"inv_misc_eye_01","screenshot":{},"jsonequip":{"avgbuyout":15,"sellprice":5,"sheathtype":1},"attainable":0,"flags2":24580},"17056":{"name_enus":"Light Feather","quality":1,"icon":"inv_feather_04","screenshot":{},"jsonequip":{"avgbuyout":938,"sellprice":7},"attainable":0,"flags2":24580},"5394":{"name_enus":"Archery Training Gloves","quality":1,"icon":"inv_gauntlets_05","screenshot":{},"jsonequip":{"appearances":{"0":[4470,"inv_gauntlets_18"]},"armor":21,"displayid":4470,"dura":16,"sellprice":6,"slotbak":10},"attainable":0,"flags2":24580},"11187":{"name_enus":"Stemleaf Bracers","quality":1,"icon":"inv_bracer_12","screenshot":{},"jsonequip":{"appearances":{"0":[11108,""]},"armor":4,"displayid":11108,"dura":14,"sellprice":5,"slotbak":9},"attainable":0,"flags2":24580}});
+WH.Gatherer.addData(6, 5, {"17253":{"name_enus":"Bite","icon":"ability_racial_cannibalize","screenshot":{},"rank_enus":"Rank 1"},"17254":{"name_enus":"Bite","icon":"ability_racial_cannibalize","screenshot":{},"rank_enus":"Rank 1"},"17255":{"name_enus":"Bite","icon":"ability_racial_cannibalize","screenshot":{},"rank_enus":"Rank 2"},"17256":{"name_enus":"Bite","icon":"ability_racial_cannibalize","screenshot":{},"rank_enus":"Rank 3"},"17257":{"name_enus":"Bite","icon":"ability_racial_cannibalize","screenshot":{},"rank_enus":"Rank 4"},"17258":{"name_enus":"Bite","icon":"ability_racial_cannibalize","screenshot":{},"rank_enus":"Rank 5"},"17259":{"name_enus":"Bite","icon":"ability_racial_cannibalize","screenshot":{},"rank_enus":"Rank 6"},"17260":{"name_enus":"Bite","icon":"ability_racial_cannibalize","screenshot":{},"rank_enus":"Rank 7"},"17261":{"name_enus":"Bite","icon":"ability_racial_cannibalize","screenshot":{},"rank_enus":"Rank 8"},"17262":{"name_enus":"Bite","icon":"ability_racial_cannibalize","screenshot":{},"rank_enus":"Rank 2"},"17263":{"name_enus":"Bite","icon":"ability_racial_cannibalize","screenshot":{},"rank_enus":"Rank 3"},"17264":{"name_enus":"Bite","icon":"ability_racial_cannibalize","screenshot":{},"rank_enus":"Rank 4"},"17265":{"name_enus":"Bite","icon":"ability_racial_cannibalize","screenshot":{},"rank_enus":"Rank 5"},"17266":{"name_enus":"Bite","icon":"ability_racial_cannibalize","screenshot":{},"rank_enus":"Rank 6"},"17267":{"name_enus":"Bite","icon":"ability_racial_cannibalize","screenshot":{},"rank_enus":"Rank 7"},"17268":{"name_enus":"Bite","icon":"ability_racial_cannibalize","screenshot":{},"rank_enus":"Rank 8"},"27050":{"name_enus":"Bite","icon":"ability_racial_cannibalize","screenshot":{},"rank_enus":"Rank 9"},"27348":{"name_enus":"Bite","icon":"ability_racial_cannibalize","screenshot":{},"rank_enus":"Rank 9"},"37454":{"name_enus":"Bite","icon":"ability_physical_taunt","screenshot":{},"rank_enus":""},"1850":{"name_enus":"Dash","icon":"ability_druid_dash","screenshot":{},"rank_enus":"Rank 1"},"9821":{"name_enus":"Dash","icon":"ability_druid_dash","screenshot":{},"rank_enus":"Rank 2"},"23099":{"name_enus":"Dash","icon":"ability_druid_dash","screenshot":{},"rank_enus":"Rank 1"},"23100":{"name_enus":"Dash","icon":"ability_druid_dash","screenshot":{},"rank_enus":"Rank 1"},"23109":{"name_enus":"Dash","icon":"ability_druid_dash","screenshot":{},"rank_enus":"Rank 2"},"23110":{"name_enus":"Dash","icon":"ability_druid_dash","screenshot":{},"rank_enus":"Rank 3"},"23111":{"name_enus":"Dash","icon":"ability_druid_dash","screenshot":{},"rank_enus":"Rank 2"},"23112":{"name_enus":"Dash","icon":"ability_druid_dash","screenshot":{},"rank_enus":"Rank 3"},"33357":{"name_enus":"Dash","icon":"ability_druid_dash","screenshot":{},"rank_enus":"Rank 3"},"36589":{"name_enus":"Dash","icon":"ability_druid_dash","screenshot":{},"rank_enus":""},"43317":{"name_enus":"Dash","icon":"ability_druid_dash","screenshot":{},"rank_enus":""},"44029":{"name_enus":"Dash","icon":"classic_temp","screenshot":{},"rank_enus":""},"1604":{"name_enus":"Dazed","icon":"spell_frost_stun","screenshot":{},"rank_enus":""},"5101":{"name_enus":"Dazed","icon":"spell_shadow_mindsteal","screenshot":{},"rank_enus":""},"13496":{"name_enus":"Dazed","icon":"spell_frost_stun","screenshot":{},"rank_enus":""},"15571":{"name_enus":"Dazed","icon":"spell_frost_stun","screenshot":{},"rank_enus":""},"29703":{"name_enus":"Dazed","icon":"spell_frost_stun","screenshot":{},"rank_enus":""},"31125":{"name_enus":"Dazed","icon":"spell_frost_stun","screenshot":{},"rank_enus":""},"35955":{"name_enus":"Dazed","icon":"spell_frost_stun","screenshot":{},"rank_enus":""},"1853":{"name_enus":"Growl","icon":"ability_physical_taunt","screenshot":{},"rank_enus":"Rank 1"},"2649":{"name_enus":"Growl","icon":"ability_physical_taunt","screenshot":{},"rank_enus":"Rank 1"},"6795":{"name_enus":"Growl","icon":"ability_physical_taunt","screenshot":{},"rank_enus":""},"14916":{"name_enus":"Growl","icon":"ability_physical_taunt","screenshot":{},"rank_enus":"Rank 2"},"14917":{"name_enus":"Growl","icon":"ability_physical_taunt","screenshot":{},"rank_enus":"Rank 3"},"14918":{"name_enus":"Growl","icon":"ability_physical_taunt","screenshot":{},"rank_enus":"Rank 4"},"14919":{"name_enus":"Growl","icon":"ability_physical_taunt","screenshot":{},"rank_enus":"Rank 5"},"14920":{"name_enus":"Growl","icon":"ability_physical_taunt","screenshot":{},"rank_enus":"Rank 6"},"14921":{"name_enus":"Growl","icon":"ability_physical_taunt","screenshot":{},"rank_enus":"Rank 7"},"14922":{"name_enus":"Growl","icon":"ability_physical_taunt","screenshot":{},"rank_enus":"Rank 2"},"14923":{"name_enus":"Growl","icon":"ability_physical_taunt","screenshot":{},"rank_enus":"Rank 3"},"14924":{"name_enus":"Growl","icon":"ability_physical_taunt","screenshot":{},"rank_enus":"Rank 4"},"14925":{"name_enus":"Growl","icon":"ability_physical_taunt","screenshot":{},"rank_enus":"Rank 5"},"14926":{"name_enus":"Growl","icon":"ability_physical_taunt","screenshot":{},"rank_enus":"Rank 6"},"14927":{"name_enus":"Growl","icon":"ability_physical_taunt","screenshot":{},"rank_enus":"Rank 7"},"27047":{"name_enus":"Growl","icon":"ability_physical_taunt","screenshot":{},"rank_enus":"Rank 8"},"27344":{"name_enus":"Growl","icon":"ability_physical_taunt","screenshot":{},"rank_enus":"Rank 8"},"31334":{"name_enus":"Growl","icon":"ability_physical_taunt","screenshot":{},"rank_enus":""},"39270":{"name_enus":"Growl","icon":"ability_physical_taunt","screenshot":{},"rank_enus":""}});
+WH.Gatherer.addData(1, 5, {"2031":{"name_enus":"Young Nightsaber"}});
+$.extend(g_npcs[2031], {"classification":0,"family":2,"id":2031,"location":[141],"maxlevel":1,"minlevel":1,"name":"Young Nightsaber","react":[0,null],"type":1});
+var tabsRelated = new Tabs({parent: WH.ge('jkbfksdbl4'), trackable: 'NPC'});
+new Listview({template: 'item', id: 'drops', name: WH.TERMS.drops, tabs: tabsRelated, parent: 'lkljbjkb574', extraCols: ["contentPhase",'count', 'percent'],  showLootSpecs: 0,sort:['noteworthy', '-percent', 'name'], _totalCount: 39138, computeDataFunc: Listview.funcBox.initLootTable, onAfterCreate: Listview.funcBox.addModeIndicator, data:[{"classs":0,"commondrop":true,"flags2":24580,"id":117,"level":5,"name":"Tough Jerky","quality":1,"reqlevel":6,"slot":0,"source":[2,4,5,19,21,23],"subclass":5,"modes":{"mode":[0],"0":{"count":2,"outof":39138}},"count":2,"stack":[1,1]},{"classs":15,"commondrop":true,"flags2":24580,"id":555,"level":10,"name":"Rough Vulture Feathers","quality":0,"slot":0,"source":[2],"subclass":0,"modes":{"mode":[0],"0":{"count":1,"outof":39138}},"count":1,"stack":[1,1],"specificDrop":true},{"classs":12,"flags2":24580,"id":750,"level":1,"name":"Tough Wolf Meat","quality":1,"slot":0,"source":[2],"subclass":0,"modes":{"mode":[0],"0":{"count":1,"outof":39138}},"count":1,"stack":[1,1]},{"classs":1,"commondrop":true,"flags2":24580,"id":805,"level":5,"name":"Small Red Pouch","nslots":6,"quality":1,"slot":18,"slotbak":18,"source":[2,16,21],"subclass":0,"modes":{"mode":[0],"0":{"count":43,"outof":39138}},"count":43,"stack":[1,1]},{"classs":1,"commondrop":true,"flags2":24580,"id":828,"level":5,"name":"Small Blue Pouch","nslots":6,"quality":1,"slot":18,"slotbak":18,"source":[2,21],"subclass":0,"modes":{"mode":[0],"0":{"count":35,"outof":39138}},"count":35,"stack":[1,1]},{"appearances":{"0":[4589,""]},"armor":31,"classs":4,"commondrop":true,"displayid":4589,"flags2":24580,"id":1364,"level":5,"name":"Ragged Leather Vest","quality":0,"slot":5,"slotbak":5,"source":[2,19,21],"subclass":2,"modes":{"mode":[0],"0":{"count":521,"outof":39138}},"count":521,"stack":[1,1]},{"appearances":{"0":[8409,""]},"armor":17,"classs":4,"commondrop":true,"displayid":8409,"flags2":24580,"id":1366,"level":2,"name":"Ragged Leather Pants","quality":0,"slot":7,"slotbak":7,"source":[2,19,21],"subclass":2,"modes":{"mode":[0],"0":{"count":554,"outof":39138}},"count":554,"stack":[1,1]},{"appearances":{"0":[4463,""]},"armor":16,"classs":4,"commondrop":true,"displayid":4463,"flags2":24580,"id":1367,"level":3,"name":"Ragged Leather Boots","quality":0,"slot":8,"slotbak":8,"source":[2,19,21],"subclass":2,"modes":{"mode":[0],"0":{"count":485,"outof":39138}},"count":485,"stack":[1,1]},{"appearances":{"0":[9374,""]},"armor":17,"classs":4,"commondrop":true,"displayid":9374,"flags2":24580,"id":1368,"level":4,"name":"Ragged Leather Gloves","quality":0,"slot":10,"slotbak":10,"source":[2,19,21],"subclass":2,"modes":{"mode":[0],"0":{"count":524,"outof":39138}},"count":524,"stack":[1,1]},{"appearances":{"0":[5728,""]},"armor":18,"classs":4,"commondrop":true,"displayid":5728,"flags2":24580,"id":1369,"level":5,"name":"Ragged Leather Belt","quality":0,"slot":6,"slotbak":6,"source":[2,19,21],"subclass":2,"modes":{"mode":[0],"0":{"count":462,"outof":39138}},"count":462,"stack":[1,1]},{"appearances":{"0":[5578,""]},"armor":12,"classs":4,"commondrop":true,"displayid":5578,"flags2":24580,"id":1370,"level":4,"name":"Ragged Leather Bracers","quality":0,"slot":9,"slotbak":9,"source":[2,19,21],"subclass":2,"modes":{"mode":[0],"0":{"count":499,"outof":39138}},"count":499,"stack":[1,1]},{"appearances":{"0":[23014,"inv_misc_pelt_bear_02"]},"armor":3,"classs":4,"commondrop":true,"displayid":23014,"flags2":24580,"id":1372,"level":3,"name":"Ragged Cloak","quality":0,"slot":16,"slotbak":16,"source":[2,19,21],"subclass":-6,"modes":{"mode":[0],"0":{"count":499,"outof":39138}},"count":499,"stack":[1,1]},{"appearances":{"0":[12850,""]},"armor":5,"classs":4,"commondrop":true,"displayid":12850,"flags2":24580,"id":1374,"level":4,"name":"Frayed Shoes","quality":0,"slot":8,"slotbak":8,"source":[2,19,21],"subclass":1,"modes":{"mode":[0],"0":{"count":584,"outof":39138}},"count":584,"stack":[1,1]},{"appearances":{"0":[23090,""]},"armor":5,"classs":4,"commondrop":true,"displayid":23090,"flags2":24580,"id":1376,"level":5,"name":"Frayed Cloak","quality":0,"slot":16,"slotbak":16,"source":[2,19,21],"subclass":-6,"modes":{"mode":[0],"0":{"count":552,"outof":39138}},"count":552,"stack":[1,1]},{"appearances":{"0":[11051,""]},"armor":4,"classs":4,"commondrop":true,"displayid":11051,"flags2":24580,"id":1377,"level":3,"name":"Frayed Gloves","quality":0,"slot":10,"slotbak":10,"source":[2,19,21],"subclass":1,"modes":{"mode":[0],"0":{"count":602,"outof":39138}},"count":602,"stack":[1,1]},{"appearances":{"0":[9187,""]},"armor":4,"classs":4,"commondrop":true,"displayid":9187,"flags2":24580,"id":1378,"level":2,"name":"Frayed Pants","quality":0,"slot":7,"slotbak":7,"source":[2,21],"subclass":1,"modes":{"mode":[0],"0":{"count":661,"outof":39138}},"count":661,"stack":[1,1]},{"appearances":{"0":[12426,""]},"armor":8,"classs":4,"commondrop":true,"displayid":12426,"flags2":24580,"id":1380,"level":4,"name":"Frayed Robe","quality":0,"slot":5,"slotbak":20,"source":[2,21],"subclass":1,"modes":{"mode":[0],"0":{"count":613,"outof":39138}},"count":613,"stack":[1,1]},{"classs":15,"commondrop":true,"flags2":24580,"id":1476,"level":1,"name":"Snapped Spider Limb","quality":0,"slot":0,"source":[2,19,21],"subclass":0,"modes":{"mode":[0],"0":{"count":1,"outof":39138}},"count":1,"stack":[1,1]},{"classs":0,"flags2":24580,"id":2070,"level":5,"name":"Darnassian Bleu","quality":1,"reqlevel":1,"slot":0,"source":[2,4,5,19,21],"sourcemore":[{"c":141,"c2":1,"n":"Dolanaar Delivery","t":5,"ti":2159}],"subclass":5,"modes":{"mode":[0],"0":{"count":2,"outof":39138}},"count":2,"stack":[1,1]},{"appearances":{"0":[2552,""]},"armor":12,"classs":4,"commondrop":true,"displayid":2552,"flags2":24580,"id":2210,"level":2,"name":"Battered Buckler","quality":0,"slot":14,"slotbak":14,"source":[2,19,21],"subclass":6,"modes":{"mode":[0],"0":{"count":453,"outof":39138}},"count":453,"stack":[1,1]},{"appearances":{"0":[18656,""]},"armor":32,"classs":4,"commondrop":true,"displayid":18656,"flags2":24580,"id":2211,"level":4,"name":"Bent Large Shield","quality":0,"slot":14,"slotbak":14,"source":[2,19,21],"subclass":6,"modes":{"mode":[0],"0":{"count":474,"outof":39138}},"count":474,"stack":[1,1]},{"appearances":{"0":[3254,""]},"armor":24,"classs":4,"commondrop":true,"displayid":3254,"flags2":24580,"id":2649,"level":2,"name":"Flimsy Chain Belt","quality":0,"slot":6,"slotbak":6,"source":[2,19,21],"subclass":3,"modes":{"mode":[0],"0":{"count":403,"outof":39138}},"count":403,"stack":[1,1]},{"appearances":{"0":[233,""]},"armor":34,"classs":4,"commondrop":true,"displayid":233,"flags2":24580,"id":2650,"level":3,"name":"Flimsy Chain Boots","quality":0,"slot":8,"slotbak":8,"source":[2,19,21,23],"subclass":3,"modes":{"mode":[0],"0":{"count":422,"outof":39138}},"count":422,"stack":[1,1]},{"appearances":{"0":[2219,""]},"armor":25,"classs":4,"commondrop":true,"displayid":2219,"flags2":24580,"id":2651,"level":4,"name":"Flimsy Chain Bracers","quality":0,"slot":9,"slotbak":9,"source":[2,19,21],"subclass":3,"modes":{"mode":[0],"0":{"count":383,"outof":39138}},"count":383,"stack":[1,1]},{"appearances":{"0":[15089,""]},"armor":5,"classs":4,"commondrop":true,"displayid":15089,"flags2":24580,"id":2652,"level":5,"name":"Flimsy Chain Cloak","quality":0,"slot":16,"slotbak":16,"source":[2,19,21],"subclass":-6,"modes":{"mode":[0],"0":{"count":496,"outof":39138}},"count":496,"stack":[1,1]},{"appearances":{"0":[976,""]},"armor":35,"classs":4,"commondrop":true,"displayid":976,"flags2":24580,"id":2653,"level":4,"name":"Flimsy Chain Gloves","quality":0,"slot":10,"slotbak":10,"source":[2,19,21],"subclass":3,"modes":{"mode":[0],"0":{"count":447,"outof":39138}},"count":447,"stack":[1,1]},{"appearances":{"0":[687,""]},"armor":37,"classs":4,"commondrop":true,"displayid":687,"flags2":24580,"id":2654,"level":2,"name":"Flimsy Chain Pants","quality":0,"slot":7,"slotbak":7,"source":[2,19,21],"subclass":3,"modes":{"mode":[0],"0":{"count":428,"outof":39138}},"count":428,"stack":[1,1]},{"appearances":{"0":[977,""]},"armor":63,"classs":4,"commondrop":true,"displayid":977,"flags2":24580,"id":2656,"level":5,"name":"Flimsy Chain Vest","quality":0,"slot":5,"slotbak":5,"source":[2,21],"subclass":3,"modes":{"mode":[0],"0":{"count":378,"outof":39138}},"count":378,"stack":[1,1]},{"appearances":{"0":[10061,""]},"armor":3,"classs":4,"commondrop":true,"displayid":10061,"flags2":24580,"id":3363,"level":3,"name":"Frayed Belt","quality":0,"slot":6,"slotbak":6,"source":[2,19,21],"subclass":1,"modes":{"mode":[0],"0":{"count":563,"outof":39138}},"count":563,"stack":[1,1]},{"appearances":{"0":[10939,""]},"armor":4,"classs":4,"commondrop":true,"displayid":10939,"flags2":24580,"id":3365,"level":5,"name":"Frayed Bracers","quality":0,"slot":9,"slotbak":9,"source":[2,19,21],"subclass":1,"modes":{"mode":[0],"0":{"count":597,"outof":39138}},"count":597,"stack":[1,1]},{"classs":1,"commondrop":true,"flags2":24580,"id":4496,"level":5,"name":"Small Brown Pouch","nslots":6,"quality":1,"slot":18,"slotbak":18,"source":[2,5,16,21],"subclass":0,"modes":{"mode":[0],"0":{"count":49,"outof":39138}},"count":49,"stack":[1,1]},{"classs":15,"commondrop":true,"flags2":24580,"id":4865,"level":1,"name":"Ruined Pelt","quality":0,"slot":0,"source":[2,19,21],"subclass":0,"modes":{"mode":[0],"0":{"count":15502,"outof":39138}},"count":15502,"stack":[1,2],"pctstack":"{1: 93.0912,2: 6.90879}"},{"classs":1,"commondrop":true,"flags2":24580,"id":5571,"level":5,"name":"Small Black Pouch","nslots":6,"quality":1,"slot":18,"slotbak":18,"source":[2],"subclass":0,"modes":{"mode":[0],"0":{"count":34,"outof":39138}},"count":34,"stack":[1,1]},{"classs":1,"commondrop":true,"flags2":24580,"id":5572,"level":5,"name":"Small Green Pouch","nslots":6,"quality":1,"slot":18,"slotbak":18,"source":[2,16,19],"subclass":0,"modes":{"mode":[0],"0":{"count":29,"outof":39138}},"count":29,"stack":[1,1]},{"classs":15,"commondrop":true,"flags2":24580,"id":7073,"level":1,"name":"Broken Fang","quality":0,"slot":0,"source":[2,19,21,23],"subclass":0,"modes":{"mode":[0],"0":{"count":14755,"outof":39138}},"count":14755,"stack":[1,2],"pctstack":"{1: 92.9244,2: 7.07557}"},{"classs":15,"commondrop":true,"flags2":24580,"id":7074,"level":1,"name":"Chipped Claw","quality":0,"slot":0,"source":[2,19,21],"subclass":0,"modes":{"mode":[0],"0":{"count":14982,"outof":39138}},"count":14982,"stack":[1,2],"pctstack":"{1: 93.1518,2: 6.84822}"},{"classs":15,"commondrop":true,"flags2":24580,"id":7096,"level":1,"name":"Plucked Feather","quality":0,"slot":0,"source":[2,19],"subclass":0,"modes":{"mode":[0],"0":{"count":1,"outof":39138}},"count":1,"stack":[1,1]},{"classs":15,"commondrop":true,"flags2":24580,"id":7098,"level":1,"name":"Splintered Tusk","quality":0,"slot":0,"source":[2,19,21],"subclass":0,"modes":{"mode":[0],"0":{"count":16,"outof":39138}},"count":16,"stack":[1,1]},{"classs":15,"commondrop":true,"flags2":24580,"id":7100,"level":1,"name":"Sticky Ichor","quality":0,"slot":0,"source":[2,19,21],"subclass":0,"modes":{"mode":[0],"0":{"count":3,"outof":39138}},"count":3,"stack":[1,1]},{"classs":15,"commondrop":true,"flags2":24580,"id":7101,"level":1,"name":"Bug Eye","quality":0,"slot":0,"source":[2,19,21],"subclass":0,"modes":{"mode":[0],"0":{"count":1,"outof":39138}},"count":1,"stack":[1,1]},{"classs":15,"flags2":24580,"id":17056,"level":1,"name":"Light Feather","quality":1,"slot":0,"source":[2,19],"subclass":1,"modes":{"mode":[0],"0":{"count":1,"outof":39138}},"count":1,"stack":[1,1]}]});
+new Listview({template: 'quest', id: 'objective-of', name: WH.TERMS.objectiveof, tabs: tabsRelated, parent: 'lkljbjkb574', data: [{"category":141,"category2":1,"id":456,"itemchoices":[[5394,1],[11187,1]],"level":2,"money":35,"name":"The Balance of Nature","reprewards":[[69,250]],"reqlevel":1,"side":1,"xp":170}]});
+new Listview({template: 'spell', id: 'abilities', name: WH.TERMS.abilities, tabs: tabsRelated, parent: 'lkljbjkb574', extraCols: [Listview.extraCols.mode], visibleCols: ['schools'], hiddenCols: ['reagents', 'skill'], computeDataFunc: Listview.funcBox.initModeFilter, onAfterCreate: Listview.funcBox.addModeIndicator, data: [{"cat":-3,"chrclass":4,"id":17253,"level":1,"name":"Bite","nskillup":1,"rank":"Rank 1","reqclass":4,"schools":1,"skill":[203,208,209,-1],modes:{"mode":[1]}},{"cat":0,"chrclass":4,"id":17254,"level":1,"name":"Bite","nskillup":1,"rank":"Rank 1","reqclass":4,"schools":1,"skill":[],modes:{"mode":[1]}},{"cat":-3,"chrclass":4,"id":17255,"level":8,"name":"Bite","nskillup":1,"rank":"Rank 2","reqclass":4,"schools":1,"skill":[203,208,209,-1],modes:{"mode":[1]}},{"cat":-3,"chrclass":4,"id":17256,"level":16,"name":"Bite","nskillup":1,"rank":"Rank 3","reqclass":4,"schools":1,"skill":[203,208,209,-1],modes:{"mode":[1]}},{"cat":-3,"chrclass":4,"id":17257,"level":24,"name":"Bite","nskillup":1,"rank":"Rank 4","reqclass":4,"schools":1,"skill":[203,208,209,-1],modes:{"mode":[1]}},{"cat":-3,"chrclass":4,"id":17258,"level":32,"name":"Bite","nskillup":1,"rank":"Rank 5","reqclass":4,"schools":1,"skill":[203,208,209,-1],modes:{"mode":[1]}},{"cat":-3,"chrclass":4,"id":17259,"level":40,"name":"Bite","nskillup":1,"rank":"Rank 6","reqclass":4,"schools":1,"skill":[203,208,209,-1],modes:{"mode":[1]}},{"cat":-3,"chrclass":4,"id":17260,"level":48,"name":"Bite","nskillup":1,"rank":"Rank 7","reqclass":4,"schools":1,"skill":[203,208,209,-1],modes:{"mode":[1]}},{"cat":-3,"chrclass":4,"id":17261,"level":56,"name":"Bite","nskillup":1,"rank":"Rank 8","reqclass":4,"schools":1,"skill":[203,208,209,-1],modes:{"mode":[1]}},{"cat":0,"chrclass":4,"id":17262,"level":8,"name":"Bite","nskillup":1,"rank":"Rank 2","reqclass":4,"schools":1,"skill":[],modes:{"mode":[1]}},{"cat":0,"chrclass":4,"id":17263,"level":16,"name":"Bite","nskillup":1,"rank":"Rank 3","reqclass":4,"schools":1,"skill":[],modes:{"mode":[1]}},{"cat":0,"chrclass":4,"id":17264,"level":24,"name":"Bite","nskillup":1,"rank":"Rank 4","reqclass":4,"schools":1,"skill":[],modes:{"mode":[1]}},{"cat":0,"chrclass":4,"id":17265,"level":32,"name":"Bite","nskillup":1,"rank":"Rank 5","reqclass":4,"schools":1,"skill":[],modes:{"mode":[1]}},{"cat":0,"chrclass":4,"id":17266,"level":40,"name":"Bite","nskillup":1,"rank":"Rank 6","reqclass":4,"schools":1,"skill":[],modes:{"mode":[1]}},{"cat":0,"chrclass":4,"id":17267,"level":48,"name":"Bite","nskillup":1,"rank":"Rank 7","reqclass":4,"schools":1,"skill":[],modes:{"mode":[1]}},{"cat":0,"chrclass":4,"id":17268,"level":56,"name":"Bite","nskillup":1,"rank":"Rank 8","reqclass":4,"schools":1,"skill":[],modes:{"mode":[1]}},{"cat":-3,"chrclass":4,"id":27050,"level":64,"name":"Bite","nskillup":1,"rank":"Rank 9","reqclass":4,"schools":1,"skill":[203,208,209,-1],modes:{"mode":[1]}},{"cat":0,"chrclass":4,"id":27348,"level":64,"name":"Bite","nskillup":1,"rank":"Rank 9","reqclass":4,"schools":1,"skill":[],modes:{"mode":[1]}},{"cat":-8,"id":37454,"level":0,"name":"Bite","schools":1,modes:{"mode":[1]}},{"cat":7,"chrclass":1024,"id":1850,"level":26,"name":"Dash","nskillup":1,"rank":"Rank 1","reqclass":1024,"schools":1,"skill":[],"source":[6],"trainingcost":4500,modes:{"mode":[1]}},{"cat":7,"chrclass":1024,"id":9821,"level":46,"name":"Dash","nskillup":1,"rank":"Rank 2","reqclass":1024,"schools":1,"skill":[],"source":[6],"trainingcost":20000,modes:{"mode":[1]}},{"cat":-3,"chrclass":4,"id":23099,"level":30,"name":"Dash","nskillup":1,"rank":"Rank 1","reqclass":4,"schools":1,"skill":[208,209,211,-1],modes:{"mode":[1]}},{"cat":0,"chrclass":4,"id":23100,"level":30,"name":"Dash","nskillup":1,"rank":"Rank 1","reqclass":4,"schools":1,"skill":[],modes:{"mode":[1]}},{"cat":-3,"chrclass":4,"id":23109,"level":40,"name":"Dash","nskillup":1,"rank":"Rank 2","reqclass":4,"schools":1,"skill":[208,209,211,-1],modes:{"mode":[1]}},{"cat":-3,"chrclass":4,"id":23110,"level":50,"name":"Dash","nskillup":1,"rank":"Rank 3","reqclass":4,"schools":1,"skill":[208,209,211,-1],modes:{"mode":[1]}},{"cat":0,"chrclass":4,"id":23111,"level":40,"name":"Dash","nskillup":1,"rank":"Rank 2","reqclass":4,"schools":1,"skill":[],modes:{"mode":[1]}},{"cat":0,"chrclass":4,"id":23112,"level":50,"name":"Dash","nskillup":1,"rank":"Rank 3","reqclass":4,"schools":1,"skill":[],modes:{"mode":[1]}},{"cat":7,"chrclass":1024,"id":33357,"level":65,"name":"Dash","nskillup":1,"rank":"Rank 3","reqclass":1024,"schools":1,"skill":[],"source":[6],"trainingcost":59000,modes:{"mode":[1]}},{"cat":-8,"id":36589,"level":1,"name":"Dash","schools":1,modes:{"mode":[1]}},{"cat":0,"id":43317,"level":1,"name":"Dash","schools":1,modes:{"mode":[1]}},{"cat":0,"id":44029,"level":0,"name":"Dash","schools":1,modes:{"mode":[1]}},{"cat":0,"chrclass":4,"id":1853,"level":1,"name":"Growl","nskillup":1,"rank":"Rank 1","reqclass":4,"schools":1,"skill":[],modes:{"mode":[1]}},{"cat":-3,"chrclass":4,"id":2649,"level":1,"name":"Growl","nskillup":1,"rank":"Rank 1","reqclass":4,"schools":1,"skill":[270],modes:{"mode":[1]}},{"cat":7,"chrclass":1024,"id":6795,"level":10,"name":"Growl","nskillup":1,"reqclass":1024,"schools":1,"skill":[],modes:{"mode":[1]}},{"cat":-3,"chrclass":4,"id":14916,"level":10,"name":"Growl","nskillup":1,"rank":"Rank 2","reqclass":4,"schools":1,"skill":[270],modes:{"mode":[1]}},{"cat":-3,"chrclass":4,"id":14917,"level":20,"name":"Growl","nskillup":1,"rank":"Rank 3","reqclass":4,"schools":1,"skill":[270],modes:{"mode":[1]}},{"cat":-3,"chrclass":4,"id":14918,"level":30,"name":"Growl","nskillup":1,"rank":"Rank 4","reqclass":4,"schools":1,"skill":[270],modes:{"mode":[1]}},{"cat":-3,"chrclass":4,"id":14919,"level":40,"name":"Growl","nskillup":1,"rank":"Rank 5","reqclass":4,"schools":1,"skill":[270],modes:{"mode":[1]}},{"cat":-3,"chrclass":4,"id":14920,"level":50,"name":"Growl","nskillup":1,"rank":"Rank 6","reqclass":4,"schools":1,"skill":[270],modes:{"mode":[1]}},{"cat":-3,"chrclass":4,"id":14921,"level":60,"name":"Growl","nskillup":1,"rank":"Rank 7","reqclass":4,"schools":1,"skill":[270],modes:{"mode":[1]}},{"cat":0,"chrclass":4,"id":14922,"level":10,"name":"Growl","nskillup":1,"rank":"Rank 2","reqclass":4,"schools":1,"skill":[],modes:{"mode":[1]}},{"cat":7,"chrclass":4,"id":14923,"level":20,"name":"Growl","nskillup":1,"rank":"Rank 3","reqclass":4,"schools":1,"skill":[],"trainingcost":440,modes:{"mode":[1]}},{"cat":7,"chrclass":4,"id":14924,"level":30,"name":"Growl","nskillup":1,"rank":"Rank 4","reqclass":4,"schools":1,"skill":[],"trainingcost":1600,modes:{"mode":[1]}},{"cat":7,"chrclass":4,"id":14925,"level":40,"name":"Growl","nskillup":1,"rank":"Rank 5","reqclass":4,"schools":1,"skill":[],"trainingcost":3600,modes:{"mode":[1]}},{"cat":7,"chrclass":4,"id":14926,"level":50,"name":"Growl","nskillup":1,"rank":"Rank 6","reqclass":4,"schools":1,"skill":[],"trainingcost":7200,modes:{"mode":[1]}},{"cat":7,"chrclass":4,"id":14927,"level":60,"name":"Growl","nskillup":1,"rank":"Rank 7","reqclass":4,"schools":1,"skill":[],"trainingcost":10000,modes:{"mode":[1]}},{"cat":-3,"chrclass":4,"id":27047,"level":70,"name":"Growl","nskillup":1,"rank":"Rank 8","reqclass":4,"schools":1,"skill":[270],modes:{"mode":[1]}},{"cat":0,"chrclass":4,"id":27344,"level":70,"name":"Growl","nskillup":1,"rank":"Rank 8","reqclass":4,"schools":1,"skill":[],modes:{"mode":[1]}},{"cat":0,"id":31334,"level":70,"name":"Growl","schools":1,modes:{"mode":[1]}},{"cat":0,"chrclass":1024,"id":39270,"level":10,"name":"Growl","reqclass":1024,"schools":1,modes:{"mode":[1]}}]});
+new Listview({template: 'sound', id: 'sounds', name: WH.Types.getUpperPlural(WH.Types.SOUND), tabs: tabsRelated, parent: 'lkljbjkb574', visibleCols: ['activity'], data:[{"activity":"exertion","id":643,"type":10,"name":"mTigerAttackB.ogg","files":[{"id":562385,"title":"mTigerAttackB","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/209\/562385","type":"audio\/ogg; codecs=\"vorbis\""},{"id":562386,"title":"mTigerAttackD","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/210\/562386","type":"audio\/ogg; codecs=\"vorbis\""},{"id":562393,"title":"mTigerAttackC","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/217\/562393","type":"audio\/ogg; codecs=\"vorbis\""},{"id":562394,"title":"mTigerAttackA","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/218\/562394","type":"audio\/ogg; codecs=\"vorbis\""}]},{"activity":"injury","id":644,"type":10,"name":"mTigerWoundC.ogg","files":[{"id":562389,"title":"mTigerWoundC","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/213\/562389","type":"audio\/ogg; codecs=\"vorbis\""},{"id":562390,"title":"mTigerWoundA","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/214\/562390","type":"audio\/ogg; codecs=\"vorbis\""},{"id":562392,"title":"mTigerWoundB","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/216\/562392","type":"audio\/ogg; codecs=\"vorbis\""}]},{"activity":"injurycritical","id":645,"type":10,"name":"mTigerWoundCriticalA.ogg","files":[{"id":562395,"title":"mTigerWoundCriticalA","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/219\/562395","type":"audio\/ogg; codecs=\"vorbis\""}]},{"activity":"death","id":646,"type":10,"name":"mTigerDeathA.ogg","files":[{"id":562391,"title":"mTigerDeathA","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/215\/562391","type":"audio\/ogg; codecs=\"vorbis\""}]},{"activity":"aggro","id":647,"type":10,"name":"mTigerDeathA.ogg","files":[{"id":562391,"title":"mTigerDeathA","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/215\/562391","type":"audio\/ogg; codecs=\"vorbis\""}]},{"activity":"fidget","id":648,"type":10,"name":"mTigerStand2A.ogg","files":[{"id":562388,"title":"mTigerStand2A","url":"https:\/\/wow.zamimg.com\/sound-ids\/tbc\/enus\/212\/562388","type":"audio\/ogg; codecs=\"vorbis\""}]}]});
+</script><script>new Listview({
+    data: lv_comments0,
+    id: 'comments',
+    name: WH.TERMS.comments,
+    parent: 'lkljbjkb574',
+    
+    tabOpts: {className: 'ugc-tab ugc-tab-comments'},
+    tabs: tabsRelated,
+    template: 'comment',
+});new Listview({
+    data: lv_screenshots,
+    id: 'screenshots',
+    name: WH.TERMS.screenshots,
+    parent: 'lkljbjkb574',
+    tabOpts: {className: 'ugc-tab ugc-tab-screenshots'},
+    tabs: tabsRelated,
+    template: 'screenshot',
+});if (lv_videos.length) {
+    new Listview({
+        data: lv_videos,
+        id: 'videos',
+        name: WH.TERMS.videos,
+        parent: 'lkljbjkb574',
+        tabs: tabsRelated,
+        tabOpts: {className: 'ugc-tab ugc-tab-videos'},
+        template: 'video',
+    });
+}
+if (window.lv_videos_english && lv_videos_english.length) {
+    new Listview({
+        data: lv_videos_english,
+        id: 'videos-english',
+        name: WH.TERMS.englishvideos,
+        parent: 'lkljbjkb574',
+        tabs: tabsRelated,
+        tabOpts: {className: 'ugc-tab ugc-tab-videos'},
+        template: 'video',
+    });
+}tabsRelated.flush();
+//]]></script>
+
+<h2 class="heading-size-2">Contribute</h2>
+<div id="lkgljhkv456" class="comment-tabs"></div>
+
+<div class="text comment-tabs-body">
+<div class="tabbed-contents" style="clear:none">
+<div id="tab-add-your-comment" style="display:none">
+Please keep the following in mind when posting a comment:<ul>
+    <li><div>Your comment must be in English or it will be removed.</div></li>
+    <li><div>Unsure how to post? Check out our <a href="/help=commenting-and-you" target="_blank">handy guide</a>!</div></li>
+    <li><div>You might want to proof-read your comments before posting them.</div></li>
+    <li><div>Please post questions on our <a href="/forums">forums</a> for quicker reply.</div></li>
+</ul>
+<form>
+    <div class="comment-edit-body">
+        <textarea class="comment-editbox" rows="10" cols="40" name="commentbody" disabled="disabled"></textarea>
+    </div>
+    <small>You are not logged in. Please <a href="/account=signin">log in</a> or <a href="/account=signup">register an account</a> to add your comment.</small>
+</form>
+</div>
+<div id="tab-submit-a-screenshot" style="display:none">
+    Simply browse for your screenshot using the form below.    <ul>
+        <li><div>Screenshots containing UI elements are generally declined on sight, the same goes for screenshots from the modelviewer or character selection screen.</div></li>
+        <li><div>The higher the quality the better!</div></li>
+        <li><div>Please review our <a href="/help=screenshot-guidelines" target="_blank">Screenshot Guidelines</a> before submitting!</div></li>
+    </ul>
+    <form action="/" method="post">
+        <input type="file" name="screenshotfile" disabled="disabled"><br>
+        <small>You are not logged in. Please <a href="/account=signin">log in</a> to submit a screenshot.</small>
+    </form>
+</div>
+
+<div id="tab-suggest-a-video" style="display:none">
+    Simply type the URL of the video in the form below.    <div class="pad2"></div>
+    <form action="/video=add&amp;1.2031" method="post" enctype="multipart/form-data"
+          onsubmit="return vi_validateForm(this)">
+
+        URL: <input type="text" name="videourl" style="width:35%">
+        <small>Supported: YouTube only</small>
+                    <div class="pad2"></div>
+            Title: <input type="text" name="videotitle" maxlength="200"> <small>Optional, up to 200 characters</small><br>
+                    <div class="pad"></div>
+        <input type="submit" value="Submit">
+
+        <div class="pad3"></div>
+        <small class="q0">Note: Your video will need to be approved before appearing on the site.</small>
+
+    </form>
+</div>
+<div id="tab-submit-your-data" style="display: none">
+    <p>The <b>Wowhead Client</b> is a little application we use to keep our database up to date, and to provide you with some nifty extra functionality on the website! &nbsp;</p>
+    <div class="pad2"></div>
+    <p>It serves 2 main purposes: &nbsp;</p>
+
+    <ol>
+        <li><div>It maintains a WoW addon called the <b>Wowhead Looter</b>, which collects data as you play the game! &nbsp;</div></li>
+        <li><div>It uploads the <b>collected data</b> to Wowhead in order to keep the database up-to-date! &nbsp;</div></li>
+    </ol>
+
+    <p>You can also use it to keep track of your completed quests, recipes, mounts, companion pets, and titles!&nbsp;</p>
+    <div class="pad2"></div>
+    <p>So, what are you waiting for? <a href="/client">Download the client</a> and get started.&nbsp;</p>
+</div>
+</div>
+</div>
+
+<script>
+var tabsContribute = new Tabs({parent: WH.ge('lkgljhkv456')});
+        tabsContribute.add(WH.TERMS.addyourcomment_stc, {id: 'add-your-comment'});tabsContribute.add(WH.TERMS.submitascreenshot_stc, {id: 'submit-a-screenshot'});tabsContribute.add(WH.TERMS.suggestavideo_stc, {id: 'suggest-a-video'});
+tabsContribute.add(WH.TERMS.submityourdata_stc, {id: 'submit-your-data'});tabsContribute.flush();
+</script>            <div class="clear"></div>
+        </div>    </div>    </div>
+<script>WH.Page.init()</script>
+
+<div class="blocks">
+        <div class="block-pair"><div class="horizontal-block-bg is-btf" data-was-parent="true">
+    <div id="ad-horizontalBTF" data-was-unit="true" class="banner-ad">
+        <script>WH.WAS.validateUnit("ad-horizontalBTF");</script>
+    </div>
+</div>
+</div>
+    </div><div class="mobile-footer-block-bg is-atf" data-was-parent="true">
+    <div id="ad-mobileFooter" data-was-unit="true" class="banner-ad">
+        <script>WH.WAS.validateUnit("ad-mobileFooter");</script>
+    </div>
+</div>
+
+<div class="site-footer">
+    <div class="footer-sites">
+        <div class="imitation-heading heading-size-2">Connect with Wowhead</div>            <ul>
+                                <li><a href="https://discord.gg/wowhead" class="discord-icon">Discord</a></li>
+                <li><a href="https://twitter.com/Wowhead" class="fa fa-twitter">Twitter</a></li>
+                <li><a href="https://www.facebook.com/Wowhead" class="fa fa-facebook">Facebook</a></li>
+                <li><a href="https://www.youtube.com/user/Wowhead" class="fa fa-youtube-play">YouTube</a></li>
+                <li><a href="/news/rss/all" class="fa fa-rss hassubmenu">News Feed</a></li>
+            </ul>
+
+            <div class="imitation-heading heading-size-2">Wowhead Resources</div>            <ul class="footer-site-links"><li><a href="/help" id="footer-help-menu">Need Help?</a></li><li><a href="javascript:" id="footer-tools-menu">User Tools</a></li><li><a href="/aboutus" id="footer-about-menu">About Us</a></li><li><a href="https://corp.fanbyte.com/partner">Advertise</a></li><li><a href="/whats-new">What's New</a></li><li><a href="javascript:" id="footer-cookies" style="display:none">Cookies</a></li><li><a href="/random" class="fa fa-random">Random Page</a></li><li><a href="/premium" class="fa fa-star">Premium</a></li></ul>
+            <script>WH.setupFooterMenus();</script>
+            <div class="imitation-heading heading-size-2">Other Fanbyte Sites</div>            <ul>
+                <li><a href="https://www.fanbyte.com/">Fanbyte</a></li>
+                <li><a href="https://www.hearthstonetopdecks.com/">Hearthstone Top Decks</a></li>
+                <li><a href="http://everquest.allakhazam.com/">Everquest</a></li>
+                <li><a href="http://eq2.zam.com/">Everquest II</a></li>
+                <li><a href="http://ffxi.allakhazam.com/">Final Fantasy XI</a></li>
+            </ul>
+        </div>
+        <div class="footer-fanbyte">
+            <a href="https://www.fanbyte.com/" class="footer-fanbyte-logo lazy-load-background"></a>
+        </div>
+</div>
+<div class="copyright">&copy; 2021 Fanbyte</div>
+
+<script>
+Menu.add(WH.qs('.footer-sites .fa-rss'), [[1,"All news posts","\/news\/rss\/all"],[2,"Classic WoW news","\/news\/rss\/classic"],[3,"Retail WoW news","\/news\/rss\/retail"],[4,"In-development WoW news","\/news\/rss\/in-dev"],[5,"Other Blizzard games news","\/news\/rss\/other-blizzard-games"]]);
+</script>
+
+</div></div><script>Platform.init();</script>
+
+<script>
+    qcdata = {} || qcdata;
+    (function(){
+        var elem = document.createElement('script');
+        elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-80xBzMhbKolFI";
+        elem.async = true;
+        elem.type = "text/javascript";
+        var scpt = document.getElementsByTagName('script')[0];
+        scpt.parentNode.insertBefore(elem,scpt);
+    }());
+
+    var qcdata = {qacct: 'p-80xBzMhbKolFI', labels: ''};
+</script>
+<noscript>
+    <img src="//pixel.quantserve.com/pixel/p-80xBzMhbKolFI.gif?labels=_fp.event.Default" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window,document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '200005404004494');
+    fbq('track', 'PageView');
+</script>
+<noscript>
+    <img height="1" width="1" src="https://www.facebook.com/tr?id=200005404004494&ev=PageView&noscript=1">
+</noscript>
+
+</body>
+</html>

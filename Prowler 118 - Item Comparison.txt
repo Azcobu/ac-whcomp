@@ -1,0 +1,423 @@
+ Found in both:
+Item ID | Item Name                          | iLvl| WH Drp | AC Drp |  Diff  | AC RLT
+   2672 | Stringy Wolf Meat                  |   5 | 80.05% | 87.50% |  7.45% | Direct
+   3299 | Fractured Canine                   |   1 | 12.78% | 15.00% |  2.22% | Direct
+    777 | Prowler Teeth                      |   1 | 10.81% | 12.00% |  1.19% | Direct
+   3300 | Rabbit's Foot                      |   5 | 19.33% | 20.00% |  0.67% | Direct
+   4562 | Severing Axe                       |  10 |  0.20% |  0.00% |  0.20% | 24074
+   2962 | Burnt Leather Breeches             |  10 |  0.19% |  0.00% |  0.19% | 24074
+   8178 | Training Sword                     |  10 |  0.17% |  0.00% |  0.17% | 24074
+   2958 | Journeyman's Pants                 |  10 |  0.15% |  0.00% |  0.15% | 24074
+    727 | Notched Shortsword                 |  10 |  0.15% |  0.00% |  0.15% | 24074
+    774 | Malachite                          |   7 |  0.85% |  0.73% |  0.12% | 24071
+   2140 | Carving Knife                      |  11 |  0.12% |  0.00% |  0.12% | 24074
+   2966 | Warrior's Pants                    |  10 |  0.10% |  0.00% |  0.10% | 24074
+   2961 | Burnt Leather Vest                 |  11 |  0.10% |  0.00% |  0.10% | 24074
+   8180 | Hunting Bow                        |  11 |  0.09% |  0.00% |  0.09% | 24074
+   2555 | Recipe: Swiftness Potion           |  15 |  0.00% |  0.09% |  0.09% | 24700
+   6342 | Formula: Enchant Chest - Minor Mana|  12 |  0.00% |  0.09% |  0.09% | 24700
+   2407 | Pattern: White Leather Jerkin      |  13 |  0.00% |  0.09% |  0.09% | 24700
+   6271 | Pattern: Red Linen Vest            |  12 |  0.00% |  0.09% |  0.09% | 24700
+   3610 | Plans: Gemmed Copper Gauntlets     |  15 |  0.01% |  0.09% |  0.08% | 24700
+   2553 | Recipe: Elixir of Minor Agility    |  12 |  0.01% |  0.09% |  0.08% | 24700
+   4561 | Scalping Tomahawk                  |  11 |  0.08% |  0.00% |  0.08% | 24074
+   2589 | Linen Cloth                        |   5 |  0.24% |  0.18% |  0.07% | 44007
+    159 | Refreshing Spring Water            |   5 |  0.08% |  0.03% |  0.06% | 44007
+   7108 | Infantry Shield                    |  11 |  0.05% |  0.00% |  0.05% | 24074
+  15925 | Journeyman's Stave                 |  10 |  0.05% |  0.00% |  0.05% | 24074
+   2965 | Warrior's Tunic                    |  11 |  0.05% |  0.00% |  0.05% | 24074
+   5571 | Small Black Pouch                  |   5 |  0.06% |  0.02% |  0.04% | 11111
+    117 | Tough Jerky                        |   5 |  0.01% |  0.05% |  0.04% | 44007
+   4496 | Small Brown Pouch                  |   5 |  0.06% |  0.02% |  0.04% | 11111
+   2211 | Bent Large Shield                  |   4 |  0.04% |  0.00% |  0.03% | 24073
+   3365 | Frayed Bracers                     |   5 |  0.03% |  0.00% |  0.03% | 24073
+   2957 | Journeyman's Vest                  |  11 |  0.03% |  0.00% |  0.03% | 24074
+    805 | Small Red Pouch                    |   5 |  0.05% |  0.02% |  0.03% | 11111
+   1380 | Frayed Robe                        |   4 |  0.03% |  0.00% |  0.03% | 24073
+   5572 | Small Green Pouch                  |   5 |  0.05% |  0.02% |  0.03% | 11111
+   1374 | Frayed Shoes                       |   4 |  0.03% |  0.00% |  0.03% | 24073
+   1377 | Frayed Gloves                      |   3 |  0.03% |  0.00% |  0.03% | 24073
+   1367 | Ragged Leather Boots               |   3 |  0.03% |  0.00% |  0.03% | 24073
+    828 | Small Blue Pouch                   |   5 |  0.05% |  0.02% |  0.03% | 11111
+   2653 | Flimsy Chain Gloves                |   4 |  0.03% |  0.00% |  0.02% | 24073
+   1372 | Ragged Cloak                       |   3 |  0.03% |  0.00% |  0.02% | 24073
+   1368 | Ragged Leather Gloves              |   4 |  0.02% |  0.00% |  0.02% | 24073
+    118 | Minor Healing Potion               |   5 |  0.04% |  0.01% |  0.02% | 44007
+   6511 | Journeyman's Robe                  |  11 |  0.02% |  0.00% |  0.02% | 24074
+   1364 | Ragged Leather Vest                |   5 |  0.02% |  0.00% |  0.02% | 24073
+   2656 | Flimsy Chain Vest                  |   5 |  0.02% |  0.00% |  0.02% | 24073
+   1378 | Frayed Pants                       |   2 |  0.02% |  0.00% |  0.01% | 24073
+   2210 | Battered Buckler                   |   2 |  0.02% |  0.00% |  0.01% | 24073
+   2642 | Loose Chain Boots                  |   9 |  0.02% |  0.00% |  0.01% | 24073
+   1376 | Frayed Cloak                       |   5 |  0.01% |  0.00% |  0.01% | 24073
+   2651 | Flimsy Chain Bracers               |   4 |  0.01% |  0.00% |  0.01% | 24073
+   3363 | Frayed Belt                        |   3 |  0.01% |  0.00% |  0.01% | 24073
+   2649 | Flimsy Chain Belt                  |   2 |  0.01% |  0.00% |  0.01% | 24073
+   1181 | Scroll of Spirit                   |  10 |  0.01% |  0.00% |  0.01% | 24720
+   1369 | Ragged Leather Belt                |   5 |  0.01% |  0.00% |  0.01% | 24073
+   1414 | Cracked Sledge                     |   9 |  0.01% |  0.00% |  0.01% | 24073
+   2654 | Flimsy Chain Pants                 |   2 |  0.01% |  0.00% |  0.01% | 24073
+   1366 | Ragged Leather Pants               |   2 |  0.01% |  0.00% |  0.01% | 24073
+   1370 | Ragged Leather Bracers             |   4 |  0.01% |  0.00% |  0.01% | 24073
+   2650 | Flimsy Chain Boots                 |   3 |  0.01% |  0.00% |  0.01% | 24073
+   3609 | Plans: Copper Chain Vest           |  10 |  0.08% |  0.09% |  0.01% | 24700
+   1412 | Crude Bastard Sword                |   7 |  0.01% |  0.00% |  0.01% | 24073
+   1430 | Patchwork Gloves                   |   7 |  0.01% |  0.00% |  0.01% | 24073
+   2644 | Loose Chain Cloak                  |   6 |  0.01% |  0.00% |  0.01% | 24073
+   2652 | Flimsy Chain Cloak                 |   5 |  0.01% |  0.00% |  0.01% | 24073
+   2598 | Pattern: Red Linen Robe            |  10 |  0.10% |  0.09% |  0.01% | 24700
+   1417 | Beaten Battle Axe                  |   8 |  0.01% |  0.00% |  0.00% | 24073
+   1431 | Patchwork Pants                    |   8 |  0.01% |  0.00% |  0.00% | 24073
+   2646 | Loose Chain Pants                  |   8 |  0.01% |  0.00% |  0.00% | 24073
+   1416 | Rusty Hatchet                      |   9 |  0.00% |  0.00% |  0.00% | 24073
+   1419 | Worn Leather Boots                 |   8 |  0.00% |  0.00% |  0.00% | 24073
+   1420 | Worn Leather Bracers               |   9 |  0.00% |  0.00% |  0.00% | 24073
+   1425 | Worn Leather Vest                  |   9 |  0.00% |  0.00% |  0.00% | 24073
+   1427 | Patchwork Shoes                    |  10 |  0.00% |  0.00% |  0.00% | 24073
+   1429 | Patchwork Cloak                    |   6 |  0.00% |  0.00% |  0.00% | 24073
+   2213 | Worn Large Shield                  |   7 |  0.00% |  0.00% |  0.00% | 24073
+   2645 | Loose Chain Gloves                 |   7 |  0.00% |  0.00% |  0.00% | 24073
+   3370 | Patchwork Belt                     |   8 |  0.00% |  0.00% |  0.00% | 24073
+   3373 | Patchwork Bracers                  |   9 |  0.00% |  0.00% |  0.00% | 24073
+   2138 | Sharpened Letter Opener            |   7 |  0.00% |  0.00% |  0.00% | 24073
+   2635 | Loose Chain Belt                   |   8 |  0.00% |  0.00% |  0.00% | 24073
+   2774 | Rust-covered Blunderbuss           |   7 |  0.00% |  0.00% |  0.00% | 24073
+   1418 | Worn Leather Belt                  |   7 |  0.00% |  0.00% |  0.00% | 24073
+   1423 | Worn Leather Pants                 |   7 |  0.00% |  0.00% |  0.00% | 24073
+   1433 | Patchwork Armor                    |   7 |  0.00% |  0.00% |  0.00% | 24073
+   2212 | Cracked Buckler                    |   6 |  0.00% |  0.00% |  0.00% | 24073
+   2648 | Loose Chain Vest                   |  10 |  0.00% |  0.00% |  0.00% | 24073
+--------------
+87 common items found.
+
+ Found in WH only:
+    732 | Okra                          |   9 |  0.00 | WH | --
+    750 | Tough Wolf Meat               |   1 |  0.04 | WH | --
+    755 | Melted Candle                 |   1 |  0.10 | WH | --
+    766 | Flanged Mace                  |   7 |  0.00 | WH | --
+    767 | Long Bo Staff                 |   8 |  0.08 | WH | --
+    768 | Lumberjack Axe                |   9 |  0.17 | WH | --
+    771 | Chipped Boar Tusk             |   1 |  0.02 | WH | --
+    779 | Shiny Seashell                |   1 |  0.02 | WH | --
+    781 | Stone Gnoll Hammer            |   9 |  0.01 | WH | --
+    818 | Tigerseye                     |  15 |  0.34 | WH | --
+   1006 | Brass Collar                  |   1 |  0.00 | WH | --
+   1175 | A Gold Tooth                  |   1 |  0.00 | WH | --
+   1195 | Kobold Mining Shovel          |   6 |  0.01 | WH | --
+   1389 | Kobold Mining Mallet          |   7 |  0.01 | WH | --
+   1399 | Magic Candle                  |   8 |  0.00 | WH | --
+   1438 | Warrior's Shield              |   9 |  0.04 | WH | --
+   1476 | Snapped Spider Limb           |   1 |  0.01 | WH | --
+   2057 | Pitted Defias Shortsword      |   4 |  0.03 | WH | --
+   2070 | Darnassian Bleu               |   5 |  0.09 | WH | --
+   2075 | Priest's Mace                 |  12 |  0.06 | WH | --
+   2108 | Frostmane Leather Vest        |   4 |  0.00 | WH | --
+   2406 | Pattern: Fine Leather Boots   |  15 |  0.00 | WH | --
+   2408 | Pattern: Fine Leather Gloves  |  15 |  0.00 | WH | --
+   2449 | Earthroot                     |   5 |  0.00 | WH | --
+   2590 | Forest Spider Webbing         |   5 |  0.03 | WH | --
+   2591 | Dirty Trogg Cloth             |   9 |  0.00 | WH | --
+   2675 | Crawler Claw                  |  13 |  0.00 | WH | --
+   2886 | Crag Boar Rib                 |   5 |  0.00 | WH | --
+   2959 | Journeyman's Boots            |   9 |  0.25 | WH | --
+   2960 | Journeyman's Gloves           |   9 |  0.24 | WH | --
+   2963 | Burnt Leather Boots           |   9 |  0.14 | WH | --
+   2964 | Burnt Leather Gloves          |  10 |  0.10 | WH | --
+   2967 | Warrior's Boots               |  10 |  0.10 | WH | --
+   2968 | Warrior's Gloves              |   9 |  0.15 | WH | --
+   3169 | Chipped Bear Tooth            |   1 |  0.01 | WH | --
+   3170 | Large Bear Tooth              |   1 |  0.00 | WH | --
+   3171 | Broken Boar Tusk              |   1 |  0.02 | WH | --
+   3189 | Wood Chopper                  |   8 |  0.12 | WH | --
+   3190 | Beatstick                     |   8 |  0.09 | WH | --
+   3192 | Short Bastard Sword           |  12 |  0.06 | WH | --
+   3200 | Burnt Leather Bracers         |   8 |  0.08 | WH | --
+   3213 | Veteran Bracers               |  13 |  0.01 | WH | --
+   3214 | Warrior's Bracers             |   9 |  0.16 | WH | --
+   3399 | Vulture Talon                 |   1 |  0.00 | WH | --
+   3641 | Journeyman's Bracers          |   8 |  0.11 | WH | --
+   3651 | Veteran Shield                |  15 |  0.00 | WH | --
+   3652 | Hunting Buckler               |  14 |  0.01 | WH | --
+   4408 | Schematic: Mechanical Squirrel|  15 |  0.00 | WH | --
+   4536 | Shiny Red Apple               |   5 |  0.09 | WH | --
+   4540 | Tough Hunk of Bread           |   5 |  0.00 | WH | --
+   4560 | Fine Scimitar                 |   6 |  0.00 | WH | --
+   4563 | Billy Club                    |   9 |  0.15 | WH | --
+   4564 | Spiked Club                   |  13 |  0.03 | WH | --
+   4566 | Sturdy Quarterstaff           |  13 |  0.02 | WH | --
+   4577 | Compact Shotgun               |  13 |  0.04 | WH | --
+   4604 | Forest Mushroom Cap           |   5 |  0.02 | WH | --
+   4658 | Warrior's Cloak               |   8 |  0.08 | WH | --
+   4659 | Warrior's Girdle              |   8 |  0.09 | WH | --
+   4662 | Journeyman's Cloak            |   8 |  0.09 | WH | --
+   4663 | Journeyman's Belt             |   9 |  0.22 | WH | --
+   4665 | Burnt Cloak                   |   8 |  0.11 | WH | --
+   4666 | Burnt Leather Belt            |   9 |  0.17 | WH | --
+   4677 | Veteran Cloak                 |  12 |  0.03 | WH | --
+   4683 | Spellbinder Cloak             |  13 |  0.02 | WH | --
+   4684 | Spellbinder Belt              |  13 |  0.02 | WH | --
+   4689 | Hunting Cloak                 |  13 |  0.02 | WH | --
+   4690 | Hunting Belt                  |  13 |  0.01 | WH | --
+   4776 | Ruffled Feather               |   1 |  0.00 | WH | --
+   4814 | Discolored Fang               |   1 |  0.00 | WH | --
+   4865 | Ruined Pelt                   |   1 |  0.02 | WH | --
+   4872 | Dry Scorpid Eye               |   1 |  0.01 | WH | --
+   5069 | Fire Wand                     |  12 |  0.07 | WH | --
+   5363 | Folded Handkerchief           |   1 |  0.00 | WH | --
+   5465 | Small Spider Leg              |   5 |  0.03 | WH | --
+   6266 | Disciple's Vest               |  13 |  0.01 | WH | --
+   6267 | Disciple's Pants              |  12 |  0.06 | WH | --
+   6268 | Pioneer Tunic                 |  13 |  0.04 | WH | --
+   6269 | Pioneer Trousers              |  12 |  0.05 | WH | --
+   6303 | Raw Slitherskin Mackerel      |   5 |  0.01 | WH | --
+   6336 | Infantry Tunic                |  13 |  0.01 | WH | --
+   6337 | Infantry Leggings             |  12 |  0.03 | WH | --
+   6506 | Infantry Boots                |  11 |  0.04 | WH | --
+   6507 | Infantry Bracers              |  10 |  0.11 | WH | --
+   6508 | Infantry Cloak                |   9 |  0.17 | WH | --
+   6509 | Infantry Belt                 |  10 |  0.08 | WH | --
+   6510 | Infantry Gauntlets            |  11 |  0.03 | WH | --
+   6512 | Disciple's Robe               |  13 |  0.01 | WH | --
+   6513 | Disciple's Sash               |  10 |  0.16 | WH | --
+   6514 | Disciple's Cloak              |  10 |  0.15 | WH | --
+   6515 | Disciple's Gloves             |  11 |  0.07 | WH | --
+   6517 | Pioneer Belt                  |  10 |  0.18 | WH | --
+   6518 | Pioneer Boots                 |  11 |  0.06 | WH | --
+   6519 | Pioneer Bracers               |  10 |  0.09 | WH | --
+   6520 | Pioneer Cloak                 |   9 |  0.14 | WH | --
+   6521 | Pioneer Gloves                |  11 |  0.05 | WH | --
+   7073 | Broken Fang                   |   1 |  0.07 | WH | --
+   7074 | Chipped Claw                  |   1 |  0.08 | WH | --
+   7096 | Plucked Feather               |   1 |  0.00 | WH | --
+   7097 | Leg Meat                      |   5 |  0.00 | WH | --
+   7098 | Splintered Tusk               |   1 |  0.00 | WH | --
+   7101 | Bug Eye                       |   1 |  0.00 | WH | --
+   7109 | Pioneer Buckler               |   9 |  0.07 | WH | --
+   7350 | Disciple's Bracers            |  10 |  0.13 | WH | --
+   7351 | Disciple's Boots              |  11 |  0.07 | WH | --
+   8181 | Hunting Rifle                 |   9 |  0.18 | WH | --
+   9742 | Simple Cord                   |  12 |  0.04 | WH | --
+   9743 | Simple Shoes                  |  12 |  0.05 | WH | --
+   9744 | Simple Bands                  |  12 |  0.04 | WH | --
+   9745 | Simple Cape                   |  11 |  0.07 | WH | --
+   9746 | Simple Gloves                 |  13 |  0.02 | WH | --
+   9750 | Gypsy Sash                    |  12 |  0.04 | WH | --
+   9751 | Gypsy Sandals                 |  12 |  0.04 | WH | --
+   9752 | Gypsy Bands                   |  12 |  0.04 | WH | --
+   9753 | Gypsy Buckler                 |  12 |  0.06 | WH | --
+   9754 | Gypsy Cloak                   |  11 |  0.07 | WH | --
+   9755 | Gypsy Gloves                  |  13 |  0.02 | WH | --
+   9758 | Cadet Belt                    |  12 |  0.02 | WH | --
+   9759 | Cadet Boots                   |  13 |  0.01 | WH | --
+   9760 | Cadet Bracers                 |  12 |  0.03 | WH | --
+   9761 | Cadet Cloak                   |  11 |  0.04 | WH | --
+   9762 | Cadet Gauntlets               |  13 |  0.01 | WH | --
+   9764 | Cadet Shield                  |  13 |  0.01 | WH | --
+  15895 | Burnt Buckler                 |   8 |  0.08 | WH | --
+  15932 | Disciple's Stein              |  12 |  0.06 | WH | --
+  15933 | Simple Branch                 |  15 |  0.01 | WH | --
+  17056 | Light Feather                 |   1 |  0.00 | WH | --
+--------------
+126 WH-exclusive items found.
+
+ Found in AC only:
+    827 | Wicked Blackjack              |  17 |  0.12 | ACDB | 24077
+    899 | Venom Web Fang                |  19 |  0.12 | ACDB | 24078
+    954 | Scroll of Strength            |   1 |  0.00 | ACDB | 24720
+    955 | Scroll of Intellect           |   1 |  0.00 | ACDB | 24720
+   1180 | Scroll of Stamina             |   1 |  0.00 | ACDB | 24720
+   1214 | Gnoll Punisher                |  17 |  0.12 | ACDB | 24077
+   1219 | Redridge Machete              |  16 |  0.12 | ACDB | 24077
+   1391 | Riverpaw Mystic Staff         |  18 |  0.12 | ACDB | 24078
+   1405 | Foamspittle Staff             |  17 |  0.12 | ACDB | 24077
+   1411 | Withered Staff                |   8 |  0.00 | ACDB | 24073
+   1413 | Feeble Sword                  |   8 |  0.00 | ACDB | 24073
+   1415 | Carpenter's Mallet            |   9 |  0.00 | ACDB | 24073
+   1421 | Worn Hide Cloak               |  10 |  0.00 | ACDB | 24073
+   1422 | Worn Leather Gloves           |   6 |  0.00 | ACDB | 24073
+   1440 | Gnoll Skull Basher            |  19 |  0.12 | ACDB | 24078
+   1446 | Blackrock Boots               |  19 |  0.12 | ACDB | 24078
+   1469 | Scimitar of Atun              |  19 |  0.12 | ACDB | 24078
+   1473 | Riverside Staff               |  19 |  0.12 | ACDB | 24078
+   1495 | Calico Shoes                  |  13 |  0.73 | ACDB | 24071
+   1497 | Calico Cloak                  |  14 |  0.73 | ACDB | 24071
+   1498 | Calico Gloves                 |  15 |  0.73 | ACDB | 24071
+   1499 | Calico Pants                  |  11 |  0.73 | ACDB | 24071
+   1501 | Calico Tunic                  |  13 |  0.73 | ACDB | 24071
+   1502 | Warped Leather Belt           |  14 |  0.73 | ACDB | 24071
+   1503 | Warped Leather Boots          |  15 |  0.73 | ACDB | 24071
+   1504 | Warped Leather Bracers        |  11 |  0.73 | ACDB | 24071
+   1505 | Warped Cloak                  |  12 |  0.73 | ACDB | 24071
+   1506 | Warped Leather Gloves         |  13 |  0.73 | ACDB | 24071
+   1507 | Warped Leather Pants          |  14 |  0.73 | ACDB | 24071
+   1509 | Warped Leather Vest           |  11 |  0.73 | ACDB | 24071
+   1510 | Heavy Hammer                  |  12 |  0.73 | ACDB | 24071
+   1511 | Commoner's Sword              |  13 |  0.73 | ACDB | 24071
+   1512 | Crude Battle Axe              |  12 |  0.73 | ACDB | 24071
+   1513 | Old Greatsword                |  14 |  0.73 | ACDB | 24071
+   1514 | Rusty Warhammer               |  14 |  0.73 | ACDB | 24071
+   1515 | Rough Wooden Staff            |  12 |  0.73 | ACDB | 24071
+   1516 | Worn Hatchet                  |  14 |  0.73 | ACDB | 24071
+   1730 | Worn Mail Belt                |  12 |  0.73 | ACDB | 24071
+   1731 | Worn Mail Boots               |  13 |  0.73 | ACDB | 24071
+   1732 | Worn Mail Bracers             |  14 |  0.73 | ACDB | 24071
+   1733 | Worn Cloak                    |  15 |  0.73 | ACDB | 24071
+   1734 | Worn Mail Gloves              |  11 |  0.73 | ACDB | 24071
+   1735 | Worn Mail Pants               |  12 |  0.73 | ACDB | 24071
+   1737 | Worn Mail Vest                |  14 |  0.73 | ACDB | 24071
+   1925 | Defias Rapier                 |  16 |  0.12 | ACDB | 24077
+   1928 | Defias Mage Staff             |  16 |  0.12 | ACDB | 24077
+   1929 | Silk-threaded Trousers        |  18 |  0.12 | ACDB | 24078
+   1930 | Stonemason Cloak              |  18 |  0.12 | ACDB | 24078
+   1936 | Goblin Screwdriver            |  18 |  0.12 | ACDB | 24078
+   1943 | Goblin Mail Leggings          |  19 |  0.12 | ACDB | 24078
+   1944 | Metalworking Gloves           |  18 |  0.12 | ACDB | 24078
+   1945 | Woodworking Gloves            |  18 |  0.12 | ACDB | 24078
+   1951 | Blackwater Cutlass            |  19 |  0.12 | ACDB | 24078
+   1958 | Petrified Shinbone            |  17 |  0.12 | ACDB | 24077
+   1959 | Cold Iron Pick                |  17 |  0.12 | ACDB | 24077
+   2020 | Hollowfang Blade              |  18 |  0.12 | ACDB | 24078
+   2078 | Northern Shortsword           |  18 |  0.12 | ACDB | 24078
+   2079 | Sergeant's Warhammer          |  17 |  0.12 | ACDB | 24077
+   2214 | Wooden Buckler                |  15 |  0.73 | ACDB | 24071
+   2215 | Wooden Shield                 |  11 |  0.73 | ACDB | 24071
+   2643 | Loose Chain Bracers           |  10 |  0.00 | ACDB | 24073
+   2763 | Fisherman Knife               |  14 |  0.73 | ACDB | 24071
+   2773 | Cracked Shortbow              |   8 |  0.00 | ACDB | 24073
+   2777 | Feeble Shortbow               |  13 |  0.73 | ACDB | 24071
+   2778 | Cheap Blunderbuss             |  13 |  0.73 | ACDB | 24071
+   2969 | Spellbinder Vest              |  17 |  0.12 | ACDB | 24077
+   2970 | Spellbinder Pants             |  16 |  0.12 | ACDB | 24077
+   2973 | Hunting Tunic                 |  17 |  0.12 | ACDB | 24077
+   2974 | Hunting Pants                 |  16 |  0.12 | ACDB | 24077
+   2977 | Veteran Armor                 |  16 |  0.12 | ACDB | 24077
+   2983 | Seer's Boots                  |  17 |  0.12 | ACDB | 24077
+   2984 | Seer's Gloves                 |  18 |  0.12 | ACDB | 24078
+   2987 | Inscribed Leather Boots       |  18 |  0.12 | ACDB | 24078
+   2988 | Inscribed Leather Gloves      |  19 |  0.12 | ACDB | 24078
+   3013 | Scroll of Protection          |   1 |  0.00 | ACDB | 24720
+   3040 | Hunter's Muzzle Loader        |  19 |  0.12 | ACDB | 24078
+   3195 | Barbaric Battle Axe           |  18 |  0.12 | ACDB | 24078
+   3196 | Edged Bastard Sword           |  18 |  0.12 | ACDB | 24078
+   3205 | Inscribed Leather Bracers     |  17 |  0.12 | ACDB | 24077
+   3211 | Burnished Bracers             |  19 |  0.12 | ACDB | 24078
+   3305 | Brackwater Leggings           |  16 |  0.12 | ACDB | 24077
+   3306 | Brackwater Vest               |  18 |  0.12 | ACDB | 24078
+   3309 | Barbaric Loincloth            |  16 |  0.12 | ACDB | 24077
+   3310 | Barbaric Cloth Vest           |  18 |  0.12 | ACDB | 24078
+   3313 | Ceremonial Leather Harness    |  18 |  0.12 | ACDB | 24078
+   3315 | Ceremonial Leather Loincloth  |  17 |  0.12 | ACDB | 24077
+   3374 | Calico Belt                   |  14 |  0.73 | ACDB | 24071
+   3375 | Calico Bracers                |  12 |  0.73 | ACDB | 24071
+   3645 | Seer's Cuffs                  |  17 |  0.12 | ACDB | 24077
+   4290 | Dust Bowl                     |  18 |  0.12 | ACDB | 24078
+   4567 | Merc Sword                    |  16 |  0.12 | ACDB | 24077
+   4571 | War Knife                     |  17 |  0.12 | ACDB | 24077
+   4575 | Medicine Staff                |  19 |  0.12 | ACDB | 24078
+   4676 | Skeletal Gauntlets            |  17 |  0.12 | ACDB | 24077
+   4695 | Burnished Cloak               |  18 |  0.12 | ACDB | 24078
+   4699 | Seer's Belt                   |  18 |  0.12 | ACDB | 24078
+   4701 | Inscribed Cloak               |  16 |  0.12 | ACDB | 24077
+   5212 | Blazing Wand                  |  17 |  0.12 | ACDB | 24077
+   5771 | Pattern: Red Linen Bag        |  14 |  0.09 | ACDB | 24700
+   6344 | Formula: Enchant Bracer - Mino|  17 |  0.09 | ACDB | 24700
+   6378 | Seer's Cape                   |  17 |  0.12 | ACDB | 24077
+   6379 | Inscribed Leather Belt        |  17 |  0.12 | ACDB | 24077
+   6380 | Inscribed Buckler             |  18 |  0.12 | ACDB | 24078
+   6528 | Spellbinder Robe              |  17 |  0.12 | ACDB | 24077
+   6531 | Barbaric Cloth Robe           |  18 |  0.12 | ACDB | 24078
+   6536 | Willow Vest                   |  19 |  0.12 | ACDB | 24078
+   6538 | Willow Robe                   |  19 |  0.12 | ACDB | 24078
+   6539 | Willow Belt                   |  16 |  0.12 | ACDB | 24077
+   6540 | Willow Pants                  |  18 |  0.12 | ACDB | 24078
+   6541 | Willow Gloves                 |  16 |  0.12 | ACDB | 24077
+   6545 | Soldier's Armor               |  18 |  0.12 | ACDB | 24078
+   6546 | Soldier's Leggings            |  17 |  0.12 | ACDB | 24077
+   6547 | Soldier's Gauntlets           |  17 |  0.12 | ACDB | 24077
+   6548 | Soldier's Girdle              |  16 |  0.12 | ACDB | 24077
+   6551 | Soldier's Boots               |  17 |  0.12 | ACDB | 24077
+   6552 | Bard's Tunic                  |  19 |  0.12 | ACDB | 24078
+   6553 | Bard's Trousers               |  18 |  0.12 | ACDB | 24078
+   6554 | Bard's Gloves                 |  17 |  0.12 | ACDB | 24077
+   6557 | Bard's Boots                  |  16 |  0.12 | ACDB | 24077
+   6559 | Bard's Buckler                |  16 |  0.12 | ACDB | 24077
+   6560 | Soldier's Shield              |  17 |  0.12 | ACDB | 24077
+   7288 | Pattern: Rugged Leather Pants |  11 |  0.09 | ACDB | 24700
+   7554 | Willow Branch                 |  19 |  0.12 | ACDB | 24078
+   9775 | Bandit Cinch                  |  19 |  0.12 | ACDB | 24078
+   9777 | Bandit Bracers                |  19 |  0.12 | ACDB | 24078
+   9779 | Bandit Cloak                  |  18 |  0.12 | ACDB | 24078
+   9784 | Raider's Boots                |  19 |  0.12 | ACDB | 24078
+   9785 | Raider's Bracers              |  17 |  0.12 | ACDB | 24077
+   9786 | Raider's Cloak                |  16 |  0.12 | ACDB | 24077
+   9787 | Raider's Gauntlets            |  19 |  0.12 | ACDB | 24078
+   9788 | Raider's Belt                 |  18 |  0.12 | ACDB | 24078
+   9789 | Raider's Legguards            |  19 |  0.12 | ACDB | 24078
+   9790 | Raider's Shield               |  19 |  0.12 | ACDB | 24078
+  14025 | Mystic's Belt                 |  17 |  0.12 | ACDB | 24077
+  14090 | Beaded Britches               |  11 |  0.00 | ACDB | 24074
+  14091 | Beaded Robe                   |  11 |  0.00 | ACDB | 24074
+  14094 | Beaded Wraps                  |  11 |  0.00 | ACDB | 24074
+  14096 | Native Vest                   |  16 |  0.12 | ACDB | 24077
+  14109 | Native Robe                   |  16 |  0.12 | ACDB | 24077
+  14114 | Aboriginal Footwraps          |  16 |  0.12 | ACDB | 24077
+  14117 | Aboriginal Gloves             |  16 |  0.12 | ACDB | 24077
+  14119 | Aboriginal Loincloth          |  17 |  0.12 | ACDB | 24077
+  14122 | Ritual Bands                  |  18 |  0.12 | ACDB | 24078
+  14123 | Ritual Cape                   |  17 |  0.12 | ACDB | 24077
+  14131 | Ritual Belt                   |  19 |  0.12 | ACDB | 24078
+  14160 | Pagan Bands                   |  19 |  0.12 | ACDB | 24078
+  14161 | Pagan Cape                    |  18 |  0.12 | ACDB | 24078
+  14166 | Buccaneer's Bracers           |  19 |  0.12 | ACDB | 24078
+  14167 | Buccaneer's Cape              |  19 |  0.12 | ACDB | 24078
+  14174 | Buccaneer's Boots             |  19 |  0.12 | ACDB | 24078
+  14364 | Mystic's Slippers             |  18 |  0.12 | ACDB | 24078
+  14366 | Mystic's Bracelets            |  17 |  0.12 | ACDB | 24077
+  14367 | Mystic's Gloves               |  19 |  0.12 | ACDB | 24078
+  14370 | Mystic's Woolies              |  19 |  0.12 | ACDB | 24078
+  14559 | Prospector's Sash             |  18 |  0.12 | ACDB | 24078
+  14560 | Prospector's Boots            |  19 |  0.12 | ACDB | 24078
+  14561 | Prospector's Cuffs            |  17 |  0.12 | ACDB | 24077
+  14563 | Prospector's Cloak            |  17 |  0.12 | ACDB | 24077
+  14564 | Prospector's Mitts            |  19 |  0.12 | ACDB | 24078
+  14722 | War Paint Anklewraps          |  17 |  0.12 | ACDB | 24077
+  14723 | War Paint Bindings            |  17 |  0.12 | ACDB | 24077
+  14724 | War Paint Cloak               |  16 |  0.12 | ACDB | 24077
+  14725 | War Paint Waistband           |  17 |  0.12 | ACDB | 24077
+  14726 | War Paint Gloves              |  18 |  0.12 | ACDB | 24078
+  14727 | War Paint Legguards           |  19 |  0.12 | ACDB | 24078
+  15009 | Primal Leggings               |  11 |  0.00 | ACDB | 24074
+  15010 | Primal Wraps                  |  11 |  0.00 | ACDB | 24074
+  15012 | Lupine Slippers               |  16 |  0.12 | ACDB | 24077
+  15014 | Lupine Buckler                |  17 |  0.12 | ACDB | 24077
+  15016 | Lupine Handwraps              |  16 |  0.12 | ACDB | 24077
+  15017 | Lupine Leggings               |  19 |  0.12 | ACDB | 24078
+  15114 | Rigid Cape                    |  19 |  0.12 | ACDB | 24078
+  15210 | Raider Shortsword             |  16 |  0.12 | ACDB | 24077
+  15222 | Barbed Club                   |  19 |  0.12 | ACDB | 24078
+  15268 | Twin-bladed Axe               |  16 |  0.12 | ACDB | 24077
+  15304 | Grizzly Jerkin                |  16 |  0.12 | ACDB | 24077
+  15305 | Feral Shoes                   |  18 |  0.12 | ACDB | 24078
+  15306 | Feral Bindings                |  16 |  0.12 | ACDB | 24077
+  15307 | Feral Buckler                 |  19 |  0.12 | ACDB | 24078
+  15308 | Feral Cord                    |  17 |  0.12 | ACDB | 24077
+  15310 | Feral Gloves                  |  18 |  0.12 | ACDB | 24078
+  15477 | Charger's Pants               |  11 |  0.00 | ACDB | 24074
+  15479 | Charger's Armor               |  11 |  0.00 | ACDB | 24074
+  15487 | War Torn Tunic                |  16 |  0.12 | ACDB | 24077
+  15489 | Bloodspattered Sabatons       |  16 |  0.12 | ACDB | 24077
+  15493 | Bloodspattered Loincloth      |  18 |  0.12 | ACDB | 24078
+  15494 | Bloodspattered Shield         |  18 |  0.12 | ACDB | 24078
+  15497 | Outrunner's Cord              |  19 |  0.12 | ACDB | 24078
+  15499 | Outrunner's Cuffs             |  18 |  0.12 | ACDB | 24078
+  15501 | Outrunner's Cloak             |  17 |  0.12 | ACDB | 24077
+  15507 | Grunt's Bracers               |  19 |  0.12 | ACDB | 24078
+  15508 | Grunt's Cape                  |  19 |  0.12 | ACDB | 24078
+  15926 | Spellbinder Orb               |  17 |  0.12 | ACDB | 24077
+  15945 | Runic Stave                   |  18 |  0.12 | ACDB | 24078
+  15969 | Beaded Orb                    |  10 |  0.00 | ACDB | 24074
+--------------
+195 AC-exclusive items found.
+
+RLTs found only in AC (can be deleted): [24077, 24078]
+RLTs found in both: [11111, 24071, 24073, 24074, 24700, 24720, 44007]

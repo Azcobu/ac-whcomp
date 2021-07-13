@@ -1,0 +1,353 @@
+ Found in both:
+Item ID | Item Name                   | iLvl| WH Drp | AC Drp |  Diff  | AC RLT
+   3685 | Raptor Egg                  |  22 | 48.40% | 70.00% | 21.60% | Direct
+   1697 | Keen Raptor Tooth           |   1 | 12.13% | 20.00% |  7.87% | Direct
+   1696 | Curved Raptor Talon         |   1 |  6.23% | 10.00% |  3.77% | Direct
+   5635 | Sharp Claw                  |  15 |  6.78% | 10.00% |  3.22% | Direct
+   5637 | Large Fang                  |  30 |  1.26% |  2.00% |  0.74% | Direct
+    804 | Large Blue Sack             |  25 |  0.03% |  0.12% |  0.10% | 44010
+   5575 | Large Green Sack            |  25 |  0.03% |  0.12% |  0.10% | 44010
+   2072 | Dwarven Magestaff           |  27 |  0.03% |  0.11% |  0.09% | 24066
+   3056 | Forest Leather Pants        |  26 |  0.03% |  0.11% |  0.09% | 24066
+   6394 | Silver-thread Boots         |  27 |  0.03% |  0.11% |  0.09% | 24066
+   6602 | Dervish Bracers             |  27 |  0.03% |  0.11% |  0.09% | 24066
+   6608 | Bright Armor                |  27 |  0.03% |  0.11% |  0.09% | 24066
+   9799 | Ivycloth Sash               |  26 |  0.03% |  0.11% |  0.09% | 24066
+   9806 | Superior Gloves             |  27 |  0.03% |  0.11% |  0.09% | 24066
+   9807 | Superior Shoulders          |  27 |  0.03% |  0.11% |  0.09% | 24066
+  15241 | Battle Knife                |  26 |  0.03% |  0.11% |  0.09% | 24066
+  15249 | Polished Zweihander         |  26 |  0.03% |  0.11% |  0.09% | 24066
+  15927 | Bright Sphere               |  27 |  0.03% |  0.11% |  0.09% | 24066
+   3049 | Lambent Scale Breastplate   |  27 |  0.05% |  0.11% |  0.06% | 24066
+   3055 | Forest Leather Chestpiece   |  26 |  0.05% |  0.11% |  0.06% | 24066
+   3069 | Bright Robe                 |  27 |  0.05% |  0.11% |  0.06% | 24066
+   4707 | Lambent Scale Girdle        |  26 |  0.05% |  0.11% |  0.06% | 24066
+   8186 | Dire Wand                   |  26 |  0.05% |  0.11% |  0.06% | 24066
+  15212 | Fighter Broadsword          |  27 |  0.05% |  0.11% |  0.06% | 24066
+   6614 | Sage's Cloak                |  28 |  0.10% |  0.06% |  0.04% | 24068
+   4036 | Silver-thread Cuffs         |  27 |  0.08% |  0.11% |  0.04% | 24066
+   4714 | Silver-thread Sash          |  27 |  0.08% |  0.11% |  0.04% | 24066
+   6591 | Battleforge Wristguards     |  27 |  0.08% |  0.11% |  0.04% | 24066
+   6600 | Dervish Belt                |  27 |  0.08% |  0.11% |  0.04% | 24066
+   9796 | Ivycloth Mantle             |  27 |  0.08% |  0.11% |  0.04% | 24066
+   2077 | Magician Staff              |  29 |  0.03% |  0.06% |  0.03% | 24068
+   2819 | Cross Dagger                |  28 |  0.03% |  0.06% |  0.03% | 24068
+   3201 | Barbarian War Axe           |  28 |  0.03% |  0.06% |  0.03% | 24068
+   3206 | Cavalier Two-hander         |  28 |  0.03% |  0.06% |  0.03% | 24068
+   4711 | Glimmering Cloak            |  28 |  0.03% |  0.06% |  0.03% | 24068
+   6393 | Silver-thread Gloves        |  28 |  0.03% |  0.06% |  0.03% | 24068
+   6397 | Emblazoned Gloves           |  29 |  0.03% |  0.06% |  0.03% | 24068
+   6595 | Battleforge Gauntlets       |  28 |  0.03% |  0.06% |  0.03% | 24068
+   6605 | Dervish Gloves              |  28 |  0.03% |  0.06% |  0.03% | 24068
+   6615 | Sage's Gloves               |  29 |  0.03% |  0.06% |  0.03% | 24068
+   9797 | Ivycloth Pants              |  28 |  0.03% |  0.06% |  0.03% | 24068
+  11995 | Ivory Band                  |  28 |  0.03% |  0.06% |  0.03% | 24068
+   5543 | Plans: Iridescent Hammer    |  28 |  0.05% |  0.03% |  0.03% | 24703
+   6590 | Battleforge Boots           |  29 |  0.08% |  0.06% |  0.02% | 24068
+   6601 | Dervish Boots               |  28 |  0.08% |  0.06% |  0.02% | 24068
+   8184 | Firestarter                 |  29 |  0.08% |  0.06% |  0.02% | 24068
+  11968 | Amber Hoop                  |  26 |  0.13% |  0.11% |  0.02% | 24066
+   6390 | Pattern: Stylish Blue Shirt |  24 |  0.03% |  0.01% |  0.01% | 24702
+   9816 | Fortified Shield            |  25 |  0.08% |  0.07% |  0.01% | 24064
+   6596 | Battleforge Legguards       |  28 |  0.05% |  0.06% |  0.01% | 24068
+   6597 | Battleforge Shoulderguards  |  28 |  0.05% |  0.06% |  0.01% | 24068
+   9831 | Scaled Cloak                |  29 |  0.05% |  0.06% |  0.01% | 24068
+  11984 | Cobalt Ring                 |  29 |  0.05% |  0.06% |  0.01% | 24068
+  15284 | Long Battle Bow             |  29 |  0.05% |  0.06% |  0.01% | 24068
+   3611 | Plans: Green Iron Boots     |  29 |  0.03% |  0.03% |  0.00% | 24703
+--------------
+55 common items found.
+
+ Found in WH only:
+    720 | Brawler Gloves                |  28 |  0.03 | WH | --
+   1529 | Jade                          |  35 |  0.39 | WH | --
+   1705 | Lesser Moonstone              |  30 |  0.05 | WH | --
+   4035 | Silver-thread Robe            |  31 |  0.03 | WH | --
+   4064 | Emblazoned Buckler            |  30 |  0.03 | WH | --
+   4633 | Heavy Bronze Lockbox          |  25 |  0.08 | WH | --
+   6211 | Recipe: Elixir of Ogre's Stren|  30 |  0.03 | WH | --
+   6388 | Glimmering Mail Pauldrons     |  30 |  0.03 | WH | --
+   6603 | Dervish Tunic                 |  30 |  0.03 | WH | --
+   6607 | Dervish Leggings              |  30 |  0.03 | WH | --
+   7356 | Elder's Cloak                 |  30 |  0.03 | WH | --
+   7419 | Phalanx Cloak                 |  30 |  0.03 | WH | --
+   9837 | Banded Bracers                |  30 |  0.03 | WH | --
+--------------
+13 WH-exclusive items found.
+
+ Found in AC only:
+    857 | Large Red Sack                |  25 |  0.12 | ACDB | 44010
+    886 | Black Metal Shortsword        |  26 |  0.11 | ACDB | 24066
+    897 | Madwolf Bracers               |  29 |  0.06 | ACDB | 24068
+    911 | Ironwood Treebranch           |  25 |  0.07 | ACDB | 24064
+    920 | Wicked Spiked Mace            |  25 |  0.07 | ACDB | 24064
+   1076 | Defias Renegade Ring          |  25 |  0.07 | ACDB | 24064
+   1077 | Defias Mage Ring              |  26 |  0.11 | ACDB | 24066
+   1210 | Shadowgem                     |  20 |  0.07 | ACDB | 24064
+   1351 | Fingerbone Bracers            |  28 |  0.06 | ACDB | 24068
+   1406 | Pearl-encrusted Spear         |  21 |  0.07 | ACDB | 24064
+   1455 | Blackrock Champion's Axe      |  24 |  0.07 | ACDB | 24064
+   1459 | Shadowhide Scalper            |  24 |  0.07 | ACDB | 24064
+   1461 | Slayer's Battle Axe           |  25 |  0.07 | ACDB | 24064
+   1462 | Ring of the Shadow            |  25 |  0.07 | ACDB | 24064
+   2011 | Twisted Sabre                 |  26 |  0.50 | ACDB | 24067
+   2013 | Cryptbone Staff               |  26 |  0.11 | ACDB | 24066
+   2015 | Black Metal War Axe           |  28 |  0.06 | ACDB | 24068
+   2017 | Glowing Leather Bracers       |  28 |  0.06 | ACDB | 24068
+   2034 | Scholarly Robes               |  25 |  0.07 | ACDB | 24064
+   2098 | Double-barreled Shotgun       |  27 |  0.50 | ACDB | 24067
+   2227 | Heavy Ogre War Axe            |  27 |  0.11 | ACDB | 24066
+   2232 | Dark Runner Boots             |  25 |  0.07 | ACDB | 24064
+   2233 | Shadow Weaver Leggings        |  27 |  0.11 | ACDB | 24066
+   2409 | Pattern: Dark Leather Tunic   |  20 |  0.01 | ACDB | 24702
+   2566 | Sacrificial Robes             |  27 |  0.11 | ACDB | 24066
+   2601 | Pattern: Gray Woolen Robe     |  21 |  0.01 | ACDB | 24702
+   2700 | Recipe: Succulent Pork Ribs   |  20 |  0.01 | ACDB | 24702
+   2800 | Black Velvet Robes            |  26 |  0.50 | ACDB | 24067
+   2882 | Plans: Silvered Bronze Shoulde|  25 |  0.03 | ACDB | 24703
+   2883 | Plans: Deadly Bronze Poniard  |  25 |  0.03 | ACDB | 24703
+   3045 | Lambent Scale Boots           |  27 |  0.11 | ACDB | 24066
+   3047 | Lambent Scale Gloves          |  27 |  0.11 | ACDB | 24066
+   3048 | Lambent Scale Legguards       |  26 |  0.11 | ACDB | 24066
+   3053 | Humbert's Chestpiece          |  28 |  0.06 | ACDB | 24068
+   3057 | Forest Leather Boots          |  24 |  0.07 | ACDB | 24064
+   3058 | Forest Leather Gloves         |  25 |  0.07 | ACDB | 24064
+   3066 | Bright Gloves                 |  24 |  0.07 | ACDB | 24064
+   3067 | Bright Pants                  |  26 |  0.11 | ACDB | 24066
+   3202 | Forest Leather Bracers        |  24 |  0.07 | ACDB | 24064
+   3204 | Deepwood Bracers              |  26 |  0.11 | ACDB | 24066
+   3212 | Lambent Scale Bracers         |  26 |  0.11 | ACDB | 24066
+   3393 | Recipe: Minor Magic Resistance|  22 |  0.01 | ACDB | 24702
+   3394 | Recipe: Potion of Curing      |  24 |  0.01 | ACDB | 24702
+   3396 | Recipe: Elixir of Lesser Agili|  28 |  0.03 | ACDB | 24703
+   3429 | Guardsman Belt                |  24 |  0.07 | ACDB | 24064
+   3569 | Vicar's Robe                  |  26 |  0.11 | ACDB | 24066
+   3608 | Plans: Mighty Iron Hammer     |  29 |  0.03 | ACDB | 24703
+   3612 | Plans: Green Iron Gauntlets   |  30 |  0.01 | ACDB | 24704
+   3656 | Lambent Scale Shield          |  27 |  0.11 | ACDB | 24066
+   3740 | Decapitating Sword            |  24 |  0.07 | ACDB | 24064
+   3867 | Plans: Golden Iron Destroyer  |  34 |  0.01 | ACDB | 24704
+   3870 | Plans: Green Iron Shoulders   |  32 |  0.01 | ACDB | 24704
+   3872 | Plans: Golden Scale Leggings  |  34 |  0.01 | ACDB | 24704
+   4049 | Emblazoned Bracers            |  28 |  0.06 | ACDB | 24068
+   4293 | Pattern: Hillman's Leather Ves|  20 |  0.01 | ACDB | 24702
+   4294 | Pattern: Hillman's Belt       |  24 |  0.01 | ACDB | 24702
+   4296 | Pattern: Dark Leather Shoulder|  28 |  0.03 | ACDB | 24703
+   4297 | Pattern: Barbaric Gloves      |  30 |  0.01 | ACDB | 24704
+   4298 | Pattern: Guardian Belt        |  34 |  0.01 | ACDB | 24704
+   4346 | Pattern: Heavy Woolen Cloak   |  20 |  0.01 | ACDB | 24702
+   4347 | Pattern: Reinforced Woolen Sho|  24 |  0.01 | ACDB | 24702
+   4348 | Pattern: Phoenix Gloves       |  25 |  0.03 | ACDB | 24703
+   4349 | Pattern: Phoenix Pants        |  25 |  0.03 | ACDB | 24703
+   4350 | Pattern: Spider Silk Slippers |  28 |  0.03 | ACDB | 24703
+   4351 | Pattern: Shadow Hood          |  34 |  0.01 | ACDB | 24704
+   4409 | Schematic: Small Seaforium Cha|  20 |  0.01 | ACDB | 24702
+   4410 | Schematic: Shadow Goggles     |  24 |  0.01 | ACDB | 24702
+   4411 | Schematic: Flame Deflector    |  25 |  0.03 | ACDB | 24703
+   4412 | Schematic: Moonsight Rifle    |  29 |  0.03 | ACDB | 24703
+   4413 | Schematic: Discombobulator Ray|  32 |  0.01 | ACDB | 24704
+   4414 | Schematic: Portable Bronze Mor|  33 |  0.01 | ACDB | 24704
+   4661 | Bright Mantle                 |  26 |  0.11 | ACDB | 24066
+   4705 | Lambent Scale Pauldrons       |  27 |  0.11 | ACDB | 24066
+   4706 | Lambent Scale Cloak           |  24 |  0.07 | ACDB | 24064
+   4708 | Bright Belt                   |  24 |  0.07 | ACDB | 24064
+   4709 | Forest Leather Mantle         |  25 |  0.07 | ACDB | 24064
+   4712 | Glimmering Mail Girdle        |  29 |  0.06 | ACDB | 24068
+   4713 | Silver-thread Cloak           |  26 |  0.11 | ACDB | 24066
+   4715 | Emblazoned Cloak              |  27 |  0.11 | ACDB | 24066
+   4723 | Humbert's Pants               |  29 |  0.06 | ACDB | 24068
+   4998 | Blood Ring                    |  24 |  0.07 | ACDB | 24064
+   4999 | Azora's Will                  |  27 |  0.11 | ACDB | 24066
+   5001 | Heart Ring                    |  27 |  0.11 | ACDB | 24066
+   5576 | Large Brown Sack              |  25 |  0.12 | ACDB | 44010
+   5578 | Plans: Silvered Bronze Breastp|  26 |  0.03 | ACDB | 24703
+   5772 | Pattern: Red Woolen Bag       |  23 |  0.01 | ACDB | 24702
+   5773 | Pattern: Robes of Arcana      |  30 |  0.01 | ACDB | 24704
+   5972 | Pattern: Fine Leather Pants   |  21 |  0.01 | ACDB | 24702
+   6044 | Plans: Iron Shield Spike      |  30 |  0.01 | ACDB | 24704
+   6045 | Plans: Iron Counterweight     |  33 |  0.01 | ACDB | 24704
+   6315 | Steelarrow Crossbow           |  27 |  0.11 | ACDB | 24066
+   6375 | Formula: Enchant Bracer - Less|  24 |  0.01 | ACDB | 24702
+   6383 | Forest Buckler                |  24 |  0.07 | ACDB | 24064
+   6387 | Glimmering Mail Bracers       |  29 |  0.06 | ACDB | 24068
+   6391 | Pattern: Stylish Green Shirt  |  24 |  0.01 | ACDB | 24702
+   6395 | Silver-thread Amice           |  29 |  0.06 | ACDB | 24068
+   6398 | Emblazoned Belt               |  29 |  0.06 | ACDB | 24068
+   6454 | Manual: Strong Anti-Venom     |  26 |  0.03 | ACDB | 24703
+   6567 | Shimmering Armor              |  25 |  0.07 | ACDB | 24064
+   6568 | Shimmering Trousers           |  24 |  0.07 | ACDB | 24064
+   6569 | Shimmering Robe               |  25 |  0.07 | ACDB | 24064
+   6584 | Scouting Tunic                |  25 |  0.07 | ACDB | 24064
+   6587 | Scouting Trousers             |  24 |  0.07 | ACDB | 24064
+   6592 | Battleforge Armor             |  29 |  0.06 | ACDB | 24068
+   6593 | Battleforge Cloak             |  26 |  0.11 | ACDB | 24066
+   6594 | Battleforge Girdle            |  28 |  0.06 | ACDB | 24068
+   6598 | Dervish Buckler               |  28 |  0.06 | ACDB | 24068
+   6599 | Battleforge Shield            |  29 |  0.06 | ACDB | 24068
+   6604 | Dervish Cape                  |  26 |  0.11 | ACDB | 24066
+   6611 | Sage's Sash                   |  29 |  0.06 | ACDB | 24068
+   6612 | Sage's Boots                  |  28 |  0.06 | ACDB | 24068
+   6613 | Sage's Bracers                |  28 |  0.06 | ACDB | 24068
+   6716 | Schematic: EZ-Thro Dynamite   |  20 |  0.01 | ACDB | 24702
+   7090 | Pattern: Green Silk Armor     |  33 |  0.01 | ACDB | 24704
+   7091 | Pattern: Truefaith Gloves     |  30 |  0.01 | ACDB | 24704
+   7092 | Pattern: Hands of Darkness    |  29 |  0.03 | ACDB | 24703
+   7360 | Pattern: Dark Leather Gloves  |  25 |  0.01 | ACDB | 24702
+   7363 | Pattern: Pilferer's Gloves    |  28 |  0.03 | ACDB | 24703
+   7364 | Pattern: Heavy Earthen Gloves |  29 |  0.03 | ACDB | 24703
+   7415 | Dervish Spaulders             |  29 |  0.06 | ACDB | 24068
+   7449 | Pattern: Dusky Leather Legging|  33 |  0.01 | ACDB | 24704
+   7558 | Shimmering Stave              |  25 |  0.07 | ACDB | 24064
+   8183 | Precision Bow                 |  27 |  0.11 | ACDB | 24066
+   9769 | Greenweave Branch             |  27 |  0.11 | ACDB | 24066
+   9771 | Greenweave Gloves             |  25 |  0.07 | ACDB | 24064
+   9772 | Greenweave Leggings           |  27 |  0.11 | ACDB | 24066
+   9773 | Greenweave Robe               |  27 |  0.11 | ACDB | 24066
+   9774 | Greenweave Vest               |  27 |  0.11 | ACDB | 24066
+   9791 | Ivycloth Tunic                |  29 |  0.06 | ACDB | 24068
+   9792 | Ivycloth Boots                |  25 |  0.07 | ACDB | 24064
+   9793 | Ivycloth Bracelets            |  25 |  0.07 | ACDB | 24064
+   9794 | Ivycloth Cloak                |  25 |  0.07 | ACDB | 24064
+   9795 | Ivycloth Gloves               |  26 |  0.11 | ACDB | 24066
+   9798 | Ivycloth Robe                 |  29 |  0.06 | ACDB | 24068
+   9800 | Ivy Orb                       |  29 |  0.06 | ACDB | 24068
+   9801 | Superior Belt                 |  25 |  0.07 | ACDB | 24064
+   9802 | Superior Boots                |  26 |  0.11 | ACDB | 24066
+   9803 | Superior Bracers              |  26 |  0.11 | ACDB | 24066
+   9804 | Superior Buckler              |  26 |  0.11 | ACDB | 24066
+   9805 | Superior Cloak                |  24 |  0.07 | ACDB | 24064
+   9808 | Superior Leggings             |  28 |  0.06 | ACDB | 24068
+   9809 | Superior Tunic                |  28 |  0.06 | ACDB | 24068
+   9810 | Fortified Boots               |  25 |  0.07 | ACDB | 24064
+   9811 | Fortified Bracers             |  24 |  0.07 | ACDB | 24064
+   9813 | Fortified Gauntlets           |  25 |  0.07 | ACDB | 24064
+   9814 | Fortified Belt                |  24 |  0.07 | ACDB | 24064
+   9815 | Fortified Leggings            |  25 |  0.07 | ACDB | 24064
+   9817 | Fortified Spaulders           |  26 |  0.11 | ACDB | 24066
+   9818 | Fortified Chain               |  25 |  0.07 | ACDB | 24064
+   9822 | Durable Cape                  |  29 |  0.06 | ACDB | 24068
+   9829 | Scaled Leather Bracers        |  29 |  0.06 | ACDB | 24068
+   9838 | Banded Cloak                  |  29 |  0.06 | ACDB | 24068
+  10287 | Greenweave Mantle             |  26 |  0.11 | ACDB | 24066
+  10316 | Pattern: Colorful Kilt        |  24 |  0.01 | ACDB | 24702
+  10424 | Plans: Silvered Bronze Legging|  31 |  0.01 | ACDB | 24704
+  11038 | Formula: Enchant 2H Weapon - L|  22 |  0.01 | ACDB | 24702
+  11039 | Formula: Enchant Cloak - Minor|  22 |  0.01 | ACDB | 24702
+  11081 | Formula: Enchant Shield - Less|  22 |  0.01 | ACDB | 24702
+  11098 | Formula: Enchant Cloak - Lesse|  27 |  0.03 | ACDB | 24703
+  11151 | Formula: Enchant Gloves - Herb|  29 |  0.03 | ACDB | 24703
+  11152 | Formula: Enchant Gloves - Fish|  29 |  0.03 | ACDB | 24703
+  11969 | Jacinth Circle                |  29 |  0.06 | ACDB | 24068
+  11983 | Chrome Ring                   |  26 |  0.11 | ACDB | 24066
+  11994 | Coral Band                    |  25 |  0.07 | ACDB | 24064
+  12007 | Prairie Ring                  |  25 |  0.07 | ACDB | 24064
+  12008 | Savannah Ring                 |  28 |  0.06 | ACDB | 24068
+  12054 | Demon Band                    |  24 |  0.07 | ACDB | 24064
+  13010 | Dreamsinger Legguards         |  26 |  0.50 | ACDB | 24067
+  13011 | Silver-lined Belt             |  27 |  0.50 | ACDB | 24067
+  13012 | Yorgen Bracers                |  27 |  0.50 | ACDB | 24067
+  13016 | Killmaim                      |  26 |  0.50 | ACDB | 24067
+  13032 | Sword of Corruption           |  27 |  0.50 | ACDB | 24067
+  13041 | Guardian Blade                |  26 |  0.50 | ACDB | 24067
+  13062 | Thunderwood                   |  27 |  0.50 | ACDB | 24067
+  14127 | Ritual Shroud                 |  24 |  0.07 | ACDB | 24064
+  14133 | Ritual Tunic                  |  24 |  0.07 | ACDB | 24064
+  14158 | Pagan Vest                    |  26 |  0.11 | ACDB | 24066
+  14163 | Pagan Wraps                   |  26 |  0.11 | ACDB | 24066
+  14165 | Pagan Britches                |  25 |  0.07 | ACDB | 24064
+  14176 | Watcher's Boots               |  26 |  0.11 | ACDB | 24066
+  14177 | Watcher's Cuffs               |  26 |  0.11 | ACDB | 24066
+  14179 | Watcher's Cape                |  24 |  0.07 | ACDB | 24064
+  14181 | Watcher's Handwraps           |  28 |  0.06 | ACDB | 24068
+  14182 | Watcher's Mantle              |  28 |  0.06 | ACDB | 24068
+  14185 | Watcher's Cinch               |  27 |  0.11 | ACDB | 24066
+  14186 | Raincaller Mantle             |  29 |  0.06 | ACDB | 24068
+  14187 | Raincaller Cuffs              |  28 |  0.06 | ACDB | 24068
+  14188 | Raincaller Cloak              |  27 |  0.11 | ACDB | 24066
+  14194 | Raincaller Cord               |  28 |  0.06 | ACDB | 24068
+  14195 | Raincaller Boots              |  29 |  0.06 | ACDB | 24068
+  14372 | Sanguine Armor                |  28 |  0.06 | ACDB | 24068
+  14373 | Sanguine Belt                 |  25 |  0.07 | ACDB | 24064
+  14374 | Sanguine Sandals              |  24 |  0.07 | ACDB | 24064
+  14375 | Sanguine Cuffs                |  25 |  0.07 | ACDB | 24064
+  14377 | Sanguine Handwraps            |  26 |  0.11 | ACDB | 24066
+  14378 | Sanguine Mantle               |  27 |  0.11 | ACDB | 24066
+  14379 | Sanguine Trousers             |  29 |  0.06 | ACDB | 24068
+  14380 | Sanguine Robe                 |  28 |  0.06 | ACDB | 24068
+  14400 | Resilient Cape                |  29 |  0.06 | ACDB | 24068
+  14402 | Resilient Bands               |  29 |  0.06 | ACDB | 24068
+  14566 | Prospector's Pads             |  25 |  0.07 | ACDB | 24064
+  14570 | Bristlebark Blouse            |  28 |  0.06 | ACDB | 24068
+  14572 | Bristlebark Gloves            |  24 |  0.07 | ACDB | 24064
+  14573 | Bristlebark Amice             |  27 |  0.11 | ACDB | 24066
+  14574 | Bristlebark Britches          |  26 |  0.11 | ACDB | 24066
+  14578 | Dokebi Cord                   |  29 |  0.06 | ACDB | 24068
+  14580 | Dokebi Bracers                |  27 |  0.11 | ACDB | 24066
+  14582 | Dokebi Cape                   |  28 |  0.06 | ACDB | 24068
+  14742 | Hulking Boots                 |  24 |  0.07 | ACDB | 24064
+  14744 | Hulking Chestguard            |  28 |  0.06 | ACDB | 24068
+  14748 | Hulking Leggings              |  25 |  0.07 | ACDB | 24064
+  14749 | Hulking Spaulders             |  26 |  0.11 | ACDB | 24066
+  14750 | Slayer's Cuffs                |  28 |  0.06 | ACDB | 24068
+  14752 | Slayer's Cape                 |  27 |  0.11 | ACDB | 24066
+  14754 | Slayer's Gloves               |  29 |  0.06 | ACDB | 24068
+  14755 | Slayer's Sash                 |  28 |  0.06 | ACDB | 24068
+  14756 | Slayer's Slippers             |  29 |  0.06 | ACDB | 24068
+  15116 | Rigid Shoulders               |  26 |  0.11 | ACDB | 24066
+  15117 | Rigid Leggings                |  24 |  0.07 | ACDB | 24064
+  15118 | Rigid Tunic                   |  26 |  0.11 | ACDB | 24066
+  15120 | Robust Girdle                 |  26 |  0.11 | ACDB | 24066
+  15121 | Robust Boots                  |  28 |  0.06 | ACDB | 24068
+  15122 | Robust Bracers                |  25 |  0.07 | ACDB | 24064
+  15123 | Robust Buckler                |  28 |  0.06 | ACDB | 24068
+  15124 | Robust Cloak                  |  25 |  0.07 | ACDB | 24064
+  15125 | Robust Gloves                 |  29 |  0.06 | ACDB | 24068
+  15126 | Robust Leggings               |  29 |  0.06 | ACDB | 24068
+  15132 | Cutthroat's Armguards         |  29 |  0.06 | ACDB | 24068
+  15223 | Jagged Star                   |  24 |  0.07 | ACDB | 24064
+  15224 | Battlesmasher                 |  25 |  0.07 | ACDB | 24064
+  15230 | Ridge Cleaver                 |  25 |  0.07 | ACDB | 24064
+  15259 | Hefty Battlehammer            |  25 |  0.07 | ACDB | 24064
+  15269 | Massive Battle Axe            |  24 |  0.07 | ACDB | 24064
+  15329 | Wrangler's Belt               |  24 |  0.07 | ACDB | 24064
+  15330 | Wrangler's Boots              |  25 |  0.07 | ACDB | 24064
+  15332 | Wrangler's Buckler            |  27 |  0.11 | ACDB | 24066
+  15334 | Wrangler's Gloves             |  27 |  0.11 | ACDB | 24066
+  15336 | Wrangler's Leggings           |  27 |  0.11 | ACDB | 24066
+  15337 | Wrangler's Wraps              |  29 |  0.06 | ACDB | 24068
+  15338 | Wrangler's Mantle             |  28 |  0.06 | ACDB | 24068
+  15340 | Pathfinder Cloak              |  27 |  0.11 | ACDB | 24066
+  15347 | Pathfinder Belt               |  28 |  0.06 | ACDB | 24068
+  15348 | Pathfinder Bracers            |  26 |  0.11 | ACDB | 24066
+  15500 | Outrunner's Chestguard        |  24 |  0.07 | ACDB | 24064
+  15511 | Grunt's Legguards             |  24 |  0.07 | ACDB | 24064
+  15512 | Grunt's Shield                |  24 |  0.07 | ACDB | 24064
+  15513 | Grunt's Pauldrons             |  25 |  0.07 | ACDB | 24064
+  15514 | Grunt's Chestpiece            |  26 |  0.11 | ACDB | 24066
+  15515 | Spiked Chain Belt             |  25 |  0.07 | ACDB | 24064
+  15516 | Spiked Chain Slippers         |  27 |  0.11 | ACDB | 24066
+  15517 | Spiked Chain Wristbands       |  25 |  0.07 | ACDB | 24064
+  15520 | Spiked Chain Gauntlets        |  26 |  0.11 | ACDB | 24066
+  15521 | Spiked Chain Leggings         |  27 |  0.11 | ACDB | 24066
+  15522 | Spiked Chain Shield           |  29 |  0.06 | ACDB | 24068
+  15523 | Spiked Chain Shoulder Pads    |  27 |  0.11 | ACDB | 24066
+  15525 | Sentry's Slippers             |  28 |  0.06 | ACDB | 24068
+  15526 | Sentry's Cape                 |  24 |  0.07 | ACDB | 24064
+  15527 | Sentry's Gloves               |  27 |  0.11 | ACDB | 24066
+  15528 | Sentry's Sash                 |  26 |  0.11 | ACDB | 24066
+  15529 | Sentry's Leggings             |  29 |  0.06 | ACDB | 24068
+  15532 | Sentry's Armsplints           |  26 |  0.11 | ACDB | 24066
+  15535 | Wicked Chain Bracers          |  29 |  0.06 | ACDB | 24068
+  15537 | Wicked Chain Cloak            |  28 |  0.06 | ACDB | 24068
+  15547 | Thick Scale Cloak             |  29 |  0.06 | ACDB | 24068
+  15891 | Hulking Shield                |  26 |  0.11 | ACDB | 24066
+  15894 | Bristlebark Buckler           |  25 |  0.07 | ACDB | 24064
+  15947 | Sanguine Star                 |  28 |  0.06 | ACDB | 24068
+  15972 | Ritual Stein                  |  24 |  0.07 | ACDB | 24064
+  15974 | Pagan Rod                     |  26 |  0.11 | ACDB | 24066
+  20974 | Design: Jade Pendant of Blasti|  36 |  0.01 | ACDB | 24704
+--------------
+270 AC-exclusive items found.
+
+RLTs found only in AC (can be deleted): [24067, 24704]
+RLTs found in both: [24064, 24066, 24068, 24702, 24703, 44010]

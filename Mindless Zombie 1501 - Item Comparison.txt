@@ -1,0 +1,126 @@
+ Found in both:
+Item ID | Item Name               | iLvl| WH Drp | AC Drp |  Diff  | AC RLT
+    159 | Refreshing Spring Water |   5 | 14.92% |  0.05% | 14.87% | 44007
+   4604 | Forest Mushroom Cap     |   5 | 30.25% | 16.00% | 14.25% | Direct
+   1374 | Frayed Shoes            |   4 |  3.59% |  0.59% |  3.00% | 24073
+   1376 | Frayed Cloak            |   5 |  3.48% |  0.59% |  2.89% | 24073
+   3363 | Frayed Belt             |   3 |  3.39% |  0.59% |  2.80% | 24073
+   1380 | Frayed Robe             |   4 |  3.35% |  0.59% |  2.75% | 24073
+   3365 | Frayed Bracers          |   5 |  3.30% |  0.59% |  2.71% | 24073
+   1377 | Frayed Gloves           |   3 |  3.12% |  0.59% |  2.53% | 24073
+   1378 | Frayed Pants            |   2 |  3.10% |  0.59% |  2.51% | 24073
+   2210 | Battered Buckler        |   2 |  3.07% |  0.59% |  2.48% | 24073
+   1370 | Ragged Leather Bracers  |   4 |  3.04% |  0.59% |  2.45% | 24073
+   1366 | Ragged Leather Pants    |   2 |  3.03% |  0.59% |  2.44% | 24073
+   1368 | Ragged Leather Gloves   |   4 |  3.02% |  0.59% |  2.43% | 24073
+   2211 | Bent Large Shield       |   4 |  2.96% |  0.59% |  2.37% | 24073
+   1364 | Ragged Leather Vest     |   5 |  2.95% |  0.59% |  2.35% | 24073
+   1369 | Ragged Leather Belt     |   5 |  2.85% |  0.59% |  2.25% | 24073
+   1367 | Ragged Leather Boots    |   3 |  2.63% |  0.59% |  2.03% | 24073
+   1372 | Ragged Cloak            |   3 |  2.60% |  0.59% |  2.01% | 24073
+   2656 | Flimsy Chain Vest       |   5 |  2.57% |  0.59% |  1.98% | 24073
+   2653 | Flimsy Chain Gloves     |   4 |  2.47% |  0.59% |  1.87% | 24073
+   2654 | Flimsy Chain Pants      |   2 |  2.38% |  0.59% |  1.79% | 24073
+   2652 | Flimsy Chain Cloak      |   5 |  2.36% |  0.59% |  1.77% | 24073
+   2651 | Flimsy Chain Bracers    |   4 |  2.36% |  0.59% |  1.77% | 24073
+   2650 | Flimsy Chain Boots      |   3 |  2.28% |  0.59% |  1.69% | 24073
+   2649 | Flimsy Chain Belt       |   2 |  2.06% |  0.59% |  1.47% | 24073
+   4496 | Small Brown Pouch       |   5 |  0.29% |  0.02% |  0.27% | 11111
+    805 | Small Red Pouch         |   5 |  0.22% |  0.02% |  0.20% | 11111
+   5571 | Small Black Pouch       |   5 |  0.21% |  0.02% |  0.19% | 11111
+    828 | Small Blue Pouch        |   5 |  0.19% |  0.02% |  0.17% | 11111
+   5572 | Small Green Pouch       |   5 |  0.16% |  0.02% |  0.14% | 11111
+--------------
+30 common items found.
+
+ Found in WH only:
+   2070 | Darnassian Bleu               |   5 |  0.00 | WH | --
+   3264 | Duskbat Wing                  |   1 |  0.01 | WH | --
+   4865 | Ruined Pelt                   |   1 |  0.00 | WH | --
+   7073 | Broken Fang                   |   1 |  0.04 | WH | --
+   7074 | Chipped Claw                  |   1 |  0.06 | WH | --
+   7101 | Bug Eye                       |   1 |  0.01 | WH | --
+--------------
+6 WH-exclusive items found.
+
+ Found in AC only:
+    117 | Tough Jerky                   |   5 |  0.10 | ACDB | 44007
+    118 | Minor Healing Potion          |   5 |  0.03 | ACDB | 44007
+    727 | Notched Shortsword            |  10 |  0.00 | ACDB | 24074
+    954 | Scroll of Strength            |   1 |  0.01 | ACDB | 24720
+    955 | Scroll of Intellect           |   1 |  0.01 | ACDB | 24720
+   1180 | Scroll of Stamina             |   1 |  0.01 | ACDB | 24720
+   1181 | Scroll of Spirit              |   1 |  0.01 | ACDB | 24720
+   1411 | Withered Staff                |   8 |  0.59 | ACDB | 24073
+   1412 | Crude Bastard Sword           |   7 |  0.59 | ACDB | 24073
+   1413 | Feeble Sword                  |   8 |  0.59 | ACDB | 24073
+   1414 | Cracked Sledge                |   9 |  0.59 | ACDB | 24073
+   1415 | Carpenter's Mallet            |   9 |  0.59 | ACDB | 24073
+   1416 | Rusty Hatchet                 |   9 |  0.59 | ACDB | 24073
+   1417 | Beaten Battle Axe             |   8 |  0.59 | ACDB | 24073
+   1418 | Worn Leather Belt             |   7 |  0.59 | ACDB | 24073
+   1419 | Worn Leather Boots            |   8 |  0.59 | ACDB | 24073
+   1420 | Worn Leather Bracers          |   9 |  0.59 | ACDB | 24073
+   1421 | Worn Hide Cloak               |  10 |  0.59 | ACDB | 24073
+   1422 | Worn Leather Gloves           |   6 |  0.59 | ACDB | 24073
+   1423 | Worn Leather Pants            |   7 |  0.59 | ACDB | 24073
+   1425 | Worn Leather Vest             |   9 |  0.59 | ACDB | 24073
+   1427 | Patchwork Shoes               |  10 |  0.59 | ACDB | 24073
+   1429 | Patchwork Cloak               |   6 |  0.59 | ACDB | 24073
+   1430 | Patchwork Gloves              |   7 |  0.59 | ACDB | 24073
+   1431 | Patchwork Pants               |   8 |  0.59 | ACDB | 24073
+   1433 | Patchwork Armor               |   7 |  0.59 | ACDB | 24073
+   2138 | Sharpened Letter Opener       |   7 |  0.59 | ACDB | 24073
+   2140 | Carving Knife                 |  11 |  0.00 | ACDB | 24074
+   2212 | Cracked Buckler               |   6 |  0.59 | ACDB | 24073
+   2213 | Worn Large Shield             |   7 |  0.59 | ACDB | 24073
+   2407 | Pattern: White Leather Jerkin |  13 |  0.00 | ACDB | 24700
+   2553 | Recipe: Elixir of Minor Agilit|  12 |  0.00 | ACDB | 24700
+   2555 | Recipe: Swiftness Potion      |  15 |  0.00 | ACDB | 24700
+   2589 | Linen Cloth                   |   5 |  0.35 | ACDB | 44007
+   2598 | Pattern: Red Linen Robe       |  10 |  0.00 | ACDB | 24700
+   2635 | Loose Chain Belt              |   8 |  0.59 | ACDB | 24073
+   2642 | Loose Chain Boots             |   9 |  0.59 | ACDB | 24073
+   2643 | Loose Chain Bracers           |  10 |  0.59 | ACDB | 24073
+   2644 | Loose Chain Cloak             |   6 |  0.59 | ACDB | 24073
+   2645 | Loose Chain Gloves            |   7 |  0.59 | ACDB | 24073
+   2646 | Loose Chain Pants             |   8 |  0.59 | ACDB | 24073
+   2648 | Loose Chain Vest              |  10 |  0.59 | ACDB | 24073
+   2773 | Cracked Shortbow              |   8 |  0.59 | ACDB | 24073
+   2774 | Rust-covered Blunderbuss      |   7 |  0.59 | ACDB | 24073
+   2957 | Journeyman's Vest             |  11 |  0.00 | ACDB | 24074
+   2958 | Journeyman's Pants            |  10 |  0.00 | ACDB | 24074
+   2961 | Burnt Leather Vest            |  11 |  0.00 | ACDB | 24074
+   2962 | Burnt Leather Breeches        |  10 |  0.00 | ACDB | 24074
+   2965 | Warrior's Tunic               |  11 |  0.00 | ACDB | 24074
+   2966 | Warrior's Pants               |  10 |  0.00 | ACDB | 24074
+   3013 | Scroll of Protection          |   1 |  0.01 | ACDB | 24720
+   3370 | Patchwork Belt                |   8 |  0.59 | ACDB | 24073
+   3373 | Patchwork Bracers             |   9 |  0.59 | ACDB | 24073
+   3609 | Plans: Copper Chain Vest      |  10 |  0.00 | ACDB | 24700
+   3610 | Plans: Gemmed Copper Gauntlets|  15 |  0.00 | ACDB | 24700
+   4561 | Scalping Tomahawk             |  11 |  0.00 | ACDB | 24074
+   4562 | Severing Axe                  |  10 |  0.00 | ACDB | 24074
+   5771 | Pattern: Red Linen Bag        |  14 |  0.00 | ACDB | 24700
+   6271 | Pattern: Red Linen Vest       |  12 |  0.00 | ACDB | 24700
+   6342 | Formula: Enchant Chest - Minor|  12 |  0.00 | ACDB | 24700
+   6344 | Formula: Enchant Bracer - Mino|  17 |  0.00 | ACDB | 24700
+   6511 | Journeyman's Robe             |  11 |  0.00 | ACDB | 24074
+   7108 | Infantry Shield               |  11 |  0.00 | ACDB | 24074
+   7288 | Pattern: Rugged Leather Pants |  11 |  0.00 | ACDB | 24700
+   8178 | Training Sword                |  10 |  0.00 | ACDB | 24074
+   8180 | Hunting Bow                   |  11 |  0.00 | ACDB | 24074
+  14090 | Beaded Britches               |  11 |  0.00 | ACDB | 24074
+  14091 | Beaded Robe                   |  11 |  0.00 | ACDB | 24074
+  14094 | Beaded Wraps                  |  11 |  0.00 | ACDB | 24074
+  15009 | Primal Leggings               |  11 |  0.00 | ACDB | 24074
+  15010 | Primal Wraps                  |  11 |  0.00 | ACDB | 24074
+  15477 | Charger's Pants               |  11 |  0.00 | ACDB | 24074
+  15479 | Charger's Armor               |  11 |  0.00 | ACDB | 24074
+  15925 | Journeyman's Stave            |  10 |  0.00 | ACDB | 24074
+  15969 | Beaded Orb                    |  10 |  0.00 | ACDB | 24074
+--------------
+75 AC-exclusive items found.
+
+RLTs found only in AC (can be deleted): [24074, 24700, 24720]
+RLTs found in both: [11111, 24073, 44007]

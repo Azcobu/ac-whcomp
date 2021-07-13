@@ -7,7 +7,7 @@
 #        - add RLT numbers to WH-only and AC-WH listings [x]
 #        - with dict collisions, update associated item drop chance instead of discarding [x]
 #        - extract NPC name for more useful file name [x]
-#        - tracks which RLTs are AC-only and can thus be deleted
+#        - tracks which RLTs are AC-only and can thus be deleted [x]
 
 from mysql.connector import connect, Error
 import requests
@@ -249,7 +249,7 @@ def output_data(npc_id, results, item_quality=0):
         outstr.append(str(item) + '\n')
     outstr.append(f'--------------\n{len(ac_only)} AC-exclusive items found.\n\n')
     
-    outstr.append(f'RLTs found only in AC (can be deleted): {ac_only_rlts}\n')
+    outstr.append(f'RLTs found only in AC (can be deleted): {ac_only_rlts or "None."}\n')
     outstr.append(f'RLTs found in both: {both_rlts}')
 
     outstr = ''.join(outstr)
@@ -261,7 +261,7 @@ def output_data(npc_id, results, item_quality=0):
     save_data(savefilename, outstr)
 
 def main():
-    npc_id = 435
+    npc_id = 2721
     # optional, minimum item quality to scan, defaults to 0, where
     # 0 = all items, 1 = white, 2 = green, 3 = blue
     item_quality = 0

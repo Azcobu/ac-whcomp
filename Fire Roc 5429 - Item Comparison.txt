@@ -1,0 +1,803 @@
+ Found in both:
+Item ID | Item Name                          | iLvl| WH Drp | AC Drp |  Diff  | AC RLT
+   6257 | Roc Gizzard                        |   1 | 11.93% | 80.00% | 68.07% | Direct
+   3404 | Buzzard Wing                       |  35 | 38.46% | 43.11% |  4.65% | Direct
+   1464 | Buzzard Talon                      |   1 | 40.46% | 44.67% |  4.21% | Direct
+  12207 | Giant Egg                          |  45 | 32.63% | 36.04% |  3.40% | Direct
+   5829 | Razor-sharp Beak                   |   1 | 19.87% | 23.12% |  3.25% | Direct
+  11418 | Hollow Wing Bone                   |   1 | 19.67% | 22.10% |  2.42% | Direct
+  11417 | Feathery Wing                      |   1 |  4.77% |  5.66% |  0.89% | Direct
+   5117 | Vibrant Plume                      |   1 |  4.85% |  5.23% |  0.38% | Direct
+   8146 | Wicked Claw                        |  45 |  3.05% |  3.17% |  0.12% | Direct
+   8623 | OOX-17/TN Distress Beacon          |  43 |  0.29% |  0.40% |  0.11% | Direct
+   7910 | Star Ruby                          |  50 |  0.02% |  0.08% |  0.06% | Direct
+   1714 | Necklace of Calisea                |  43 |  0.00% |  0.06% |  0.05% | 24040
+   2802 | Blazing Emblem                     |  43 |  0.01% |  0.06% |  0.05% | 24040
+  13082 | Mountainside Buckler               |  46 |  0.00% |  0.05% |  0.05% | 24044
+  13128 | High Bergg Helm                    |  47 |  0.00% |  0.05% |  0.05% | 24044
+   4090 | Mug O' Hurt                        |  46 |  0.01% |  0.05% |  0.04% | 24044
+   4637 | Steel Lockbox                      |  40 |  0.09% |  0.04% |  0.04% | Direct
+   1715 | Polished Jazeraint Armor           |  44 |  0.00% |  0.04% |  0.04% | 24042
+  13115 | Sheepshear Mantle                  |  45 |  0.00% |  0.04% |  0.04% | 24042
+  13095 | Assault Band                       |  44 |  0.01% |  0.04% |  0.04% | 24042
+   5216 | Umbral Wand                        |  45 |  0.04% |  0.01% |  0.04% | 24041
+   1613 | Spiritchaser Staff                 |  44 |  0.04% |  0.01% |  0.03% | 24041
+   3187 | Sacrificial Kris                   |  44 |  0.04% |  0.01% |  0.03% | 24041
+   3430 | Sniper Rifle                       |  44 |  0.04% |  0.01% |  0.03% | 24041
+   3864 | Citrine                            |  40 |  0.03% |  0.01% |  0.03% | 24041
+   8196 | Ebon Scimitar                      |  43 |  0.04% |  0.01% |  0.03% | 24039
+  14825 | Symbolic Crest                     |  43 |  0.04% |  0.01% |  0.03% | 24039
+   2825 | Bow of Searing Arrows              |  42 |  0.00% |  0.03% |  0.02% | 24080
+  15370 | Wolf Rider's Boots                 |  44 |  0.03% |  0.01% |  0.02% | 24041
+  14261 | Bloodwoven Cloak                   |  43 |  0.03% |  0.01% |  0.02% | 24039
+    868 | Ardent Custodian                   |  43 |  0.01% |  0.03% |  0.02% | 24080
+  14252 | Lunar Coronet                      |  45 |  0.03% |  0.01% |  0.02% | 24041
+  14260 | Bloodwoven Bracers                 |  44 |  0.03% |  0.01% |  0.02% | 24041
+  14549 | Boots of Avoidance                 |  45 |  0.01% |  0.03% |  0.02% | 24081
+  14833 | Tyrant's Gauntlets                 |  44 |  0.03% |  0.01% |  0.02% | 24041
+   3868 | Plans: Frost Tiger Blade           |  40 |  0.00% |  0.02% |  0.02% | Direct
+   4416 | Schematic: Goblin Land Mine        |  39 |  0.00% |  0.02% |  0.02% | Direct
+   7975 | Plans: Heavy Mithril Pants         |  42 |  0.00% |  0.02% |  0.02% | Direct
+   8385 | Pattern: Turtle Scale Gloves       |  41 |  0.00% |  0.02% |  0.02% | Direct
+   8387 | Pattern: Big Voodoo Mask           |  44 |  0.00% |  0.02% |  0.02% | Direct
+   9298 | Recipe: Elixir of Giants           |  49 |  0.00% |  0.02% |  0.02% | Direct
+  10603 | Schematic: Catseye Ultra Goggles   |  44 |  0.00% |  0.02% |  0.02% | Direct
+  11208 | Formula: Enchant Weapon - Demonslay|  46 |  0.00% |  0.02% |  0.02% | Direct
+  11987 | Iridium Circle                     |  43 |  0.03% |  0.01% |  0.02% | 24039
+   1982 | Nightblade                         |  44 |  0.01% |  0.03% |  0.02% | 24081
+  14246 | Darkmist Wizard Hat                |  44 |  0.02% |  0.01% |  0.02% | 24041
+  14436 | Windchaser Coronet                 |  46 |  0.03% |  0.01% |  0.02% | 24043
+  14601 | Warden's Wraps                     |  44 |  0.02% |  0.01% |  0.02% | 24041
+  14768 | Ravager's Armor                    |  44 |  0.02% |  0.01% |  0.02% | 24041
+  15612 | Bonelink Gauntlets                 |  44 |  0.02% |  0.01% |  0.02% | 24041
+   7909 | Aquamarine                         |  45 |  0.06% |  0.07% |  0.01% | Direct
+  14243 | Darkmist Mantle                    |  43 |  0.03% |  0.01% |  0.01% | 24039
+  15251 | Headstriker Sword                  |  43 |  0.03% |  0.01% |  0.01% | 24039
+   7989 | Plans: Mithril Spurs               |  47 |  0.01% |  0.02% |  0.01% | Direct
+  10604 | Schematic: Mithril Heavy-bore Rifle|  44 |  0.01% |  0.02% |  0.01% | Direct
+  11204 | Formula: Enchant Bracer - Greater S|  44 |  0.01% |  0.02% |  0.01% | Direct
+  14258 | Bloodwoven Cord                    |  45 |  0.02% |  0.01% |  0.01% | 24041
+  14262 | Bloodwoven Mitts                   |  45 |  0.02% |  0.01% |  0.01% | 24041
+  15215 | Furious Falchion                   |  45 |  0.02% |  0.01% |  0.01% | 24041
+  15287 | Crusader Bow                       |  45 |  0.02% |  0.01% |  0.01% | 24041
+  15617 | Bonelink Epaulets                  |  45 |  0.02% |  0.01% |  0.01% | 24041
+   3831 | Recipe: Mighty Troll's Blood Potion|  36 |  0.01% |  0.02% |  0.01% | Direct
+   7085 | Pattern: Azure Shoulders           |  38 |  0.01% |  0.02% |  0.01% | Direct
+  10301 | Pattern: White Bandit Mask         |  43 |  0.01% |  0.02% |  0.01% | Direct
+   1640 | Monstrous War Axe                  |  42 |  0.02% |  0.01% |  0.01% | 24039
+  15372 | Wolf Rider's Gloves                |  43 |  0.02% |  0.01% |  0.01% | 24039
+  15377 | Wolf Rider's Wristbands            |  42 |  0.02% |  0.01% |  0.01% | 24039
+  15374 | Wolf Rider's Leggings              |  44 |  0.02% |  0.01% |  0.01% | 24041
+  15607 | Ancient Legguards                  |  44 |  0.02% |  0.01% |  0.01% | 24041
+    866 | Monk's Staff                       |  42 |  0.00% |  0.01% |  0.01% | 24039
+  11998 | Jet Loop                           |  42 |  0.00% |  0.01% |  0.01% | 24039
+  14230 | Embersilk Tunic                    |  42 |  0.00% |  0.01% |  0.01% | 24039
+  14250 | Lunar Slippers                     |  42 |  0.00% |  0.01% |  0.01% | 24039
+  14253 | Lunar Handwraps                    |  43 |  0.00% |  0.01% |  0.01% | 24039
+  14424 | Silksand Legwraps                  |  42 |  0.00% |  0.01% |  0.01% | 24039
+  14435 | Windchaser Cinch                   |  43 |  0.00% |  0.01% |  0.01% | 24039
+  14775 | Ravager's Woolies                  |  43 |  0.00% |  0.01% |  0.01% | 24039
+  15156 | Nocturnal Cap                      |  43 |  0.02% |  0.01% |  0.01% | 24039
+  15161 | Imposing Belt                      |  43 |  0.02% |  0.01% |  0.01% | 24039
+  15610 | Bonelink Bracers                   |  43 |  0.00% |  0.01% |  0.01% | 24039
+  10312 | Pattern: Red Mageweave Gloves      |  45 |  0.01% |  0.02% |  0.01% | Direct
+  15173 | Potent Cape                        |  46 |  0.02% |  0.01% |  0.01% | 24043
+  15270 | Gigantic War Axe                   |  46 |  0.02% |  0.01% |  0.01% | 24043
+  12031 | Lodestone Necklace                 |  44 |  0.01% |  0.01% |  0.01% | 24041
+  14247 | Lunar Mantle                       |  44 |  0.01% |  0.01% |  0.01% | 24041
+  14428 | Windchaser Footpads                |  44 |  0.01% |  0.01% |  0.01% | 24041
+  14431 | Windchaser Handguards              |  44 |  0.01% |  0.01% |  0.01% | 24041
+  14940 | Warbringer's Sabatons              |  43 |  0.01% |  0.01% |  0.01% | 24041
+  14956 | Bloodforged Bindings               |  45 |  0.01% |  0.01% |  0.01% | 24041
+   3208 | Conk Hammer                        |  48 |  0.00% |  0.01% |  0.01% | 24045
+   4088 | Dreadblade                         |  47 |  0.00% |  0.01% |  0.01% | 24043
+   7553 | Band of the Unicorn                |  48 |  0.00% |  0.01% |  0.01% | 24045
+  11999 | Lodestone Hoop                     |  46 |  0.00% |  0.01% |  0.01% | 24043
+  14237 | Darkmist Armor                     |  46 |  0.00% |  0.01% |  0.01% | 24043
+  14254 | Lunar Raiment                      |  47 |  0.00% |  0.01% |  0.01% | 24043
+  14266 | Bloodwoven Pads                    |  47 |  0.00% |  0.01% |  0.01% | 24043
+  14276 | Gaea's Belt                        |  47 |  0.00% |  0.01% |  0.01% | 24043
+  14446 | Venomshroud Belt                   |  48 |  0.00% |  0.01% |  0.01% | 24045
+  14665 | Keeper's Cloak                     |  48 |  0.00% |  0.01% |  0.01% | 24045
+  14783 | Khan's Belt                        |  46 |  0.00% |  0.01% |  0.01% | 24043
+  14786 | Khan's Legguards                   |  47 |  0.00% |  0.01% |  0.01% | 24043
+  14791 | Protector Cape                     |  48 |  0.00% |  0.01% |  0.01% | 24045
+  14840 | Tyrant's Legplates                 |  47 |  0.00% |  0.01% |  0.01% | 24043
+  14843 | Tyrant's Helm                      |  46 |  0.00% |  0.01% |  0.01% | 24043
+  14907 | Brutish Helmet                     |  48 |  0.00% |  0.01% |  0.01% | 24045
+  14914 | Jade Bracers                       |  46 |  0.00% |  0.01% |  0.01% | 24043
+  14939 | Warbringer's Chestguard            |  46 |  0.00% |  0.01% |  0.01% | 24043
+  14947 | Warbringer's Shield                |  46 |  0.00% |  0.01% |  0.01% | 24043
+  15164 | Imposing Vest                      |  47 |  0.00% |  0.01% |  0.01% | 24043
+  15172 | Potent Bands                       |  47 |  0.00% |  0.01% |  0.01% | 24043
+  15235 | Crescent Edge                      |  48 |  0.00% |  0.01% |  0.01% | 24045
+  15609 | Bonelink Armor                     |  47 |  0.00% |  0.01% |  0.01% | 24043
+  15618 | Bonelink Wall Shield               |  47 |  0.00% |  0.01% |  0.01% | 24043
+  15626 | Gryphon Mail Greaves               |  47 |  0.00% |  0.01% |  0.01% | 24043
+  15628 | Gryphon Mail Pauldrons             |  48 |  0.00% |  0.01% |  0.01% | 24045
+   3914 | Journeyman's Backpack              |  45 |  0.02% |  0.03% |  0.01% | 24041
+  15611 | Bonelink Cape                      |  43 |  0.02% |  0.01% |  0.01% | 24039
+  14234 | Embersilk Robes                    |  42 |  0.01% |  0.01% |  0.00% | 24039
+  14242 | Darkmist Pants                     |  43 |  0.01% |  0.01% |  0.00% | 24039
+  14599 | Warden's Footpads                  |  42 |  0.01% |  0.01% |  0.00% | 24039
+  14774 | Ravager's Crown                    |  43 |  0.01% |  0.01% |  0.00% | 24039
+  15375 | Wolf Rider's Shoulder Pads         |  43 |  0.01% |  0.01% |  0.00% | 24039
+  15591 | Steadfast Breastplate              |  43 |  0.01% |  0.01% |  0.00% | 24039
+  15597 | Steadfast Shoulders                |  42 |  0.01% |  0.01% |  0.00% | 24039
+  15605 | Ancient Gauntlets                  |  42 |  0.01% |  0.01% |  0.00% | 24039
+  14244 | Darkmist Wraps                     |  46 |  0.01% |  0.01% |  0.00% | 24043
+  14259 | Bloodwoven Boots                   |  46 |  0.01% |  0.01% |  0.00% | 24043
+  14268 | Gaea's Cuffs                       |  46 |  0.01% |  0.01% |  0.00% | 24043
+  14439 | Venomshroud Armguards              |  47 |  0.01% |  0.01% |  0.00% | 24043
+  14842 | Tyrant's Shield                    |  48 |  0.01% |  0.01% |  0.00% | 24045
+  15262 | Greater Maul                       |  46 |  0.01% |  0.01% |  0.00% | 24043
+  12023 | Tellurium Necklace                 |  45 |  0.00% |  0.01% |  0.00% | 24041
+  14417 | Silksand Tunic                     |  44 |  0.00% |  0.01% |  0.00% | 24041
+  14604 | Warden's Wizard Hat                |  45 |  0.00% |  0.01% |  0.00% | 24041
+  14830 | Symbolic Pauldrons                 |  42 |  0.00% |  0.01% |  0.00% | 24041
+  14834 | Tyrant's Armguards                 |  43 |  0.00% |  0.01% |  0.00% | 24041
+  14838 | Tyrant's Belt                      |  43 |  0.00% |  0.01% |  0.00% | 24041
+  14909 | Brutish Shoulders                  |  45 |  0.00% |  0.01% |  0.00% | 24041
+  15169 | Imposing Shoulders                 |  44 |  0.00% |  0.01% |  0.00% | 24041
+  15599 | Ancient Greaves                    |  44 |  0.00% |  0.01% |  0.00% | 24041
+  15602 | Ancient Crown                      |  45 |  0.00% |  0.01% |  0.00% | 24041
+  15964 | Silksand Star                      |  44 |  0.00% |  0.01% |  0.00% | 24041
+   1608 | Skullcrusher Mace                  |  47 |  0.01% |  0.01% |  0.00% | 24043
+   7552 | Falcon's Hook                      |  44 |  0.01% |  0.01% |  0.00% | 24041
+   8199 | Battlefield Destroyer              |  47 |  0.01% |  0.01% |  0.00% | 24043
+  14269 | Gaea's Slippers                    |  47 |  0.01% |  0.01% |  0.00% | 24043
+  14432 | Windchaser Amice                   |  45 |  0.01% |  0.01% |  0.00% | 24041
+  14433 | Windchaser Woolies                 |  46 |  0.01% |  0.01% |  0.00% | 24043
+  14652 | Scorpashi Sash                     |  45 |  0.01% |  0.01% |  0.00% | 24041
+  14777 | Ravager's Shield                   |  44 |  0.01% |  0.01% |  0.00% | 24041
+  14778 | Khan's Bindings                    |  45 |  0.01% |  0.01% |  0.00% | 24041
+  14821 | Symbolic Breastplate               |  43 |  0.01% |  0.01% |  0.00% | 24041
+  14839 | Tyrant's Greaves                   |  44 |  0.01% |  0.01% |  0.00% | 24041
+  14906 | Brutish Belt                       |  44 |  0.01% |  0.01% |  0.00% | 24041
+  14910 | Brutish Armguards                  |  44 |  0.01% |  0.01% |  0.00% | 24041
+  14944 | Warbringer's Crown                 |  45 |  0.01% |  0.01% |  0.00% | 24041
+  15162 | Imposing Boots                     |  45 |  0.01% |  0.01% |  0.00% | 24041
+  15168 | Imposing Pants                     |  45 |  0.01% |  0.01% |  0.00% | 24041
+  15376 | Wolf Rider's Padded Armor          |  46 |  0.01% |  0.01% |  0.00% | 24043
+  15379 | Rageclaw Boots                     |  48 |  0.01% |  0.01% |  0.00% | 24045
+  15380 | Rageclaw Bracers                   |  46 |  0.01% |  0.01% |  0.00% | 24043
+  15382 | Rageclaw Cloak                     |  45 |  0.01% |  0.01% |  0.00% | 24041
+  15386 | Rageclaw Shoulder Pads             |  48 |  0.01% |  0.01% |  0.00% | 24045
+  15608 | Ancient Pauldrons                  |  44 |  0.01% |  0.01% |  0.00% | 24041
+  15620 | Gryphon Mail Bracelets             |  47 |  0.01% |  0.01% |  0.00% | 24043
+  15624 | Gryphon Cloak                      |  45 |  0.01% |  0.01% |  0.00% | 24041
+   8194 | Goblin Nutcracker                  |  43 |  0.01% |  0.01% |  0.00% | 24039
+  11973 | Hematite Link                      |  43 |  0.01% |  0.01% |  0.00% | 24039
+  14429 | Windchaser Cuffs                   |  43 |  0.01% |  0.01% |  0.00% | 24039
+  14776 | Ravager's Mantle                   |  43 |  0.01% |  0.01% |  0.00% | 24039
+  15165 | Imposing Cape                      |  42 |  0.01% |  0.01% |  0.00% | 24039
+  15592 | Steadfast Buckler                  |  43 |  0.01% |  0.01% |  0.00% | 24039
+   1994 | Ebonclaw Reaver                    |  46 |  0.01% |  0.01% |  0.00% | 24043
+  11974 | Aquamarine Ring                    |  46 |  0.01% |  0.01% |  0.00% | 24043
+  12012 | Marsh Ring                         |  45 |  0.01% |  0.01% |  0.00% | 24041
+  14257 | Lunar Leggings                     |  45 |  0.01% |  0.01% |  0.00% | 24041
+  14263 | Bloodwoven Mask                    |  48 |  0.01% |  0.01% |  0.00% | 24045
+  14272 | Gaea's Handwraps                   |  47 |  0.01% |  0.01% |  0.00% | 24043
+  14273 | Gaea's Amice                       |  48 |  0.01% |  0.01% |  0.00% | 24045
+  14425 | Silksand Wraps                     |  44 |  0.01% |  0.01% |  0.00% | 24041
+  14654 | Scorpashi Wristbands               |  44 |  0.01% |  0.01% |  0.00% | 24041
+  14656 | Scorpashi Cape                     |  44 |  0.01% |  0.01% |  0.00% | 24041
+  14781 | Khan's Cloak                       |  44 |  0.01% |  0.01% |  0.00% | 24041
+  14828 | Symbolic Greaves                   |  42 |  0.01% |  0.01% |  0.00% | 24041
+  14829 | Symbolic Legplates                 |  42 |  0.01% |  0.01% |  0.00% | 24041
+  14831 | Symbolic Crown                     |  43 |  0.01% |  0.01% |  0.00% | 24041
+  14841 | Tyrant's Epaulets                  |  44 |  0.01% |  0.01% |  0.00% | 24041
+  14905 | Brutish Gauntlets                  |  45 |  0.01% |  0.01% |  0.00% | 24041
+  15166 | Imposing Gloves                    |  45 |  0.01% |  0.01% |  0.00% | 24041
+  15378 | Rageclaw Belt                      |  46 |  0.01% |  0.01% |  0.00% | 24043
+  15601 | Ancient Chestpiece                 |  46 |  0.01% |  0.01% |  0.00% | 24043
+  15614 | Bonelink Sabatons                  |  45 |  0.01% |  0.01% |  0.00% | 24041
+--------------
+192 common items found.
+
+ Found in WH only:
+   3395 | Recipe: Limited Invulnerabilit|  50 |  0.01 | WH | --
+   4300 | Pattern: Guardian Leather Brac|  39 |  0.00 | WH | --
+   7453 | Pattern: Swift Boots          |  40 |  0.01 | WH | --
+   7990 | Plans: Heavy Mithril Helm     |  49 |  0.01 | WH | --
+--------------
+4 WH-exclusive items found.
+
+ Found in AC only:
+    117 | Tough Jerky                   |   5 |  0.02 | ACDB | Direct
+    159 | Refreshing Spring Water       |   5 |  0.02 | ACDB | Direct
+    556 | Buzzard Beak                  |   1 |  0.42 | ACDB | Direct
+    727 | Notched Shortsword            |  10 |  0.04 | ACDB | 24074
+    754 | Shortsword of Vengeance       |  47 |  0.05 | ACDB | 24044
+    774 | Malachite                     |   7 |  0.02 | ACDB | Direct
+    818 | Tigerseye                     |  15 |  0.02 | ACDB | Direct
+    867 | Gloves of Holy Might          |  42 |  0.03 | ACDB | 24080
+    869 | Dazzling Longsword            |  41 |  0.03 | ACDB | 24079
+    870 | Fiery War Axe                 |  40 |  0.03 | ACDB | 24079
+    871 | Flurry Axe                    |  47 |  0.03 | ACDB | 24082
+    873 | Staff of Jordan               |  40 |  0.03 | ACDB | 24079
+    940 | Robes of Insight              |  47 |  0.03 | ACDB | 24082
+   1169 | Blackskull Shield             |  46 |  0.03 | ACDB | 24082
+   1204 | The Green Tower               |  41 |  0.03 | ACDB | 24079
+   1364 | Ragged Leather Vest           |   5 |  0.09 | ACDB | 24073
+   1366 | Ragged Leather Pants          |   2 |  0.09 | ACDB | 24073
+   1367 | Ragged Leather Boots          |   3 |  0.09 | ACDB | 24073
+   1368 | Ragged Leather Gloves         |   4 |  0.09 | ACDB | 24073
+   1369 | Ragged Leather Belt           |   5 |  0.09 | ACDB | 24073
+   1370 | Ragged Leather Bracers        |   4 |  0.09 | ACDB | 24073
+   1372 | Ragged Cloak                  |   3 |  0.09 | ACDB | 24073
+   1374 | Frayed Shoes                  |   4 |  0.09 | ACDB | 24073
+   1376 | Frayed Cloak                  |   5 |  0.09 | ACDB | 24073
+   1377 | Frayed Gloves                 |   3 |  0.09 | ACDB | 24073
+   1378 | Frayed Pants                  |   2 |  0.09 | ACDB | 24073
+   1380 | Frayed Robe                   |   4 |  0.09 | ACDB | 24073
+   1411 | Withered Staff                |   8 |  0.09 | ACDB | 24073
+   1412 | Crude Bastard Sword           |   7 |  0.09 | ACDB | 24073
+   1413 | Feeble Sword                  |   8 |  0.09 | ACDB | 24073
+   1414 | Cracked Sledge                |   9 |  0.09 | ACDB | 24073
+   1415 | Carpenter's Mallet            |   9 |  0.09 | ACDB | 24073
+   1416 | Rusty Hatchet                 |   9 |  0.09 | ACDB | 24073
+   1417 | Beaten Battle Axe             |   8 |  0.09 | ACDB | 24073
+   1418 | Worn Leather Belt             |   7 |  0.09 | ACDB | 24073
+   1419 | Worn Leather Boots            |   8 |  0.09 | ACDB | 24073
+   1420 | Worn Leather Bracers          |   9 |  0.09 | ACDB | 24073
+   1421 | Worn Hide Cloak               |  10 |  0.09 | ACDB | 24073
+   1422 | Worn Leather Gloves           |   6 |  0.09 | ACDB | 24073
+   1423 | Worn Leather Pants            |   7 |  0.09 | ACDB | 24073
+   1425 | Worn Leather Vest             |   9 |  0.09 | ACDB | 24073
+   1427 | Patchwork Shoes               |  10 |  0.09 | ACDB | 24073
+   1429 | Patchwork Cloak               |   6 |  0.09 | ACDB | 24073
+   1430 | Patchwork Gloves              |   7 |  0.09 | ACDB | 24073
+   1431 | Patchwork Pants               |   8 |  0.09 | ACDB | 24073
+   1433 | Patchwork Armor               |   7 |  0.09 | ACDB | 24073
+   1447 | Ring of Saviors               |  46 |  0.03 | ACDB | 24082
+   1521 | Lumbering Ogre Axe            |  44 |  0.01 | ACDB | 24041
+   1529 | Jade                          |  35 |  0.01 | ACDB | 24037
+   1624 | Skullsplitter Helm            |  43 |  0.01 | ACDB | 24039
+   1625 | Exquisite Flamberge           |  41 |  0.01 | ACDB | 24037
+   1639 | Grinning Axe                  |  49 |  0.01 | ACDB | 24045
+   1659 | Engineering Gloves            |  40 |  0.01 | ACDB | 24037
+   1664 | Spellforce Rod                |  41 |  0.01 | ACDB | 24037
+   1677 | Drake-scale Vest              |  46 |  0.01 | ACDB | 24043
+   1680 | Headchopper                   |  44 |  0.01 | ACDB | 24041
+   1685 | Troll-hide Bag                |  45 |  0.03 | ACDB | 24041
+   1713 | Ankh of Life                  |  45 |  0.04 | ACDB | 24042
+   1716 | Robe of the Magi              |  40 |  0.06 | ACDB | 24038
+   1718 | Basilisk Hide Pants           |  43 |  0.06 | ACDB | 24040
+   1720 | Tanglewood Staff              |  46 |  0.05 | ACDB | 24044
+   1722 | Thornstone Sledgehammer       |  42 |  0.06 | ACDB | 24040
+   1980 | Underworld Band               |  43 |  0.03 | ACDB | 24080
+   1981 | Icemail Jerkin                |  44 |  0.03 | ACDB | 24081
+   1986 | Gutrender                     |  41 |  0.01 | ACDB | 24037
+   2138 | Sharpened Letter Opener       |   7 |  0.09 | ACDB | 24073
+   2140 | Carving Knife                 |  11 |  0.04 | ACDB | 24074
+   2164 | Gut Ripper                    |  45 |  0.03 | ACDB | 24081
+   2210 | Battered Buckler              |   2 |  0.09 | ACDB | 24073
+   2211 | Bent Large Shield             |   4 |  0.09 | ACDB | 24073
+   2212 | Cracked Buckler               |   6 |  0.09 | ACDB | 24073
+   2213 | Worn Large Shield             |   7 |  0.09 | ACDB | 24073
+   2589 | Linen Cloth                   |   5 |  0.02 | ACDB | Direct
+   2598 | Pattern: Red Linen Robe       |  10 |  0.02 | ACDB | Direct
+   2623 | Holy Diadem                   |  41 |  0.01 | ACDB | 24037
+   2624 | Thinking Cap                  |  42 |  0.01 | ACDB | 24039
+   2635 | Loose Chain Belt              |   8 |  0.09 | ACDB | 24073
+   2642 | Loose Chain Boots             |   9 |  0.09 | ACDB | 24073
+   2643 | Loose Chain Bracers           |  10 |  0.09 | ACDB | 24073
+   2644 | Loose Chain Cloak             |   6 |  0.09 | ACDB | 24073
+   2645 | Loose Chain Gloves            |   7 |  0.09 | ACDB | 24073
+   2646 | Loose Chain Pants             |   8 |  0.09 | ACDB | 24073
+   2648 | Loose Chain Vest              |  10 |  0.09 | ACDB | 24073
+   2649 | Flimsy Chain Belt             |   2 |  0.09 | ACDB | 24073
+   2650 | Flimsy Chain Boots            |   3 |  0.09 | ACDB | 24073
+   2651 | Flimsy Chain Bracers          |   4 |  0.09 | ACDB | 24073
+   2652 | Flimsy Chain Cloak            |   5 |  0.09 | ACDB | 24073
+   2653 | Flimsy Chain Gloves           |   4 |  0.09 | ACDB | 24073
+   2654 | Flimsy Chain Pants            |   2 |  0.09 | ACDB | 24073
+   2656 | Flimsy Chain Vest             |   5 |  0.09 | ACDB | 24073
+   2772 | Iron Ore                      |  30 |  0.02 | ACDB | Direct
+   2773 | Cracked Shortbow              |   8 |  0.09 | ACDB | 24073
+   2774 | Rust-covered Blunderbuss      |   7 |  0.09 | ACDB | 24073
+   2815 | Curve-bladed Ripper           |  45 |  0.04 | ACDB | 24042
+   2838 | Heavy Stone                   |  25 |  0.02 | ACDB | Direct
+   2957 | Journeyman's Vest             |  11 |  0.04 | ACDB | 24074
+   2958 | Journeyman's Pants            |  10 |  0.04 | ACDB | 24074
+   2961 | Burnt Leather Vest            |  11 |  0.04 | ACDB | 24074
+   2962 | Burnt Leather Breeches        |  10 |  0.04 | ACDB | 24074
+   2965 | Warrior's Tunic               |  11 |  0.04 | ACDB | 24074
+   2966 | Warrior's Pants               |  10 |  0.04 | ACDB | 24074
+   3363 | Frayed Belt                   |   3 |  0.09 | ACDB | 24073
+   3365 | Frayed Bracers                |   5 |  0.09 | ACDB | 24073
+   3370 | Patchwork Belt                |   8 |  0.09 | ACDB | 24073
+   3373 | Patchwork Bracers             |   9 |  0.09 | ACDB | 24073
+   3609 | Plans: Copper Chain Vest      |  10 |  0.02 | ACDB | Direct
+   3873 | Plans: Golden Scale Cuirass   |  39 |  0.02 | ACDB | Direct
+   4044 | Aurora Pants                  |  40 |  0.01 | ACDB | 24037
+   4045 | Mistscape Bracers             |  42 |  0.01 | ACDB | 24039
+   4046 | Mistscape Pants               |  45 |  0.01 | ACDB | 24041
+   4047 | Mistscape Boots               |  43 |  0.01 | ACDB | 24039
+   4058 | Glyphed Breastplate           |  41 |  0.01 | ACDB | 24037
+   4060 | Glyphed Leggings              |  40 |  0.01 | ACDB | 24037
+   4061 | Imperial Leather Bracers      |  42 |  0.01 | ACDB | 24039
+   4062 | Imperial Leather Pants        |  45 |  0.01 | ACDB | 24041
+   4063 | Imperial Leather Gloves       |  43 |  0.01 | ACDB | 24039
+   4068 | Chief Brigadier Shield        |  40 |  0.01 | ACDB | 24037
+   4069 | Blackforge Buckler            |  47 |  0.01 | ACDB | 24043
+   4070 | Jouster's Crest               |  41 |  0.01 | ACDB | 24037
+   4079 | Chief Brigadier Leggings      |  40 |  0.01 | ACDB | 24037
+   4080 | Blackforge Cowl               |  45 |  0.01 | ACDB | 24041
+   4082 | Blackforge Breastplate        |  47 |  0.01 | ACDB | 24043
+   4083 | Blackforge Gauntlets          |  44 |  0.01 | ACDB | 24041
+   4084 | Blackforge Leggings           |  46 |  0.01 | ACDB | 24043
+   4087 | Trueshot Bow                  |  41 |  0.01 | ACDB | 24037
+   4089 | Ricochet Blunderbuss          |  48 |  0.01 | ACDB | 24045
+   4091 | Widowmaker                    |  47 |  0.05 | ACDB | 24044
+   4417 | Schematic: Large Seaforium Cha|  40 |  0.02 | ACDB | Direct
+   4561 | Scalping Tomahawk             |  11 |  0.04 | ACDB | 24074
+   4562 | Severing Axe                  |  10 |  0.04 | ACDB | 24074
+   4625 | Firebloom                     |  41 |  0.02 | ACDB | Direct
+   4725 | Chief Brigadier Pauldrons     |  40 |  0.01 | ACDB | 24037
+   4733 | Blackforge Pauldrons          |  46 |  0.01 | ACDB | 24043
+   4734 | Mistscape Mantle              |  43 |  0.01 | ACDB | 24039
+   4735 | Mistscape Cloak               |  41 |  0.01 | ACDB | 24037
+   4736 | Mistscape Sash                |  42 |  0.01 | ACDB | 24039
+   4737 | Imperial Leather Spaulders    |  44 |  0.01 | ACDB | 24041
+   4738 | Imperial Leather Belt         |  42 |  0.01 | ACDB | 24039
+   4775 | Cracked Bill                  |   1 |  0.02 | ACDB | Direct
+   4776 | Ruffled Feather               |   1 |  0.02 | ACDB | Direct
+   5011 | Welken Ring                   |  40 |  0.01 | ACDB | 24037
+   5079 | Cold Basilisk Eye             |  40 |  0.01 | ACDB | 24037
+   5215 | Ember Wand                    |  41 |  0.01 | ACDB | 24037
+   5500 | Iridescent Pearl              |  25 |  0.02 | ACDB | Direct
+   5608 | Living Cowl                   |  40 |  0.01 | ACDB | 24037
+   5974 | Pattern: Guardian Cloak       |  37 |  0.02 | ACDB | Direct
+   6411 | Chief Brigadier Armor         |  41 |  0.01 | ACDB | 24037
+   6415 | Aurora Robe                   |  41 |  0.01 | ACDB | 24037
+   6423 | Blackforge Greaves            |  45 |  0.01 | ACDB | 24041
+   6424 | Blackforge Cape               |  42 |  0.01 | ACDB | 24039
+   6425 | Blackforge Girdle             |  44 |  0.01 | ACDB | 24041
+   6426 | Blackforge Bracers            |  43 |  0.01 | ACDB | 24039
+   6427 | Mistscape Robe                |  46 |  0.01 | ACDB | 24043
+   6428 | Mistscape Gloves              |  43 |  0.01 | ACDB | 24039
+   6429 | Mistscape Wizard Hat          |  44 |  0.01 | ACDB | 24041
+   6430 | Imperial Leather Breastplate  |  46 |  0.01 | ACDB | 24043
+   6431 | Imperial Leather Boots        |  43 |  0.01 | ACDB | 24039
+   6432 | Imperial Cloak                |  41 |  0.01 | ACDB | 24037
+   6433 | Imperial Leather Helm         |  43 |  0.01 | ACDB | 24039
+   6511 | Journeyman's Robe             |  11 |  0.04 | ACDB | 24074
+   7084 | Pattern: Crimson Silk Shoulder|  38 |  0.02 | ACDB | Direct
+   7086 | Pattern: Earthen Silk Belt    |  39 |  0.02 | ACDB | Direct
+   7108 | Infantry Shield               |  11 |  0.04 | ACDB | 24074
+   7112 | Aurora Armor                  |  41 |  0.01 | ACDB | 24037
+   7113 | Mistscape Armor               |  46 |  0.01 | ACDB | 24043
+   7332 | Regal Armor                   |  45 |  0.01 | ACDB | 24041
+   7429 | Twilight Armor                |  40 |  0.01 | ACDB | 24037
+   7430 | Twilight Robe                 |  40 |  0.01 | ACDB | 24037
+   7439 | Sentinel Breastplate          |  40 |  0.01 | ACDB | 24037
+   7468 | Regal Robe                    |  45 |  0.01 | ACDB | 24041
+   7469 | Regal Leggings                |  44 |  0.01 | ACDB | 24041
+   7470 | Regal Wizard Hat              |  42 |  0.01 | ACDB | 24039
+   7471 | Regal Gloves                  |  42 |  0.01 | ACDB | 24039
+   7472 | Regal Boots                   |  41 |  0.01 | ACDB | 24037
+   7473 | Regal Mantle                  |  42 |  0.01 | ACDB | 24039
+   7474 | Regal Cloak                   |  40 |  0.01 | ACDB | 24037
+   7475 | Regal Cuffs                   |  41 |  0.01 | ACDB | 24037
+   7476 | Regal Sash                    |  40 |  0.01 | ACDB | 24037
+   7477 | Ranger Tunic                  |  45 |  0.01 | ACDB | 24041
+   7478 | Ranger Leggings               |  43 |  0.01 | ACDB | 24039
+   7479 | Ranger Helm                   |  42 |  0.01 | ACDB | 24039
+   7480 | Ranger Gloves                 |  41 |  0.01 | ACDB | 24037
+   7481 | Ranger Boots                  |  42 |  0.01 | ACDB | 24039
+   7482 | Ranger Shoulders              |  42 |  0.01 | ACDB | 24039
+   7483 | Ranger Cloak                  |  40 |  0.01 | ACDB | 24037
+   7484 | Ranger Wristguards            |  41 |  0.01 | ACDB | 24037
+   7485 | Ranger Cord                   |  41 |  0.01 | ACDB | 24037
+   7486 | Captain's Breastplate         |  44 |  0.01 | ACDB | 24041
+   7487 | Captain's Leggings            |  43 |  0.01 | ACDB | 24039
+   7488 | Captain's Circlet             |  42 |  0.01 | ACDB | 24039
+   7489 | Captain's Gauntlets           |  41 |  0.01 | ACDB | 24037
+   7490 | Captain's Boots               |  42 |  0.01 | ACDB | 24039
+   7491 | Captain's Shoulderguards      |  43 |  0.01 | ACDB | 24039
+   7493 | Captain's Bracers             |  40 |  0.01 | ACDB | 24037
+   7494 | Captain's Waistguard          |  41 |  0.01 | ACDB | 24037
+   7495 | Captain's Buckler             |  44 |  0.01 | ACDB | 24041
+   7496 | Field Plate Shield            |  43 |  0.01 | ACDB | 24039
+   7519 | Gossamer Pants                |  47 |  0.01 | ACDB | 24043
+   7520 | Gossamer Headpiece            |  47 |  0.01 | ACDB | 24043
+   7521 | Gossamer Gloves               |  46 |  0.01 | ACDB | 24043
+   7522 | Gossamer Boots                |  45 |  0.01 | ACDB | 24041
+   7523 | Gossamer Shoulderpads         |  46 |  0.01 | ACDB | 24043
+   7524 | Gossamer Cape                 |  44 |  0.01 | ACDB | 24041
+   7525 | Gossamer Bracers              |  45 |  0.01 | ACDB | 24041
+   7526 | Gossamer Belt                 |  46 |  0.01 | ACDB | 24043
+   7528 | Cabalist Leggings             |  48 |  0.01 | ACDB | 24045
+   7529 | Cabalist Helm                 |  47 |  0.01 | ACDB | 24043
+   7530 | Cabalist Gloves               |  46 |  0.01 | ACDB | 24043
+   7531 | Cabalist Boots                |  46 |  0.01 | ACDB | 24043
+   7532 | Cabalist Spaulders            |  47 |  0.01 | ACDB | 24043
+   7533 | Cabalist Cloak                |  44 |  0.01 | ACDB | 24041
+   7534 | Cabalist Bracers              |  45 |  0.01 | ACDB | 24041
+   7535 | Cabalist Belt                 |  46 |  0.01 | ACDB | 24043
+   7536 | Champion's Wall Shield        |  48 |  0.01 | ACDB | 24045
+   7537 | Gothic Shield                 |  49 |  0.01 | ACDB | 24045
+   7538 | Champion's Armor              |  48 |  0.01 | ACDB | 24045
+   7539 | Champion's Leggings           |  48 |  0.01 | ACDB | 24045
+   7540 | Champion's Helmet             |  47 |  0.01 | ACDB | 24043
+   7541 | Champion's Gauntlets          |  46 |  0.01 | ACDB | 24043
+   7542 | Champion's Greaves            |  46 |  0.01 | ACDB | 24043
+   7543 | Champion's Pauldrons          |  47 |  0.01 | ACDB | 24043
+   7544 | Champion's Cape               |  44 |  0.01 | ACDB | 24041
+   7545 | Champion's Bracers            |  45 |  0.01 | ACDB | 24041
+   7546 | Champion's Girdle             |  46 |  0.01 | ACDB | 24043
+   7555 | Regal Star                    |  45 |  0.01 | ACDB | 24041
+   7556 | Twilight Orb                  |  40 |  0.01 | ACDB | 24037
+   7610 | Aurora Sphere                 |  41 |  0.01 | ACDB | 24037
+   7611 | Mistscape Stave               |  46 |  0.01 | ACDB | 24043
+   7976 | Plans: Mithril Shield Spike   |  43 |  0.02 | ACDB | Direct
+   7992 | Plans: Blue Glittering Axe    |  44 |  0.02 | ACDB | Direct
+   7993 | Plans: Dazzling Mithril Rapier|  48 |  0.02 | ACDB | Direct
+   8029 | Plans: Wicked Mithril Blade   |  45 |  0.02 | ACDB | Direct
+   8107 | Hibernal Boots                |  47 |  0.01 | ACDB | 24043
+   8108 | Hibernal Bracers              |  47 |  0.01 | ACDB | 24043
+   8109 | Hibernal Cloak                |  46 |  0.01 | ACDB | 24043
+   8110 | Hibernal Gloves               |  47 |  0.01 | ACDB | 24043
+   8111 | Hibernal Mantle               |  48 |  0.01 | ACDB | 24045
+   8112 | Hibernal Pants                |  49 |  0.01 | ACDB | 24045
+   8114 | Hibernal Sash                 |  47 |  0.01 | ACDB | 24043
+   8115 | Hibernal Cowl                 |  48 |  0.01 | ACDB | 24045
+   8116 | Heraldic Belt                 |  47 |  0.01 | ACDB | 24043
+   8117 | Heraldic Boots                |  47 |  0.01 | ACDB | 24043
+   8118 | Heraldic Bracers              |  46 |  0.01 | ACDB | 24043
+   8120 | Heraldic Cloak                |  45 |  0.01 | ACDB | 24041
+   8121 | Heraldic Gloves               |  47 |  0.01 | ACDB | 24043
+   8122 | Heraldic Headpiece            |  48 |  0.01 | ACDB | 24045
+   8123 | Heraldic Leggings             |  49 |  0.01 | ACDB | 24045
+   8124 | Heraldic Spaulders            |  48 |  0.01 | ACDB | 24045
+   8125 | Myrmidon's Bracers            |  48 |  0.01 | ACDB | 24045
+   8127 | Myrmidon's Cape               |  47 |  0.01 | ACDB | 24043
+   8128 | Myrmidon's Gauntlets          |  49 |  0.01 | ACDB | 24045
+   8129 | Myrmidon's Girdle             |  49 |  0.01 | ACDB | 24045
+   8130 | Myrmidon's Greaves            |  49 |  0.01 | ACDB | 24045
+   8135 | Chromite Shield               |  46 |  0.01 | ACDB | 24043
+   8137 | Chromite Bracers              |  43 |  0.01 | ACDB | 24041
+   8138 | Chromite Chestplate           |  47 |  0.01 | ACDB | 24043
+   8139 | Chromite Gauntlets            |  44 |  0.01 | ACDB | 24041
+   8140 | Chromite Girdle               |  43 |  0.01 | ACDB | 24041
+   8141 | Chromite Greaves              |  44 |  0.01 | ACDB | 24041
+   8142 | Chromite Barbute              |  44 |  0.01 | ACDB | 24041
+   8143 | Chromite Legplates            |  46 |  0.01 | ACDB | 24043
+   8144 | Chromite Pauldrons            |  45 |  0.01 | ACDB | 24041
+   8156 | Jouster's Wristguards         |  40 |  0.01 | ACDB | 24041
+   8157 | Jouster's Chestplate          |  42 |  0.01 | ACDB | 24041
+   8158 | Jouster's Gauntlets           |  40 |  0.01 | ACDB | 24041
+   8159 | Jouster's Girdle              |  40 |  0.01 | ACDB | 24041
+   8160 | Jouster's Greaves             |  40 |  0.01 | ACDB | 24041
+   8161 | Jouster's Visor               |  40 |  0.01 | ACDB | 24041
+   8162 | Jouster's Legplates           |  41 |  0.01 | ACDB | 24041
+   8163 | Jouster's Pauldrons           |  41 |  0.01 | ACDB | 24041
+   8178 | Training Sword                |  10 |  0.04 | ACDB | 24074
+   8180 | Hunting Bow                   |  11 |  0.04 | ACDB | 24074
+   8273 | Valorous Wristguards          |  46 |  0.01 | ACDB | 24043
+   8276 | Valorous Gauntlets            |  47 |  0.01 | ACDB | 24043
+   8277 | Valorous Girdle               |  46 |  0.01 | ACDB | 24043
+   8278 | Valorous Greaves              |  47 |  0.01 | ACDB | 24043
+   8279 | Valorous Helm                 |  48 |  0.01 | ACDB | 24045
+   8280 | Valorous Legguards            |  49 |  0.01 | ACDB | 24045
+   8281 | Valorous Pauldrons            |  48 |  0.01 | ACDB | 24045
+   8386 | Pattern: Big Voodoo Robe      |  43 |  0.02 | ACDB | Direct
+   8389 | Pattern: Big Voodoo Pants     |  48 |  0.02 | ACDB | Direct
+   8390 | Pattern: Big Voodoo Cloak     |  48 |  0.02 | ACDB | Direct
+   9285 | Field Plate Vambraces         |  41 |  0.01 | ACDB | 24041
+   9286 | Field Plate Armor             |  44 |  0.01 | ACDB | 24041
+   9287 | Field Plate Gauntlets         |  41 |  0.01 | ACDB | 24041
+   9288 | Field Plate Girdle            |  41 |  0.01 | ACDB | 24041
+   9289 | Field Plate Boots             |  41 |  0.01 | ACDB | 24041
+   9290 | Field Plate Helmet            |  42 |  0.01 | ACDB | 24041
+   9291 | Field Plate Leggings          |  43 |  0.01 | ACDB | 24041
+   9292 | Field Plate Pauldrons         |  42 |  0.01 | ACDB | 24041
+   9293 | Recipe: Magic Resistance Potio|  42 |  0.02 | ACDB | Direct
+   9295 | Recipe: Invisibility Potion   |  47 |  0.02 | ACDB | Direct
+   9359 | Wirt's Third Leg              |  45 |  0.04 | ACDB | 24042
+   9433 | Forgotten Wraps               |  46 |  0.05 | ACDB | 24044
+   9434 | Elemental Raiment             |  41 |  0.06 | ACDB | 24038
+   9874 | Sorcerer Drape                |  43 |  0.01 | ACDB | 24039
+   9876 | Sorcerer Slippers             |  40 |  0.01 | ACDB | 24037
+   9878 | Sorcerer Hat                  |  41 |  0.01 | ACDB | 24037
+   9880 | Sorcerer Gloves               |  40 |  0.01 | ACDB | 24037
+   9881 | Sorcerer Mantle               |  41 |  0.01 | ACDB | 24037
+   9882 | Sorcerer Sphere               |  43 |  0.01 | ACDB | 24039
+   9883 | Sorcerer Pants                |  42 |  0.01 | ACDB | 24039
+   9884 | Sorcerer Robe                 |  43 |  0.01 | ACDB | 24039
+   9885 | Huntsman's Boots              |  40 |  0.01 | ACDB | 24037
+   9887 | Huntsman's Armor              |  43 |  0.01 | ACDB | 24039
+   9889 | Huntsman's Cap                |  40 |  0.01 | ACDB | 24037
+   9892 | Huntsman's Gloves             |  40 |  0.01 | ACDB | 24037
+   9893 | Huntsman's Leggings           |  42 |  0.01 | ACDB | 24039
+   9894 | Huntsman's Shoulders          |  41 |  0.01 | ACDB | 24037
+   9895 | Jazeraint Boots               |  40 |  0.01 | ACDB | 24037
+   9897 | Jazeraint Chestguard          |  42 |  0.01 | ACDB | 24039
+   9899 | Jazeraint Shield              |  42 |  0.01 | ACDB | 24039
+   9900 | Jazeraint Gauntlets           |  40 |  0.01 | ACDB | 24037
+   9901 | Jazeraint Belt                |  40 |  0.01 | ACDB | 24037
+   9902 | Jazeraint Helm                |  41 |  0.01 | ACDB | 24037
+   9903 | Jazeraint Leggings            |  42 |  0.01 | ACDB | 24039
+   9904 | Jazeraint Pauldrons           |  41 |  0.01 | ACDB | 24037
+   9905 | Royal Blouse                  |  48 |  0.01 | ACDB | 24045
+   9906 | Royal Sash                    |  44 |  0.01 | ACDB | 24041
+   9907 | Royal Boots                   |  44 |  0.01 | ACDB | 24041
+   9908 | Royal Cape                    |  43 |  0.01 | ACDB | 24039
+   9909 | Royal Bands                   |  43 |  0.01 | ACDB | 24039
+   9910 | Royal Gloves                  |  44 |  0.01 | ACDB | 24041
+   9911 | Royal Trousers                |  46 |  0.01 | ACDB | 24043
+   9912 | Royal Amice                   |  45 |  0.01 | ACDB | 24041
+   9913 | Royal Gown                    |  48 |  0.01 | ACDB | 24045
+   9914 | Royal Scepter                 |  48 |  0.01 | ACDB | 24045
+   9915 | Royal Headband                |  45 |  0.01 | ACDB | 24041
+   9916 | Tracker's Belt                |  44 |  0.01 | ACDB | 24041
+   9917 | Tracker's Boots               |  44 |  0.01 | ACDB | 24041
+   9918 | Brigade Defender              |  45 |  0.01 | ACDB | 24041
+   9919 | Tracker's Cloak               |  43 |  0.01 | ACDB | 24039
+   9920 | Tracker's Gloves              |  44 |  0.01 | ACDB | 24041
+   9921 | Tracker's Headband            |  45 |  0.01 | ACDB | 24041
+   9922 | Tracker's Leggings            |  46 |  0.01 | ACDB | 24043
+   9923 | Tracker's Shoulderpads        |  45 |  0.01 | ACDB | 24041
+   9924 | Tracker's Tunic               |  48 |  0.01 | ACDB | 24045
+   9925 | Tracker's Wristguards         |  44 |  0.01 | ACDB | 24041
+   9926 | Brigade Boots                 |  43 |  0.01 | ACDB | 24039
+   9927 | Brigade Bracers               |  42 |  0.01 | ACDB | 24039
+   9928 | Brigade Breastplate           |  45 |  0.01 | ACDB | 24041
+   9929 | Brigade Cloak                 |  41 |  0.01 | ACDB | 24037
+   9930 | Brigade Gauntlets             |  43 |  0.01 | ACDB | 24039
+   9931 | Brigade Girdle                |  43 |  0.01 | ACDB | 24039
+   9932 | Brigade Circlet               |  44 |  0.01 | ACDB | 24041
+   9933 | Brigade Leggings              |  45 |  0.01 | ACDB | 24041
+   9934 | Brigade Pauldrons             |  44 |  0.01 | ACDB | 24041
+   9935 | Embossed Plate Shield         |  45 |  0.01 | ACDB | 24041
+   9936 | Abjurer's Boots               |  49 |  0.01 | ACDB | 24045
+   9937 | Abjurer's Bands               |  48 |  0.01 | ACDB | 24045
+   9938 | Abjurer's Cloak               |  48 |  0.01 | ACDB | 24045
+   9939 | Abjurer's Gloves              |  49 |  0.01 | ACDB | 24045
+   9941 | Abjurer's Mantle              |  49 |  0.01 | ACDB | 24045
+   9945 | Abjurer's Sash                |  48 |  0.01 | ACDB | 24045
+   9947 | Chieftain's Belt              |  48 |  0.01 | ACDB | 24045
+   9948 | Chieftain's Boots             |  49 |  0.01 | ACDB | 24045
+   9949 | Chieftain's Bracers           |  48 |  0.01 | ACDB | 24045
+   9951 | Chieftain's Cloak             |  47 |  0.01 | ACDB | 24043
+   9952 | Chieftain's Gloves            |  49 |  0.01 | ACDB | 24045
+   9956 | Warmonger's Bracers           |  46 |  0.01 | ACDB | 24043
+   9959 | Warmonger's Cloak             |  45 |  0.01 | ACDB | 24041
+   9960 | Warmonger's Gauntlets         |  47 |  0.01 | ACDB | 24043
+   9961 | Warmonger's Belt              |  47 |  0.01 | ACDB | 24043
+   9962 | Warmonger's Greaves           |  48 |  0.01 | ACDB | 24045
+   9963 | Warmonger's Circlet           |  48 |  0.01 | ACDB | 24045
+   9964 | Warmonger's Leggings          |  49 |  0.01 | ACDB | 24045
+   9965 | Warmonger's Pauldrons         |  49 |  0.01 | ACDB | 24045
+   9966 | Embossed Plate Armor          |  45 |  0.01 | ACDB | 24041
+   9967 | Embossed Plate Gauntlets      |  43 |  0.01 | ACDB | 24041
+   9968 | Embossed Plate Girdle         |  42 |  0.01 | ACDB | 24041
+   9969 | Embossed Plate Helmet         |  43 |  0.01 | ACDB | 24041
+   9970 | Embossed Plate Leggings       |  44 |  0.01 | ACDB | 24041
+   9971 | Embossed Plate Pauldrons      |  43 |  0.01 | ACDB | 24041
+   9972 | Embossed Plate Bracers        |  42 |  0.01 | ACDB | 24041
+   9973 | Embossed Plate Boots          |  42 |  0.01 | ACDB | 24041
+  10060 | Duskwoven Cape                |  49 |  0.01 | ACDB | 24045
+  10066 | Duskwoven Sash                |  49 |  0.01 | ACDB | 24045
+  10067 | Righteous Waistguard          |  49 |  0.01 | ACDB | 24045
+  10069 | Righteous Bracers             |  49 |  0.01 | ACDB | 24045
+  10071 | Righteous Cloak               |  49 |  0.01 | ACDB | 24045
+  10076 | Lord's Armguards              |  49 |  0.01 | ACDB | 24045
+  10079 | Lord's Cape                   |  48 |  0.01 | ACDB | 24045
+  10086 | Gothic Plate Armor            |  49 |  0.01 | ACDB | 24045
+  10087 | Gothic Plate Gauntlets        |  46 |  0.01 | ACDB | 24043
+  10088 | Gothic Plate Girdle           |  45 |  0.01 | ACDB | 24041
+  10089 | Gothic Sabatons               |  45 |  0.01 | ACDB | 24041
+  10090 | Gothic Plate Helmet           |  46 |  0.01 | ACDB | 24043
+  10091 | Gothic Plate Leggings         |  47 |  0.01 | ACDB | 24043
+  10092 | Gothic Plate Spaulders        |  47 |  0.01 | ACDB | 24043
+  10094 | Gothic Plate Vambraces        |  45 |  0.01 | ACDB | 24041
+  10127 | Revenant Bracers              |  49 |  0.01 | ACDB | 24045
+  10201 | Overlord's Greaves            |  48 |  0.01 | ACDB | 24045
+  10202 | Overlord's Vambraces          |  48 |  0.01 | ACDB | 24045
+  10205 | Overlord's Gauntlets          |  49 |  0.01 | ACDB | 24045
+  10206 | Overlord's Girdle             |  48 |  0.01 | ACDB | 24045
+  10207 | Overlord's Crown              |  49 |  0.01 | ACDB | 24045
+  10300 | Pattern: Red Mageweave Vest   |  43 |  0.02 | ACDB | Direct
+  10302 | Pattern: Red Mageweave Pants  |  43 |  0.02 | ACDB | Direct
+  10320 | Pattern: Red Mageweave Headban|  48 |  0.02 | ACDB | Direct
+  10606 | Schematic: Parachute Cloak    |  45 |  0.02 | ACDB | Direct
+  11167 | Formula: Enchant Boots - Lesse|  38 |  0.02 | ACDB | Direct
+  11202 | Formula: Enchant Shield - Stam|  42 |  0.02 | ACDB | Direct
+  11972 | Carnelian Loop                |  40 |  0.01 | ACDB | 24037
+  11975 | Topaz Ring                    |  49 |  0.01 | ACDB | 24045
+  11988 | Tellurium Band                |  47 |  0.01 | ACDB | 24043
+  12011 | Forest Hoop                   |  41 |  0.01 | ACDB | 24037
+  12013 | Desert Ring                   |  49 |  0.01 | ACDB | 24045
+  12022 | Iridium Chain                 |  41 |  0.01 | ACDB | 24037
+  12032 | Onyx Choker                   |  48 |  0.01 | ACDB | 24045
+  12042 | Marsh Chain                   |  42 |  0.01 | ACDB | 24039
+  12043 | Desert Choker                 |  47 |  0.01 | ACDB | 24043
+  13017 | Hellslayer Battle Axe         |  40 |  0.06 | ACDB | 24038
+  13018 | Executioner's Cleaver         |  48 |  0.05 | ACDB | 24046
+  13021 | Needle Threader               |  47 |  0.05 | ACDB | 24044
+  13026 | Heaven's Light                |  45 |  0.04 | ACDB | 24042
+  13029 | Umbral Crystal                |  43 |  0.06 | ACDB | 24040
+  13034 | Speedsteel Rapier             |  41 |  0.06 | ACDB | 24038
+  13035 | Serpent Slicer                |  49 |  0.05 | ACDB | 24046
+  13038 | Swiftwind                     |  40 |  0.06 | ACDB | 24038
+  13039 | Skull Splitting Crossbow      |  48 |  0.05 | ACDB | 24046
+  13042 | Sword of the Magistrate       |  41 |  0.06 | ACDB | 24038
+  13043 | Blade of the Titans           |  49 |  0.05 | ACDB | 24046
+  13051 | Witchfury                     |  44 |  0.04 | ACDB | 24042
+  13054 | Grim Reaper                   |  40 |  0.06 | ACDB | 24038
+  13055 | Bonechewer                    |  48 |  0.05 | ACDB | 24046
+  13058 | Khoo's Point                  |  44 |  0.04 | ACDB | 24042
+  13064 | Jaina's Firestarter           |  42 |  0.06 | ACDB | 24040
+  13071 | Plated Fist of Hakoo          |  45 |  0.04 | ACDB | 24042
+  13074 | Golem Shard Leggings          |  46 |  0.05 | ACDB | 24044
+  13076 | Giantslayer Bracers           |  48 |  0.05 | ACDB | 24046
+  13088 | Gazlowe's Charm               |  41 |  0.06 | ACDB | 24038
+  13089 | Skibi's Pendant               |  49 |  0.05 | ACDB | 24046
+  13100 | Furen's Boots                 |  44 |  0.04 | ACDB | 24042
+  13102 | Cassandra's Grace             |  47 |  0.05 | ACDB | 24044
+  13109 | Blackflame Cape               |  49 |  0.05 | ACDB | 24046
+  13112 | Winged Helm                   |  48 |  0.05 | ACDB | 24046
+  13117 | Ogron's Sash                  |  42 |  0.06 | ACDB | 24040
+  13132 | Skeletal Shoulders            |  43 |  0.06 | ACDB | 24040
+  13134 | Belt of the Gladiator         |  49 |  0.05 | ACDB | 24046
+  13138 | The Silencer                  |  42 |  0.06 | ACDB | 24040
+  13145 | Enormous Ogre Belt            |  40 |  0.04 | ACDB | 24042
+  13199 | Crushridge Bindings           |  41 |  0.06 | ACDB | 24038
+  14090 | Beaded Britches               |  11 |  0.04 | ACDB | 24074
+  14091 | Beaded Robe                   |  11 |  0.04 | ACDB | 24074
+  14094 | Beaded Wraps                  |  11 |  0.04 | ACDB | 24074
+  14216 | Geomancer's Jerkin            |  41 |  0.01 | ACDB | 24037
+  14220 | Geomancer's Cap               |  40 |  0.01 | ACDB | 24037
+  14225 | Geomancer's Wraps             |  41 |  0.01 | ACDB | 24037
+  14228 | Embersilk Coronet             |  41 |  0.01 | ACDB | 24037
+  14233 | Embersilk Leggings            |  40 |  0.01 | ACDB | 24037
+  14238 | Darkmist Boots                |  41 |  0.01 | ACDB | 24037
+  14240 | Darkmist Bands                |  40 |  0.01 | ACDB | 24037
+  14241 | Darkmist Handguards           |  41 |  0.01 | ACDB | 24037
+  14245 | Darkmist Girdle               |  41 |  0.01 | ACDB | 24037
+  14248 | Lunar Bindings                |  41 |  0.01 | ACDB | 24037
+  14249 | Lunar Vest                    |  47 |  0.01 | ACDB | 24043
+  14251 | Lunar Cloak                   |  40 |  0.01 | ACDB | 24037
+  14255 | Lunar Belt                    |  42 |  0.01 | ACDB | 24037
+  14264 | Bloodwoven Pants              |  48 |  0.01 | ACDB | 24045
+  14270 | Gaea's Cloak                  |  45 |  0.01 | ACDB | 24041
+  14271 | Gaea's Circlet                |  49 |  0.01 | ACDB | 24045
+  14279 | Opulent Bracers               |  49 |  0.01 | ACDB | 24045
+  14280 | Opulent Cape                  |  48 |  0.01 | ACDB | 24045
+  14292 | Arachnidian Cape              |  49 |  0.01 | ACDB | 24045
+  14421 | Silksand Circlet              |  42 |  0.01 | ACDB | 24039
+  14422 | Silksand Gloves               |  40 |  0.01 | ACDB | 24037
+  14423 | Silksand Shoulder Pads        |  40 |  0.01 | ACDB | 24037
+  14427 | Windchaser Wraps              |  49 |  0.01 | ACDB | 24045
+  14430 | Windchaser Cloak              |  42 |  0.01 | ACDB | 24039
+  14434 | Windchaser Robes              |  49 |  0.01 | ACDB | 24045
+  14438 | Venomshroud Boots             |  48 |  0.01 | ACDB | 24045
+  14440 | Venomshroud Cape              |  46 |  0.01 | ACDB | 24043
+  14442 | Venomshroud Mitts             |  49 |  0.01 | ACDB | 24045
+  14443 | Venomshroud Mantle            |  49 |  0.01 | ACDB | 24045
+  14591 | Hawkeye's Helm                |  40 |  0.01 | ACDB | 24037
+  14592 | Hawkeye's Tunic               |  40 |  0.01 | ACDB | 24037
+  14598 | Warden's Waistband            |  40 |  0.01 | ACDB | 24037
+  14600 | Warden's Wristbands           |  40 |  0.01 | ACDB | 24037
+  14603 | Warden's Mantle               |  41 |  0.01 | ACDB | 24037
+  14605 | Warden's Woolies              |  43 |  0.01 | ACDB | 24039
+  14606 | Warden's Gloves               |  41 |  0.01 | ACDB | 24037
+  14653 | Scorpashi Slippers            |  46 |  0.01 | ACDB | 24043
+  14655 | Scorpashi Breastplate         |  49 |  0.01 | ACDB | 24045
+  14657 | Scorpashi Gloves              |  46 |  0.01 | ACDB | 24043
+  14658 | Scorpashi Skullcap            |  49 |  0.01 | ACDB | 24045
+  14659 | Scorpashi Leggings            |  47 |  0.01 | ACDB | 24043
+  14660 | Scorpashi Shoulder Pads       |  47 |  0.01 | ACDB | 24043
+  14661 | Keeper's Cord                 |  49 |  0.01 | ACDB | 24045
+  14663 | Keeper's Bindings             |  48 |  0.01 | ACDB | 24045
+  14769 | Ravager's Sandals             |  42 |  0.01 | ACDB | 24039
+  14770 | Ravager's Armguards           |  40 |  0.01 | ACDB | 24037
+  14772 | Ravager's Handwraps           |  40 |  0.01 | ACDB | 24037
+  14779 | Khan's Chestpiece             |  49 |  0.01 | ACDB | 24045
+  14780 | Khan's Buckler                |  49 |  0.01 | ACDB | 24045
+  14782 | Khan's Gloves                 |  45 |  0.01 | ACDB | 24041
+  14784 | Khan's Greaves                |  46 |  0.01 | ACDB | 24043
+  14785 | Khan's Helmet                 |  48 |  0.01 | ACDB | 24045
+  14787 | Khan's Mantle                 |  47 |  0.01 | ACDB | 24043
+  14788 | Protector Armguards           |  49 |  0.01 | ACDB | 24045
+  14826 | Symbolic Gauntlets            |  41 |  0.01 | ACDB | 24041
+  14827 | Symbolic Belt                 |  41 |  0.01 | ACDB | 24041
+  14832 | Symbolic Vambraces            |  41 |  0.01 | ACDB | 24041
+  14835 | Tyrant's Chestpiece           |  48 |  0.01 | ACDB | 24045
+  14847 | Sunscale Belt                 |  49 |  0.01 | ACDB | 24045
+  14853 | Sunscale Wristguards          |  48 |  0.01 | ACDB | 24045
+  14895 | Saltstone Surcoat             |  41 |  0.01 | ACDB | 24041
+  14896 | Saltstone Sabatons            |  40 |  0.01 | ACDB | 24041
+  14897 | Saltstone Gauntlets           |  40 |  0.01 | ACDB | 24041
+  14898 | Saltstone Girdle              |  40 |  0.01 | ACDB | 24041
+  14899 | Saltstone Helm                |  41 |  0.01 | ACDB | 24041
+  14900 | Saltstone Legplates           |  40 |  0.01 | ACDB | 24041
+  14901 | Saltstone Shoulder Pads       |  41 |  0.01 | ACDB | 24041
+  14902 | Saltstone Shield              |  41 |  0.01 | ACDB | 24037
+  14903 | Saltstone Armsplints          |  40 |  0.01 | ACDB | 24041
+  14908 | Brutish Legguards             |  48 |  0.01 | ACDB | 24045
+  14911 | Brutish Boots                 |  46 |  0.01 | ACDB | 24043
+  14913 | Jade Greaves                  |  49 |  0.01 | ACDB | 24045
+  14917 | Jade Gauntlets                |  48 |  0.01 | ACDB | 24045
+  14918 | Jade Belt                     |  47 |  0.01 | ACDB | 24043
+  14921 | Jade Epaulets                 |  49 |  0.01 | ACDB | 24045
+  14941 | Warbringer's Armsplints       |  42 |  0.01 | ACDB | 24041
+  14942 | Warbringer's Gauntlets        |  42 |  0.01 | ACDB | 24041
+  14943 | Warbringer's Belt             |  42 |  0.01 | ACDB | 24041
+  14945 | Warbringer's Legguards        |  45 |  0.01 | ACDB | 24041
+  14946 | Warbringer's Spaulders        |  43 |  0.01 | ACDB | 24041
+  14949 | Bloodforged Gauntlets         |  47 |  0.01 | ACDB | 24043
+  14950 | Bloodforged Belt              |  46 |  0.01 | ACDB | 24043
+  14951 | Bloodforged Sabatons          |  47 |  0.01 | ACDB | 24043
+  14953 | Bloodforged Legplates         |  49 |  0.01 | ACDB | 24045
+  14955 | Bloodforged Shoulder Pads     |  47 |  0.01 | ACDB | 24043
+  14965 | High Chief's Bindings         |  49 |  0.01 | ACDB | 24045
+  15009 | Primal Leggings               |  11 |  0.04 | ACDB | 24074
+  15010 | Primal Wraps                  |  11 |  0.04 | ACDB | 24074
+  15152 | Nocturnal Shoes               |  41 |  0.01 | ACDB | 24037
+  15157 | Nocturnal Leggings            |  41 |  0.01 | ACDB | 24037
+  15158 | Nocturnal Shoulder Pads       |  40 |  0.01 | ACDB | 24037
+  15159 | Nocturnal Tunic               |  42 |  0.01 | ACDB | 24039
+  15163 | Imposing Bracers              |  43 |  0.01 | ACDB | 24039
+  15167 | Imposing Bandana              |  48 |  0.01 | ACDB | 24045
+  15177 | Potent Shoulders              |  49 |  0.01 | ACDB | 24045
+  15178 | Potent Belt                   |  47 |  0.01 | ACDB | 24043
+  15214 | Nobles Brand                  |  40 |  0.01 | ACDB | 24037
+  15227 | Diamond-Tip Bludgeon          |  49 |  0.01 | ACDB | 24045
+  15234 | Greater Scythe                |  40 |  0.01 | ACDB | 24037
+  15244 | Razor Blade                   |  42 |  0.01 | ACDB | 24039
+  15252 | Tusker Sword                  |  49 |  0.01 | ACDB | 24045
+  15261 | Sequoia Branch                |  40 |  0.01 | ACDB | 24037
+  15359 | Trickster's Vest              |  41 |  0.01 | ACDB | 24037
+  15363 | Trickster's Headdress         |  42 |  0.01 | ACDB | 24039
+  15366 | Trickster's Leggings          |  40 |  0.01 | ACDB | 24037
+  15369 | Wolf Rider's Belt             |  42 |  0.01 | ACDB | 24039
+  15371 | Wolf Rider's Cloak            |  41 |  0.01 | ACDB | 24037
+  15373 | Wolf Rider's Headgear         |  47 |  0.01 | ACDB | 24043
+  15383 | Rageclaw Gloves               |  48 |  0.01 | ACDB | 24045
+  15385 | Rageclaw Leggings             |  49 |  0.01 | ACDB | 24045
+  15392 | Jadefire Cloak                |  49 |  0.01 | ACDB | 24045
+  15477 | Charger's Pants               |  11 |  0.04 | ACDB | 24074
+  15479 | Charger's Armor               |  11 |  0.04 | ACDB | 24074
+  15567 | Marauder's Tunic              |  40 |  0.01 | ACDB | 24037
+  15569 | Marauder's Crest              |  40 |  0.01 | ACDB | 24037
+  15574 | Marauder's Shoulder Pads      |  40 |  0.01 | ACDB | 24037
+  15578 | Sparkleshell Breastplate      |  41 |  0.01 | ACDB | 24037
+  15580 | Sparkleshell Headwrap         |  40 |  0.01 | ACDB | 24037
+  15582 | Sparkleshell Legguards        |  40 |  0.01 | ACDB | 24037
+  15583 | Sparkleshell Shoulder Pads    |  41 |  0.01 | ACDB | 24037
+  15584 | Sparkleshell Shield           |  41 |  0.01 | ACDB | 24037
+  15589 | Steadfast Stompers            |  41 |  0.01 | ACDB | 24037
+  15593 | Steadfast Coronet             |  42 |  0.01 | ACDB | 24039
+  15596 | Steadfast Legplates           |  41 |  0.01 | ACDB | 24037
+  15600 | Ancient Vambraces             |  42 |  0.01 | ACDB | 24039
+  15603 | Ancient Cloak                 |  41 |  0.01 | ACDB | 24037
+  15604 | Ancient Defender              |  46 |  0.01 | ACDB | 24043
+  15606 | Ancient Belt                  |  41 |  0.01 | ACDB | 24037
+  15613 | Bonelink Belt                 |  42 |  0.01 | ACDB | 24039
+  15615 | Bonelink Helmet               |  46 |  0.01 | ACDB | 24043
+  15616 | Bonelink Legplates            |  46 |  0.01 | ACDB | 24043
+  15619 | Gryphon Mail Belt             |  48 |  0.01 | ACDB | 24045
+  15625 | Gryphon Mail Gauntlets        |  47 |  0.01 | ACDB | 24043
+  15629 | Formidable Bracers            |  48 |  0.01 | ACDB | 24045
+  15630 | Formidable Sabatons           |  49 |  0.01 | ACDB | 24045
+  15632 | Formidable Cape               |  46 |  0.01 | ACDB | 24043
+  15635 | Formidable Gauntlets          |  48 |  0.01 | ACDB | 24045
+  15636 | Formidable Belt               |  49 |  0.01 | ACDB | 24045
+  15638 | Formidable Shoulder Pads      |  49 |  0.01 | ACDB | 24045
+  15643 | Ironhide Cloak                |  49 |  0.01 | ACDB | 24045
+  15925 | Journeyman's Stave            |  10 |  0.04 | ACDB | 24074
+  15965 | Windchaser Orb                |  49 |  0.01 | ACDB | 24045
+  15969 | Beaded Orb                    |  10 |  0.04 | ACDB | 24074
+  15978 | Geomancer's Rod               |  41 |  0.01 | ACDB | 24037
+  15979 | Embersilk Stave               |  42 |  0.01 | ACDB | 24039
+  15980 | Darkmist Orb                  |  46 |  0.01 | ACDB | 24043
+  15981 | Lunar Sphere                  |  47 |  0.01 | ACDB | 24043
+--------------
+592 AC-exclusive items found.
+
+RLTs found only in AC (can be deleted): [24037, 24038, 24046, 24073, 24074, 24079, 24082]
+RLTs found in both: [24039, 24040, 24041, 24042, 24043, 24044, 24045, 24080, 24081]

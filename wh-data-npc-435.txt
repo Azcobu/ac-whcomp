@@ -36,12 +36,12 @@
     <script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Person","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/tbc.wowhead.com\/npc=435\/blackrock-champion"},"name":"Blackrock Champion","url":"https:\/\/tbc.wowhead.com\/npc=435\/blackrock-champion","logo":"https:\/\/wow.zamimg.com\/images\/logos\/wh-logo.png","publisher":{"@type":"Organization","name":"Wowhead Logo","logo":{"@type":"ImageObject","url":"https:\/\/wow.zamimg.com\/images\/logos\/amp-valid.png","width":395,"height":60}},"description":"Blackrock Champion is a level 24 - 25 NPC that can be found in Redridge Mountains. This NPC can be found in Redridge Mountains. This NPC is the objective of Blackrock Bounty.","image":{"@type":"ImageObject","url":"https:\/\/wow.zamimg.com\/uploads\/screenshots\/normal\/76951-blackrock-champion.jpg","height":732,"width":564}}</script>
 
 
-<link rel="stylesheet" type="text/css" href="https://wow.zamimg.com/css/classic/basic.css?0448031" onerror="location.href=&quot;/error-static-cdn?reason=css&amp;hash=0448031&amp;at=1624797830&quot;;">
-<link rel="stylesheet" type="text/css" href="https://wow.zamimg.com/css/classic/global.css?0448031">
-<link rel="stylesheet" type="text/css" href="https://wow.zamimg.com/css/themes/classic.css?0448031">
-<link rel="stylesheet" type="text/css" href="https://wow.zamimg.com/css/classic/tools/partials/class-selector.css?0448031">
+<link rel="stylesheet" type="text/css" href="https://wow.zamimg.com/css/classic/basic.css?f5c9027" onerror="location.href=&quot;/error-static-cdn?reason=css&amp;hash=f5c9027&amp;at=1625136457&quot;;">
+<link rel="stylesheet" type="text/css" href="https://wow.zamimg.com/css/classic/global.css?f5c9027">
+<link rel="stylesheet" type="text/css" href="https://wow.zamimg.com/css/themes/classic.css?f5c9027">
+<link rel="stylesheet" type="text/css" href="https://wow.zamimg.com/css/classic/tools/partials/class-selector.css?f5c9027">
 
-<script src="https://wow.zamimg.com/js/preamble.js?0448031" onerror="location.href=&quot;/error-static-cdn?reason=js&amp;hash=0448031&amp;at=1624797830&quot;;"></script>
+<script src="https://wow.zamimg.com/js/preamble.js?f5c9027" onerror="location.href=&quot;/error-static-cdn?reason=js&amp;hash=f5c9027&amp;at=1625136457&quot;;"></script>
     <script>
         g_user = {"id":0,"name":"","roles":0,"permissions":0,"ads":true,"canDeleteComments":false};
     </script>
@@ -50,21 +50,21 @@
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 
-<script type="application/json" id="data.pageMeta">{"dataBuild":{"1":"38556","2":"39069","4":"38363","5":"38988"},"dataEnv":{"env":5,"tree":5,"active":{"ptr":true,"beta":false},"versions":{"1":"9.0.5","2":"9.1.0","3":"9.0.2","4":"1.13.7","5":"2.5.1"}},"event":"pride","hasSidebar":true,"page":"npc","serverTime":"2021-06-27T07:43:50-05:00","scriptVersionQueryString":"0448031","staticUrl":"https:\/\/wow.zamimg.com","theme":"classic","wowhead":true,"staticResizing":{"limit":3000,"throttle":{"start":3000,"percent":0}}}</script>
+<script type="application/json" id="data.pageMeta">{"dataBuild":{"1":"39226","2":"39069","4":"38363","5":"38988"},"dataEnv":{"env":5,"tree":5,"active":{"ptr":true,"beta":false},"versions":{"1":"9.1.0","2":"9.1.0","3":"9.0.2","4":"1.13.7","5":"2.5.1"}},"event":null,"hasSidebar":true,"page":"npc","serverTime":"2021-07-01T05:47:37-05:00","scriptVersionQueryString":"f5c9027","staticUrl":"https:\/\/wow.zamimg.com","theme":"classic","wowhead":true,"staticResizing":{"limit":3000,"throttle":{"start":3000,"percent":0}}}</script>
 <script type="application/json" id="data.notifications.public-key">"BCv9I9cvqAYEi2ddxSOqAbkm8KTL-CNlIGmXk8R7ievkXR7QfBrNtkXQqk73vleylt5MlZQ8jFQ-tEQ_ObVxxMI"</script>
 <script type="application/json" id="data.page.info">{"commentsLocked":false,"entityId":435,"entityType":1}</script>
 
-    <script src="https://wow.zamimg.com/js/basic.js?0448031"></script>
-    <script src="https://wow.zamimg.com/widgets/power.js?0448031"></script>
-    <script src="https://wow.zamimg.com/global-strings/tbc.enus.js?hash=olxeFyCkHtLFtbVZlF-Qkg"></script>
-    <script src="/menus?88bf2896eec4a959dac6a663f0586ff7"></script>
-    <script src="https://wow.zamimg.com/js/locale/live.enus.js?0448031"></script>
-    <script src="https://wow.zamimg.com/js/locale/tbc.enus.js?0448031"></script>
-    <script src="https://wow.zamimg.com/js/locale-post-processing.js?0448031"></script>
-    <script src="/data/global?locale=0&dataEnv=5&dv=19&b=38988&versionsSig=24659979f278cdb04308c7fd4ca9557e"></script>
-    <script src="https://wow.zamimg.com/js/global.js?0448031"></script>
-    <script src="https://wow.zamimg.com/js/WH/Page/Npc.js?0448031"></script>
-    <script src="https://wow.zamimg.com/js/WH/Listview/Templates/comment.js?0448031"></script>
+    <script src="https://wow.zamimg.com/js/basic.js?f5c9027"></script>
+    <script src="https://wow.zamimg.com/widgets/power.js?f5c9027"></script>
+    <script src="https://wow.zamimg.com/global-strings/tbc.enus.js?hash=MTesStCEItL1LIOHSn1NOA"></script>
+    <script src="/menus?739e7b0b2e7bc3c35f36dcb52c1880d8"></script>
+    <script src="https://wow.zamimg.com/js/locale/live.enus.js?f5c9027"></script>
+    <script src="https://wow.zamimg.com/js/locale/tbc.enus.js?f5c9027"></script>
+    <script src="https://wow.zamimg.com/js/locale-post-processing.js?f5c9027"></script>
+    <script src="/data/global?locale=0&dataEnv=5&dv=20&b=38988&versionsSig=99242df8a4422000a3c2738485dc5297"></script>
+    <script src="https://wow.zamimg.com/js/global.js?f5c9027"></script>
+    <script src="https://wow.zamimg.com/js/WH/Page/Npc.js?f5c9027"></script>
+    <script src="https://wow.zamimg.com/js/WH/Listview/Templates/comment.js?f5c9027"></script>
 
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -77,7 +77,7 @@ WH.Track.gaInit();
 <script>WH.WAS.init("NPC", "Database Detail", ["horizontal","skin","vertical","mobileMedrec","mobileFooter","horizontalBTF"]);</script>
 
     <script src="/data/difficulties?locale=0&dataEnv=5&dv=2&b=38988"></script>
-    <script src="/data/item-bonuses?locale=0&dataEnv=5&dv=10&b=38988"></script>
+    <script src="/data/item-bonuses?locale=0&dataEnv=5&dv=11&b=38988"></script>
     <script src="/data/zones?locale=0&dataEnv=5&dv=14&b=38988"></script>
 
 
@@ -119,7 +119,7 @@ WH.Track.gaInit();
         <div class="header-search">
             <form action="/search"><input type="text" name="q" placeholder="Search guides, news, database…" value="" /></form>
         </div>
-        <div class="data-env-links" data-ptr="active"><div class="data-env-links-group"><a class="btn btn-site fa fa-fw fa-square" data-env="live" data-whattach="true" title="View the Live (9.0.5) version of this page" href="https://www.wowhead.com/npc=435/blackrock-champion?fromBurningCrusade">Live</a><a class="btn btn-site fa fa-fw fa-square" data-env="ptr" data-whattach="true" title="View the 9.1.0 PTR version of this page" href="https://ptr.wowhead.com/npc=435/blackrock-champion?fromBurningCrusade">PTR</a></div><div class="data-env-links-group"><a class="btn btn-site fa fa-fw fa-square" data-env="classic" data-whattach="true" title="View the Classic version of this page" href="https://classic.wowhead.com/npc=435/blackrock-champion?fromBurningCrusade">Classic</a><a class="btn btn-site fa fa-fw fa-check current" data-env="tbc" data-whattach="true" title="Currently viewing the Burning Crusade version of this page">TBC</a></div></div>
+        <div class="data-env-links" data-ptr="active"><div class="data-env-links-group"><a class="btn btn-site fa fa-fw fa-square" data-env="live" data-whattach="true" title="View the Live (9.1.0) version of this page" href="https://www.wowhead.com/npc=435/blackrock-champion?fromBurningCrusade">Live</a><a class="btn btn-site fa fa-fw fa-square" data-env="ptr" data-whattach="true" title="View the 9.1.0 PTR version of this page" href="https://ptr.wowhead.com/npc=435/blackrock-champion?fromBurningCrusade">PTR</a></div><div class="data-env-links-group"><a class="btn btn-site fa fa-fw fa-square" data-env="classic" data-whattach="true" title="View the Classic version of this page" href="https://classic.wowhead.com/npc=435/blackrock-champion?fromBurningCrusade">Classic</a><a class="btn btn-site fa fa-fw fa-check current" data-env="tbc" data-whattach="true" title="Currently viewing the Burning Crusade version of this page">TBC</a></div></div>
 <div class="header-theme-switcher">    <a href="javascript:" class="btn btn-site fa fa-fw fa-check current" data-theme="classic">Classic Theme</a>
         <a href="javascript:" class="btn btn-site fa fa-fw fa-square" data-theme="thottbot">Thottbot Theme</a>
     </div>
@@ -158,20 +158,6 @@ WH.Track.gaInit();
         <div class="main-contents" id="main-contents">
             <div id="announcement-0"></div>
 
-<div id="announcement-416"></div>
-<script type="text/javascript">
-    new Announcement({
-        parent: 'announcement-416',
-        id: 416,
-        text: "[div class=announcement-content-image][url=https:\/\/tiltify.com\/@wowhead\/wowheads-2021-pride-fundraiser][img src=\"https:\/\/wow.zamimg.com\/uploads\/screenshots\/normal\/1025803.png?maxHeight=120\" border=0][\/url][\/div]\r\n[div class=announcement-content-title][b][url=https:\/\/www.wowhead.com\/news\/wowhead-pride-pin-and-fundraiser-to-benefit-the-trevor-project-322737]Wowhead's 2021 Pride Fundraiser benefiting The Trevor Project[\/url][\/b][\/div]\r\n[div class=announcement-content-content]We've achieved [b]over $22,000[\/b] in donations! All stretch goals and rewards have been unlocked! [b]Donations of $25 or more[\/b] will earn you up to [b]FOUR[\/b] of these limited edition pins and more![pad]\r\n[cta-button=https:\/\/tiltify.com\/@wowhead\/wowheads-2021-pride-fundraiser border=strong]Donate Here & Claim Your Pin(s)[\/cta-button]",
-        mobiletext: "[div class=announcement-content-image][url=https:\/\/tiltify.com\/@wowhead\/wowheads-2021-pride-fundraiser][img src=\"https:\/\/wow.zamimg.com\/uploads\/screenshots\/normal\/1025803.png?maxHeight=60\" border=0][\/url][\/div]\r\n[div class=announcement-content-content][b][url=https:\/\/tiltify.com\/@wowhead\/wowheads-2021-pride-fundraiser]Wowhead's 2021 Pride Fundraiser benefiting The Trevor Project[\/url][\/b][\/div][pad]",
-        name: "Wowhead Pride 2021 Update",
-        style: "background-image: url(\"https:\/\/wow.zamimg.com\/uploads\/guide\/images\/18722.jpg\");\r\nbackground-repeat: repeat;",
-        'class': "promo",
-        status: 1,
-        mode: 1,
-    });
-</script>
 <script>
     WH.Layout.set({"pageName":"npc","activeTab":0,"breadcrumb":[]});
     WH.Layout.init();
@@ -244,7 +230,7 @@ WH.Track.gaInit();
             vi_appendSticky();
         });
     </script><script type="text/javascript">//<![CDATA[
-var lv_comments0 = [{"commentv2":1,"number":0,"id":2804712,"nreplies":0,"sticky":0,"user":"Thottbot","body":"The Champions are in a cave, so the blob to the left is actually underground.&nbsp; Basically, don't go looking for them where they're shown, go up the road and then in the cave.&nbsp; They're very bunched, you'll need more than one of you.","date":"2006-09-10T00:28:16-05:00","rating":24,"indent":0,"roles":64,"deleted":0,"outofdate":0,"userRating":0,"replies":[],"dataTree":1,"markupDisabledEnvironments":{"2":true,"3":true},"imported":true,"importedAuthor":"Fluff_eei","importedSubject":"The map is a little deceptive"}];
+var lv_comments0 = [{"commentv2":1,"number":0,"id":2804712,"nreplies":0,"sticky":0,"user":"Thottbot","body":"The Champions are in a cave, so the blob to the left is actually underground.&nbsp; Basically, don't go looking for them where they're shown, go up the road and then in the cave.&nbsp; They're very bunched, you'll need more than one of you.","date":"2006-09-10T00:28:16-05:00","rating":24,"indent":0,"roles":64,"deleted":0,"outofdate":0,"userRating":0,"replies":[],"dataTree":1,"markupDisabledEnvironments":{"2":true,"3":false},"imported":true,"importedAuthor":"Fluff_eei","importedSubject":"The map is a little deceptive"}];
 </script>
 
 <noscript><div id="user-comments"><h2 class="heading-size-2">Comments</h2><div class="user-post-"><h3 class="heading-size-3">Comment by <b>Thottbot</b></h3>The Champions are in a cave, so the blob to the left is actually underground.&nbsp; Basically, don't go looking for them where they're shown, go up the road and then in the cave.&nbsp; They're very bunched, you'll need more than one of you.</div>
