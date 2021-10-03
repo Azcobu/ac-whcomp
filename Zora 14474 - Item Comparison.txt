@@ -1,0 +1,321 @@
+ Found in both:
+Item ID | Item Name                  | iLvl| WH Drp | AC Drp |  Diff  | AC RLT
+   6302 | Delicate Insect Wing       |   1 | 20.00% | 27.69% |  7.69% | Direct
+  10211 | Elegant Boots              |  59 |  4.44% |  0.01% |  4.43% | 24033
+  10105 | Wanderer's Armor           |  60 |  3.70% |  0.01% |  3.69% | 24016
+  10230 | Engraved Breastplate       |  60 |  3.70% |  0.01% |  3.69% | 24016
+  10236 | Engraved Leggings          |  59 |  3.70% |  0.01% |  3.69% | 24033
+  10275 | Emerald Breastplate        |  60 |  3.70% |  0.01% |  3.69% | 24016
+  15431 | Peerless Leggings          |  59 |  3.70% |  0.01% |  3.69% | 24033
+  10216 | Elegant Belt               |  58 |  2.96% |  0.01% |  2.95% | 24033
+  10381 | Commander's Girdle         |  59 |  2.96% |  0.01% |  2.95% | 24033
+   6300 | Husk Fragment              |   1 | 13.33% | 10.77% |  2.56% | Direct
+  10159 | Mercurial Cloak            |  59 |  2.22% |  0.01% |  2.21% | 24033
+  10210 | Elegant Mantle             |  60 |  2.22% |  0.01% |  2.21% | 24016
+  10235 | Engraved Helm              |  59 |  2.22% |  0.01% |  2.21% | 24033
+  10104 | Councillor's Tunic         |  59 |  1.48% |  0.01% |  1.47% | 24033
+  10138 | High Councillor's Cloak    |  59 |  1.48% |  0.01% |  1.47% | 24033
+  10279 | Emerald Helm               |  58 |  1.48% |  0.01% |  1.47% | 24033
+  10376 | Commander's Boots          |  60 |  1.48% |  0.01% |  1.47% | 24016
+  10148 | Mighty Cloak               |  58 |  0.74% |  0.01% |  0.73% | 24033
+  10181 | Mystical Armor             |  58 |  0.74% |  0.01% |  0.73% | 24033
+  10182 | Swashbuckler's Breastplate |  58 |  0.74% |  0.01% |  0.73% | 24033
+  10213 | Elegant Bracers            |  58 |  0.74% |  0.01% |  0.73% | 24033
+  10249 | Master's Cloak             |  61 |  0.74% |  0.01% |  0.73% | 24016
+--------------
+22 common items found.
+
+ Found in WH only:
+--------------
+0 WH-exclusive items found.
+
+ Found in AC only:
+   5759 | Thorium Lockbox               |  55 |  1.28 | ACDB | Direct
+   7909 | Aquamarine                    |  45 |  0.19 | ACDB | Direct
+   7910 | Star Ruby                     |  50 |  1.28 | ACDB | Direct
+   8283 | Arcane Armor                  |  61 |  0.01 | ACDB | 24016
+   8288 | Arcane Pads                   |  59 |  0.01 | ACDB | 24033
+   8289 | Arcane Leggings               |  60 |  0.01 | ACDB | 24016
+   8290 | Arcane Robe                   |  61 |  0.01 | ACDB | 24016
+   8292 | Arcane Cover                  |  58 |  0.01 | ACDB | 24033
+   8296 | Traveler's Jerkin             |  61 |  0.01 | ACDB | 24016
+   8299 | Traveler's Helm               |  59 |  0.01 | ACDB | 24033
+   8300 | Traveler's Leggings           |  60 |  0.01 | ACDB | 24016
+   8301 | Traveler's Spaulders          |  59 |  0.01 | ACDB | 24033
+   8302 | Hero's Bracers                |  58 |  0.01 | ACDB | 24033
+   8303 | Hero's Breastplate            |  62 |  0.01 | ACDB | 24018
+   8305 | Hero's Gauntlets              |  59 |  0.01 | ACDB | 24033
+   8306 | Hero's Belt                   |  59 |  0.01 | ACDB | 24033
+   8307 | Hero's Boots                  |  60 |  0.01 | ACDB | 24016
+   8308 | Hero's Band                   |  60 |  0.01 | ACDB | 24016
+   8309 | Hero's Leggings               |  61 |  0.01 | ACDB | 24016
+   8310 | Hero's Pauldrons              |  60 |  0.01 | ACDB | 24016
+   8313 | Hero's Buckler                |  62 |  0.01 | ACDB | 24018
+  10101 | Councillor's Pants            |  58 |  0.01 | ACDB | 24033
+  10102 | Councillor's Robes            |  59 |  0.01 | ACDB | 24033
+  10112 | Wanderer's Leggings           |  58 |  0.01 | ACDB | 24033
+  10118 | Ornate Breastplate            |  58 |  0.01 | ACDB | 24033
+  10136 | High Councillor's Bracers     |  60 |  0.01 | ACDB | 24016
+  10137 | High Councillor's Boots       |  61 |  0.01 | ACDB | 24016
+  10139 | High Councillor's Circlet     |  62 |  0.01 | ACDB | 24018
+  10140 | High Councillor's Gloves      |  61 |  0.01 | ACDB | 24016
+  10141 | High Councillor's Pants       |  63 |  0.01 | ACDB | 24018
+  10142 | High Councillor's Mantle      |  62 |  0.01 | ACDB | 24018
+  10144 | High Councillor's Sash        |  60 |  0.01 | ACDB | 24016
+  10145 | Mighty Girdle                 |  59 |  0.01 | ACDB | 24033
+  10146 | Mighty Boots                  |  61 |  0.01 | ACDB | 24016
+  10147 | Mighty Armsplints             |  60 |  0.01 | ACDB | 24016
+  10149 | Mighty Gauntlets              |  61 |  0.01 | ACDB | 24016
+  10150 | Mighty Helmet                 |  62 |  0.01 | ACDB | 24018
+  10152 | Mighty Leggings               |  63 |  0.01 | ACDB | 24018
+  10153 | Mighty Spaulders              |  62 |  0.01 | ACDB | 24018
+  10154 | Mercurial Girdle              |  61 |  0.01 | ACDB | 24016
+  10155 | Mercurial Greaves             |  61 |  0.01 | ACDB | 24016
+  10156 | Mercurial Bracers             |  60 |  0.01 | ACDB | 24016
+  10160 | Mercurial Circlet             |  62 |  0.01 | ACDB | 24018
+  10161 | Mercurial Gauntlets           |  61 |  0.01 | ACDB | 24016
+  10162 | Mercurial Legguards           |  63 |  0.01 | ACDB | 24018
+  10163 | Mercurial Pauldrons           |  62 |  0.01 | ACDB | 24018
+  10164 | Templar Chestplate            |  58 |  0.01 | ACDB | 24033
+  10178 | Mystical Robe                 |  58 |  0.01 | ACDB | 24033
+  10214 | Elegant Gloves                |  59 |  0.01 | ACDB | 24033
+  10215 | Elegant Robes                 |  62 |  0.01 | ACDB | 24018
+  10217 | Elegant Leggings              |  61 |  0.01 | ACDB | 24016
+  10218 | Elegant Tunic                 |  62 |  0.01 | ACDB | 24018
+  10219 | Elegant Circlet               |  60 |  0.01 | ACDB | 24016
+  10220 | Nightshade Tunic              |  63 |  0.01 | ACDB | 24018
+  10221 | Nightshade Girdle             |  58 |  0.01 | ACDB | 24033
+  10222 | Nightshade Boots              |  59 |  0.01 | ACDB | 24033
+  10223 | Nightshade Armguards          |  58 |  0.01 | ACDB | 24033
+  10225 | Nightshade Gloves             |  59 |  0.01 | ACDB | 24033
+  10226 | Nightshade Helmet             |  61 |  0.01 | ACDB | 24016
+  10227 | Nightshade Leggings           |  62 |  0.01 | ACDB | 24018
+  10228 | Nightshade Spaulders          |  60 |  0.01 | ACDB | 24016
+  10232 | Engraved Gauntlets            |  58 |  0.01 | ACDB | 24033
+  10234 | Engraved Boots                |  58 |  0.01 | ACDB | 24033
+  10237 | Engraved Pauldrons            |  58 |  0.01 | ACDB | 24033
+  10247 | Master's Boots                |  63 |  0.01 | ACDB | 24018
+  10248 | Master's Bracers              |  62 |  0.01 | ACDB | 24018
+  10250 | Master's Hat                  |  63 |  0.01 | ACDB | 24018
+  10251 | Master's Gloves               |  63 |  0.01 | ACDB | 24018
+  10253 | Master's Mantle               |  63 |  0.01 | ACDB | 24018
+  10255 | Master's Belt                 |  62 |  0.01 | ACDB | 24018
+  10256 | Adventurer's Bracers          |  61 |  0.01 | ACDB | 24016
+  10257 | Adventurer's Boots            |  62 |  0.01 | ACDB | 24018
+  10258 | Adventurer's Cape             |  60 |  0.01 | ACDB | 24016
+  10259 | Adventurer's Belt             |  62 |  0.01 | ACDB | 24018
+  10260 | Adventurer's Gloves           |  63 |  0.01 | ACDB | 24018
+  10261 | Adventurer's Bandana          |  63 |  0.01 | ACDB | 24018
+  10263 | Adventurer's Shoulders        |  63 |  0.01 | ACDB | 24018
+  10265 | Masterwork Bracers            |  62 |  0.01 | ACDB | 24018
+  10267 | Masterwork Cape               |  61 |  0.01 | ACDB | 24016
+  10268 | Masterwork Gauntlets          |  63 |  0.01 | ACDB | 24018
+  10269 | Masterwork Girdle             |  62 |  0.01 | ACDB | 24018
+  10270 | Masterwork Boots              |  63 |  0.01 | ACDB | 24018
+  10272 | Masterwork Circlet            |  63 |  0.01 | ACDB | 24018
+  10274 | Masterwork Pauldrons          |  63 |  0.01 | ACDB | 24018
+  10280 | Emerald Legplates             |  59 |  0.01 | ACDB | 24033
+  10281 | Emerald Pauldrons             |  58 |  0.01 | ACDB | 24033
+  10362 | Ornate Shield                 |  58 |  0.01 | ACDB | 24033
+  10363 | Engraved Wall                 |  60 |  0.01 | ACDB | 24016
+  10364 | Templar Shield                |  58 |  0.01 | ACDB | 24033
+  10365 | Emerald Shield                |  59 |  0.01 | ACDB | 24033
+  10366 | Demon Guard                   |  63 |  0.01 | ACDB | 24018
+  10368 | Imbued Plate Armor            |  62 |  0.01 | ACDB | 24018
+  10369 | Imbued Plate Gauntlets        |  58 |  0.01 | ACDB | 24033
+  10371 | Imbued Plate Greaves          |  58 |  0.01 | ACDB | 24033
+  10372 | Imbued Plate Helmet           |  59 |  0.01 | ACDB | 24033
+  10373 | Imbued Plate Leggings         |  61 |  0.01 | ACDB | 24016
+  10374 | Imbued Plate Pauldrons        |  59 |  0.01 | ACDB | 24033
+  10377 | Commander's Vambraces         |  59 |  0.01 | ACDB | 24033
+  10378 | Commander's Armor             |  63 |  0.01 | ACDB | 24018
+  10379 | Commander's Helm              |  61 |  0.01 | ACDB | 24016
+  10380 | Commander's Gauntlets         |  60 |  0.01 | ACDB | 24016
+  10382 | Commander's Leggings          |  62 |  0.01 | ACDB | 24018
+  10383 | Commander's Pauldrons         |  61 |  0.01 | ACDB | 24016
+  10385 | Hyperion Greaves              |  62 |  0.01 | ACDB | 24018
+  10386 | Hyperion Gauntlets            |  62 |  0.01 | ACDB | 24018
+  10387 | Hyperion Girdle               |  61 |  0.01 | ACDB | 24016
+  10388 | Hyperion Helm                 |  63 |  0.01 | ACDB | 24018
+  10390 | Hyperion Pauldrons            |  63 |  0.01 | ACDB | 24018
+  10391 | Hyperion Vambraces            |  60 |  0.01 | ACDB | 24016
+  11978 | Jasper Link                   |  58 |  0.01 | ACDB | 24033
+  11979 | Peridot Circle                |  61 |  0.01 | ACDB | 24016
+  11991 | Quicksilver Ring              |  59 |  0.01 | ACDB | 24033
+  11992 | Vermilion Band                |  63 |  0.01 | ACDB | 24018
+  12004 | Obsidian Band                 |  58 |  0.01 | ACDB | 24033
+  12005 | Granite Ring                  |  62 |  0.01 | ACDB | 24018
+  12016 | Jungle Ring                   |  61 |  0.01 | ACDB | 24016
+  12026 | Quicksilver Pendant           |  59 |  0.01 | ACDB | 24033
+  12027 | Vermilion Necklace            |  63 |  0.01 | ACDB | 24018
+  12036 | Granite Necklace              |  62 |  0.01 | ACDB | 24018
+  12046 | Jungle Necklace               |  60 |  0.01 | ACDB | 24016
+  12057 | Dragonscale Band              |  60 |  0.01 | ACDB | 24016
+  14303 | Bonecaster's Shroud           |  60 |  0.01 | ACDB | 24016
+  14306 | Bonecaster's Vest             |  60 |  0.01 | ACDB | 24016
+  14307 | Bonecaster's Crown            |  59 |  0.01 | ACDB | 24033
+  14308 | Celestial Tunic               |  61 |  0.01 | ACDB | 24016
+  14310 | Celestial Slippers            |  58 |  0.01 | ACDB | 24033
+  14312 | Celestial Crown               |  61 |  0.01 | ACDB | 24016
+  14314 | Celestial Handwraps           |  58 |  0.01 | ACDB | 24033
+  14315 | Celestial Kilt                |  59 |  0.01 | ACDB | 24033
+  14316 | Celestial Pauldrons           |  59 |  0.01 | ACDB | 24033
+  14317 | Celestial Silk Robes          |  61 |  0.01 | ACDB | 24016
+  14318 | Resplendent Tunic             |  63 |  0.01 | ACDB | 24018
+  14319 | Resplendent Boots             |  59 |  0.01 | ACDB | 24033
+  14322 | Resplendent Circlet           |  62 |  0.01 | ACDB | 24018
+  14323 | Resplendent Gauntlets         |  60 |  0.01 | ACDB | 24016
+  14324 | Resplendent Sarong            |  60 |  0.01 | ACDB | 24016
+  14325 | Resplendent Epaulets          |  61 |  0.01 | ACDB | 24016
+  14326 | Resplendent Robes             |  63 |  0.01 | ACDB | 24018
+  14327 | Resplendent Belt              |  58 |  0.01 | ACDB | 24033
+  14329 | Eternal Boots                 |  62 |  0.01 | ACDB | 24018
+  14330 | Eternal Bindings              |  61 |  0.01 | ACDB | 24016
+  14331 | Eternal Cloak                 |  58 |  0.01 | ACDB | 24033
+  14333 | Eternal Gloves                |  63 |  0.01 | ACDB | 24018
+  14334 | Eternal Sarong                |  63 |  0.01 | ACDB | 24018
+  14335 | Eternal Spaulders             |  63 |  0.01 | ACDB | 24018
+  14337 | Eternal Cord                  |  61 |  0.01 | ACDB | 24016
+  14453 | Highborne Robes               |  59 |  0.01 | ACDB | 24033
+  14455 | Highborne Padded Armor        |  59 |  0.01 | ACDB | 24033
+  14457 | Elunarian Cuffs               |  58 |  0.01 | ACDB | 24033
+  14458 | Elunarian Boots               |  60 |  0.01 | ACDB | 24016
+  14460 | Elunarian Diadem              |  63 |  0.01 | ACDB | 24018
+  14461 | Elunarian Handgrips           |  62 |  0.01 | ACDB | 24018
+  14462 | Elunarian Sarong              |  62 |  0.01 | ACDB | 24018
+  14463 | Elunarian Spaulders           |  62 |  0.01 | ACDB | 24018
+  14465 | Elunarian Belt                |  60 |  0.01 | ACDB | 24016
+  14489 | Pattern: Frostweave Pants     |  56 |  0.19 | ACDB | Direct
+  14496 | Pattern: Felcloth Hood        |  58 |  0.19 | ACDB | Direct
+  14508 | Pattern: Felcloth Shoulders   |  62 |  0.19 | ACDB | Direct
+  14670 | Pridelord Armor               |  59 |  0.01 | ACDB | 24033
+  14676 | Pridelord Halo                |  58 |  0.01 | ACDB | 24033
+  14677 | Pridelord Pants               |  58 |  0.01 | ACDB | 24033
+  14681 | Indomitable Boots             |  62 |  0.01 | ACDB | 24018
+  14682 | Indomitable Armguards         |  59 |  0.01 | ACDB | 24033
+  14683 | Indomitable Cloak             |  59 |  0.01 | ACDB | 24033
+  14684 | Indomitable Belt              |  60 |  0.01 | ACDB | 24016
+  14685 | Indomitable Gauntlets         |  62 |  0.01 | ACDB | 24018
+  14686 | Indomitable Headdress         |  63 |  0.01 | ACDB | 24018
+  14687 | Indomitable Leggings          |  62 |  0.01 | ACDB | 24018
+  14688 | Indomitable Epaulets          |  61 |  0.01 | ACDB | 24016
+  14798 | Bloodlust Breastplate         |  59 |  0.01 | ACDB | 24033
+  14799 | Bloodlust Boots               |  58 |  0.01 | ACDB | 24033
+  14800 | Bloodlust Buckler             |  59 |  0.01 | ACDB | 24033
+  14804 | Bloodlust Helm                |  58 |  0.01 | ACDB | 24033
+  14808 | Warstrike Belt                |  59 |  0.01 | ACDB | 24033
+  14809 | Warstrike Sabatons            |  62 |  0.01 | ACDB | 24018
+  14810 | Warstrike Armsplints          |  59 |  0.01 | ACDB | 24033
+  14814 | Warstrike Helmet              |  63 |  0.01 | ACDB | 24018
+  14815 | Warstrike Gauntlets           |  62 |  0.01 | ACDB | 24018
+  14816 | Warstrike Legguards           |  62 |  0.01 | ACDB | 24018
+  14817 | Warstrike Shoulder Pads       |  62 |  0.01 | ACDB | 24018
+  14854 | Vanguard Breastplate          |  59 |  0.01 | ACDB | 24033
+  14858 | Vanguard Headdress            |  58 |  0.01 | ACDB | 24033
+  14862 | Warleader's Breastplate       |  63 |  0.01 | ACDB | 24018
+  14863 | Warleader's Gauntlets         |  60 |  0.01 | ACDB | 24016
+  14864 | Warleader's Belt              |  59 |  0.01 | ACDB | 24033
+  14865 | Warleader's Greaves           |  60 |  0.01 | ACDB | 24016
+  14866 | Warleader's Crown             |  62 |  0.01 | ACDB | 24018
+  14867 | Warleader's Leggings          |  62 |  0.01 | ACDB | 24018
+  14868 | Warleader's Shoulders         |  61 |  0.01 | ACDB | 24016
+  14869 | Warleader's Bracers           |  58 |  0.01 | ACDB | 24033
+  14931 | Heroic Armor                  |  62 |  0.01 | ACDB | 24018
+  14932 | Heroic Greaves                |  58 |  0.01 | ACDB | 24033
+  14933 | Heroic Gauntlets              |  58 |  0.01 | ACDB | 24033
+  14935 | Heroic Skullcap               |  60 |  0.01 | ACDB | 24016
+  14936 | Heroic Legplates              |  61 |  0.01 | ACDB | 24016
+  14937 | Heroic Pauldrons              |  59 |  0.01 | ACDB | 24033
+  14966 | Glorious Breastplate          |  61 |  0.01 | ACDB | 24016
+  14969 | Glorious Headdress            |  59 |  0.01 | ACDB | 24033
+  14970 | Glorious Legplates            |  58 |  0.01 | ACDB | 24033
+  14973 | Glorious Shield               |  60 |  0.01 | ACDB | 24016
+  14976 | Exalted Gauntlets             |  61 |  0.01 | ACDB | 24016
+  14977 | Exalted Girdle                |  60 |  0.01 | ACDB | 24016
+  14978 | Exalted Sabatons              |  63 |  0.01 | ACDB | 24018
+  14980 | Exalted Legplates             |  63 |  0.01 | ACDB | 24018
+  14981 | Exalted Epaulets              |  62 |  0.01 | ACDB | 24018
+  14983 | Exalted Armsplints            |  59 |  0.01 | ACDB | 24033
+  15189 | Grand Boots                   |  60 |  0.01 | ACDB | 24016
+  15192 | Grand Gauntlets               |  60 |  0.01 | ACDB | 24016
+  15193 | Grand Crown                   |  62 |  0.01 | ACDB | 24018
+  15194 | Grand Legguards               |  61 |  0.01 | ACDB | 24016
+  15195 | Grand Breastplate             |  62 |  0.01 | ACDB | 24018
+  15219 | Dimensional Blade             |  59 |  0.01 | ACDB | 24033
+  15220 | Battlefell Sabre              |  62 |  0.01 | ACDB | 24018
+  15238 | Warlord's Axe                 |  58 |  0.01 | ACDB | 24033
+  15239 | Felstone Reaver               |  61 |  0.01 | ACDB | 24016
+  15246 | Demon Blade                   |  62 |  0.01 | ACDB | 24018
+  15256 | Massacre Sword                |  59 |  0.01 | ACDB | 24033
+  15257 | Shin Blade                    |  62 |  0.01 | ACDB | 24018
+  15265 | Painbringer                   |  58 |  0.01 | ACDB | 24033
+  15266 | Fierce Mauler                 |  61 |  0.01 | ACDB | 24016
+  15267 | Brutehammer                   |  63 |  0.01 | ACDB | 24018
+  15272 | Razor Axe                     |  59 |  0.01 | ACDB | 24033
+  15273 | Death Striker                 |  63 |  0.01 | ACDB | 24018
+  15276 | Magus Long Staff              |  58 |  0.01 | ACDB | 24033
+  15278 | Solstice Staff                |  60 |  0.01 | ACDB | 24016
+  15282 | Dragon Finger                 |  60 |  0.01 | ACDB | 24016
+  15288 | Blasthorn Bow                 |  61 |  0.01 | ACDB | 24016
+  15296 | Hawkeye Bow                   |  63 |  0.01 | ACDB | 24018
+  15325 | Sharpshooter Harquebus        |  60 |  0.01 | ACDB | 24016
+  15426 | Peerless Boots                |  58 |  0.01 | ACDB | 24033
+  15429 | Peerless Gloves               |  58 |  0.01 | ACDB | 24033
+  15430 | Peerless Headband             |  60 |  0.01 | ACDB | 24016
+  15432 | Peerless Shoulders            |  58 |  0.01 | ACDB | 24033
+  15433 | Peerless Armor                |  61 |  0.01 | ACDB | 24016
+  15434 | Supreme Sash                  |  61 |  0.01 | ACDB | 24016
+  15435 | Supreme Shoes                 |  63 |  0.01 | ACDB | 24018
+  15436 | Supreme Bracers               |  60 |  0.01 | ACDB | 24016
+  15437 | Supreme Cape                  |  61 |  0.01 | ACDB | 24016
+  15438 | Supreme Gloves                |  63 |  0.01 | ACDB | 24018
+  15440 | Supreme Leggings              |  63 |  0.01 | ACDB | 24018
+  15441 | Supreme Shoulders             |  63 |  0.01 | ACDB | 24018
+  15658 | Impenetrable Sabatons         |  59 |  0.01 | ACDB | 24033
+  15660 | Impenetrable Breastplate      |  61 |  0.01 | ACDB | 24016
+  15664 | Impenetrable Helmet           |  60 |  0.01 | ACDB | 24016
+  15665 | Impenetrable Legguards        |  60 |  0.01 | ACDB | 24016
+  15666 | Impenetrable Pauldrons        |  59 |  0.01 | ACDB | 24033
+  15667 | Impenetrable Wall             |  61 |  0.01 | ACDB | 24016
+  15668 | Magnificent Bracers           |  58 |  0.01 | ACDB | 24033
+  15669 | Magnificent Breastplate       |  62 |  0.01 | ACDB | 24018
+  15670 | Magnificent Helmet            |  61 |  0.01 | ACDB | 24016
+  15672 | Magnificent Gauntlets         |  60 |  0.01 | ACDB | 24016
+  15673 | Magnificent Belt              |  58 |  0.01 | ACDB | 24033
+  15674 | Magnificent Greaves           |  60 |  0.01 | ACDB | 24016
+  15675 | Magnificent Guard             |  62 |  0.01 | ACDB | 24018
+  15676 | Magnificent Leggings          |  61 |  0.01 | ACDB | 24016
+  15677 | Magnificent Shoulders         |  61 |  0.01 | ACDB | 24016
+  15678 | Triumphant Sabatons           |  63 |  0.01 | ACDB | 24018
+  15679 | Triumphant Bracers            |  61 |  0.01 | ACDB | 24016
+  15681 | Triumphant Cloak              |  58 |  0.01 | ACDB | 24033
+  15682 | Triumphant Gauntlets          |  63 |  0.01 | ACDB | 24018
+  15683 | Triumphant Girdle             |  60 |  0.01 | ACDB | 24016
+  15685 | Triumphant Legplates          |  63 |  0.01 | ACDB | 24018
+  15686 | Triumphant Shoulder Pads      |  63 |  0.01 | ACDB | 24018
+  15693 | Grand Shoulders               |  59 |  0.01 | ACDB | 24033
+  15746 | Pattern: Chimeric Leggings    |  56 |  1.28 | ACDB | Direct
+  15887 | Heroic Guard                  |  62 |  0.01 | ACDB | 24018
+  15890 | Vanguard Shield               |  59 |  0.01 | ACDB | 24033
+  15931 | Arcane Star                   |  61 |  0.01 | ACDB | 24016
+  15938 | Mystical Orb                  |  58 |  0.01 | ACDB | 24033
+  15939 | Councillor's Scepter          |  59 |  0.01 | ACDB | 24033
+  15940 | Elegant Scepter               |  62 |  0.01 | ACDB | 24018
+  15943 | Imbued Shield                 |  61 |  0.01 | ACDB | 24016
+  15967 | Highborne Star                |  59 |  0.01 | ACDB | 24033
+  15986 | Bonecaster's Star             |  60 |  0.01 | ACDB | 24016
+  15987 | Astral Orb                    |  61 |  0.01 | ACDB | 24016
+  15988 | Resplendent Orb               |  63 |  0.01 | ACDB | 24018
+  15991 | Warleader's Shield            |  63 |  0.01 | ACDB | 24018
+  18337 | Orphic Bracers                |  59 |  0.01 | ACDB | 24033
+  18339 | Eidolon Cloak                 |  59 |  0.01 | ACDB | 24033
+  18343 | Petrified Band                |  59 |  0.01 | ACDB | 24016
+  18672 | Elemental Ember               |  59 |  0.01 | ACDB | 24033
+  18674 | Hardened Stone Band           |  59 |  0.01 | ACDB | 24033
+  18679 | Frigid Ring                   |  61 |  0.01 | ACDB | 24016
+  20499 | Broken Silithid Chitin        |  55 |  8.98 | ACDB | Direct
+--------------
+284 AC-exclusive items found.
+
+RLTs found only in AC (can be deleted): [24018]
+RLTs found in both: [24016, 24033]

@@ -45,7 +45,7 @@ def open_sql_db(db_user, db_pass):
 
 def get_ac_rlt_items(npc_id, item_qual, db, cursor):
     itemdict = {}
-    query = ('SELECT clt.reference, clt.chance, clt.MaxCount '
+    query = ('SELECT clt.reference, clt.chance '
              'FROM `creature_loot_template` clt '
              'JOIN `creature_template` ct ON ct.lootid = clt.entry '
              f'WHERE ct.entry = {npc_id} AND clt.reference != 0')
@@ -54,7 +54,7 @@ def get_ac_rlt_items(npc_id, item_qual, db, cursor):
     #print(f'RLTs found: {rltlist}')
 
     while rltlist:
-        rlt_id, rlt_chance, rlt_maxcount = rltlist.pop()
+        rlt_id, rlt_chance = rltlist.pop()
         query = ('SELECT it.entry, it.name, it.itemlevel, it.quality, rlt.chance '
                  'FROM `item_template` it '
                  'JOIN `reference_loot_template` rlt ON it.entry = rlt.item '
@@ -66,9 +66,9 @@ def get_ac_rlt_items(npc_id, item_qual, db, cursor):
         if rlt_itemlist: # some RLTS are empty of items and just hold other RLTs
             for item in rlt_itemlist:
                 if item[4]: # checks if a drop chance is given
-                    item_dropchance = (rlt_chance / 100 * item[4] / 100) * 100 * rlt_maxcount
+                    item_dropchance = (rlt_chance / 100 * item[4] / 100) * 100
                 else: # if not, then we're just picking from the list of items at random
-                    item_dropchance = round(rlt_chance / len(rlt_itemlist), 3) * rlt_maxcount
+                    item_dropchance = round(rlt_chance / len(rlt_itemlist), 3)
 
                 if item[0] not in itemdict:
                     itemdict[item[0]] = Item(item[0], item[1], item[2], item_dropchance,
@@ -261,11 +261,12 @@ def output_data(npc_id, results, item_quality=0):
     save_data(savefilename, outstr)
 
 def main():
-    npc_id = 10506
+    npc_id = 4093
+    eter_lock = 5760
 
     # optional, minimum item quality to scan, defaults to 0, where
     # 0 = all items, 1 = white, 2 = green, 3 = blue
-    item_quality = 2
+    item_quality = 0
     results = compare_drops(npc_id, item_quality)
     output_data(npc_id, results, item_quality)
 
