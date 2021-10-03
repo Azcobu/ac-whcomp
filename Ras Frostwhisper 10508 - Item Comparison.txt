@@ -1,0 +1,245 @@
+ Found in both:
+Item ID | Item Name                      | iLvl| WH Drp | AC Drp |  Diff  | AC RLT
+  13626 | Human Head of Ras Frostwhisper |   1 |  5.50% | 100.00% | 94.50% | Direct
+  12843 | Corruptor's Scourgestone       |   1 | 88.05% | 100.00% | 11.95% | Direct
+  14047 | Runecloth                      |  50 |  8.76% | 15.00% |  6.24% | Direct
+  13314 | Alanna's Embrace               |  62 |  0.72% |  4.00% |  3.28% | 35030
+  16689 | Magister's Mantle              |  60 | 18.64% | 15.38% |  3.25% | 35030
+  14503 | Death's Clutch                 |  62 | 14.08% | 15.38% |  1.30% | 35030
+  14340 | Freezing Lich Robes            |  62 | 14.47% | 15.38% |  0.91% | 35030
+  14525 | Boneclenched Gauntlets         |  62 | 14.77% | 15.38% |  0.62% | 35030
+  14522 | Maelstrom Leggings             |  62 | 14.86% | 15.38% |  0.53% | 35030
+  13521 | Recipe: Flask of Supreme Power |  60 |  4.43% |  4.00% |  0.43% | Direct
+  13952 | Iceblade Hacker                |  62 | 15.04% | 15.38% |  0.35% | 35030
+  18694 | Shadowy Mail Greaves           |  62 | 15.67% | 15.38% |  0.28% | 35030
+  14502 | Frostbite Girdle               |  62 | 15.62% | 15.38% |  0.24% | 35030
+  14487 | Bonechill Hammer               |  62 | 15.62% | 15.38% |  0.23% | 35030
+  18696 | Intricately Runed Shield       |  62 | 15.50% | 15.38% |  0.12% | 35030
+  18695 | Spellbound Tome                |  62 | 15.28% | 15.38% |  0.11% | 35030
+  18693 | Shivery Handwraps              |  62 | 15.29% | 15.38% |  0.10% | 35030
+--------------
+17 common items found.
+
+ Found in WH only:
+    944 | Elemental Mage Staff          |  61 |  0.00 | WH | --
+   2243 | Hand of Edward the Odd        |  62 |  0.00 | WH | --
+   3944 | Twill Belt                    |  53 |  0.05 | WH | --
+   3945 | Twill Boots                   |  55 |  0.06 | WH | --
+   3946 | Twill Bracers                 |  54 |  0.08 | WH | --
+   3947 | Twill Cloak                   |  52 |  0.06 | WH | --
+   3948 | Twill Gloves                  |  58 |  0.06 | WH | --
+   3949 | Twill Pants                   |  59 |  0.03 | WH | --
+   3950 | Twill Shoulderpads            |  56 |  0.07 | WH | --
+   3951 | Twill Vest                    |  57 |  0.04 | WH | --
+   3969 | Smooth Leather Belt           |  55 |  0.04 | WH | --
+   3970 | Smooth Leather Boots          |  54 |  0.05 | WH | --
+   3971 | Smooth Leather Bracers        |  59 |  0.07 | WH | --
+   3972 | Smooth Cloak                  |  56 |  0.06 | WH | --
+   3973 | Smooth Leather Gloves         |  58 |  0.07 | WH | --
+   3974 | Smooth Leather Pants          |  53 |  0.03 | WH | --
+   3975 | Smooth Leather Shoulderpads   |  52 |  0.02 | WH | --
+   3976 | Smooth Leather Armor          |  57 |  0.03 | WH | --
+   3987 | Deflecting Tower              |  53 |  0.04 | WH | --
+   3990 | Crested Buckler               |  56 |  0.07 | WH | --
+   3992 | Laminated Scale Belt          |  52 |  0.04 | WH | --
+   3993 | Laminated Scale Boots         |  53 |  0.02 | WH | --
+   3994 | Laminated Scale Bracers       |  58 |  0.07 | WH | --
+   3995 | Laminated Scale Cloak         |  57 |  0.02 | WH | --
+   3996 | Laminated Scale Gloves        |  59 |  0.12 | WH | --
+   3997 | Laminated Scale Pants         |  56 |  0.04 | WH | --
+   3998 | Laminated Scale Shoulderpads  |  55 |  0.04 | WH | --
+   3999 | Laminated Scale Armor         |  54 |  0.06 | WH | --
+   5267 | Scarlet Kris                  |  63 |  0.00 | WH | --
+   5760 | Eternium Lockbox              |  60 |  0.25 | WH | --
+   7909 | Aquamarine                    |  45 |  0.14 | WH | --
+   7910 | Star Ruby                     |  50 |  0.18 | WH | --
+   7972 | Ichor of Undeath              |  45 |  1.50 | WH | --
+   8080 | Light Plate Chestpiece        |  58 |  0.03 | WH | --
+   8081 | Light Plate Belt              |  57 |  0.02 | WH | --
+   8082 | Light Plate Boots             |  52 |  0.02 | WH | --
+   8083 | Light Plate Bracers           |  53 |  0.02 | WH | --
+   8084 | Light Plate Gloves            |  56 |  0.02 | WH | --
+   8085 | Light Plate Pants             |  55 |  0.02 | WH | --
+   8086 | Light Plate Shoulderpads      |  54 |  0.04 | WH | --
+   8283 | Arcane Armor                  |  61 |  0.01 | WH | --
+   8290 | Arcane Robe                   |  61 |  0.03 | WH | --
+   8296 | Traveler's Jerkin             |  61 |  0.02 | WH | --
+   8303 | Hero's Breastplate            |  62 |  0.03 | WH | --
+   8307 | Hero's Boots                  |  60 |  0.00 | WH | --
+   8309 | Hero's Leggings               |  61 |  0.03 | WH | --
+   8313 | Hero's Buckler                |  62 |  0.01 | WH | --
+   8752 | Laminated Scale Circlet       |  54 |  0.04 | WH | --
+   8753 | Smooth Leather Helmet         |  57 |  0.04 | WH | --
+   8754 | Twill Cover                   |  56 |  0.04 | WH | --
+   8755 | Light Plate Helmet            |  55 |  0.03 | WH | --
+   8766 | Morning Glory Dew             |  55 |  0.62 | WH | --
+   8948 | Dried King Bolete             |  55 |  1.22 | WH | --
+   9402 | Earthborn Kilt                |  60 |  0.02 | WH | --
+  10135 | High Councillor's Tunic       |  64 |  0.01 | WH | --
+  10137 | High Councillor's Boots       |  61 |  0.01 | WH | --
+  10139 | High Councillor's Circlet     |  62 |  0.07 | WH | --
+  10140 | High Councillor's Gloves      |  61 |  0.04 | WH | --
+  10141 | High Councillor's Pants       |  63 |  0.02 | WH | --
+  10142 | High Councillor's Mantle      |  62 |  0.05 | WH | --
+  10143 | High Councillor's Robe        |  64 |  0.02 | WH | --
+  10146 | Mighty Boots                  |  61 |  0.02 | WH | --
+  10149 | Mighty Gauntlets              |  61 |  0.02 | WH | --
+  10150 | Mighty Helmet                 |  62 |  0.04 | WH | --
+  10151 | Mighty Tunic                  |  64 |  0.03 | WH | --
+  10152 | Mighty Leggings               |  63 |  0.01 | WH | --
+  10153 | Mighty Spaulders              |  62 |  0.04 | WH | --
+  10154 | Mercurial Girdle              |  61 |  0.00 | WH | --
+  10155 | Mercurial Greaves             |  61 |  0.01 | WH | --
+  10157 | Mercurial Breastplate         |  64 |  0.01 | WH | --
+  10158 | Mercurial Guard               |  64 |  0.01 | WH | --
+  10160 | Mercurial Circlet             |  62 |  0.04 | WH | --
+  10161 | Mercurial Gauntlets           |  61 |  0.02 | WH | --
+  10162 | Mercurial Legguards           |  63 |  0.01 | WH | --
+  10163 | Mercurial Pauldrons           |  62 |  0.03 | WH | --
+  10215 | Elegant Robes                 |  62 |  0.04 | WH | --
+  10217 | Elegant Leggings              |  61 |  0.04 | WH | --
+  10218 | Elegant Tunic                 |  62 |  0.01 | WH | --
+  10220 | Nightshade Tunic              |  63 |  0.00 | WH | --
+  10226 | Nightshade Helmet             |  61 |  0.03 | WH | --
+  10227 | Nightshade Leggings           |  62 |  0.04 | WH | --
+  10246 | Master's Vest                 |  65 |  0.03 | WH | --
+  10247 | Master's Boots                |  63 |  0.03 | WH | --
+  10248 | Master's Bracers              |  62 |  0.07 | WH | --
+  10249 | Master's Cloak                |  61 |  0.03 | WH | --
+  10250 | Master's Hat                  |  63 |  0.01 | WH | --
+  10251 | Master's Gloves               |  63 |  0.04 | WH | --
+  10252 | Master's Leggings             |  64 |  0.04 | WH | --
+  10253 | Master's Mantle               |  63 |  0.03 | WH | --
+  10254 | Master's Robe                 |  65 |  0.02 | WH | --
+  10255 | Master's Belt                 |  62 |  0.05 | WH | --
+  10256 | Adventurer's Bracers          |  61 |  0.02 | WH | --
+  10257 | Adventurer's Boots            |  62 |  0.02 | WH | --
+  10259 | Adventurer's Belt             |  62 |  0.06 | WH | --
+  10260 | Adventurer's Gloves           |  63 |  0.01 | WH | --
+  10261 | Adventurer's Bandana          |  63 |  0.02 | WH | --
+  10262 | Adventurer's Legguards        |  64 |  0.02 | WH | --
+  10263 | Adventurer's Shoulders        |  63 |  0.02 | WH | --
+  10264 | Adventurer's Tunic            |  65 |  0.06 | WH | --
+  10265 | Masterwork Bracers            |  62 |  0.06 | WH | --
+  10266 | Masterwork Breastplate        |  65 |  0.07 | WH | --
+  10267 | Masterwork Cape               |  61 |  0.02 | WH | --
+  10268 | Masterwork Gauntlets          |  63 |  0.00 | WH | --
+  10269 | Masterwork Girdle             |  62 |  0.03 | WH | --
+  10270 | Masterwork Boots              |  63 |  0.01 | WH | --
+  10273 | Masterwork Legplates          |  64 |  0.03 | WH | --
+  10274 | Masterwork Pauldrons          |  63 |  0.02 | WH | --
+  10307 | Scroll of Stamina IV          |  60 |  0.04 | WH | --
+  10308 | Scroll of Intellect IV        |  60 |  0.06 | WH | --
+  10309 | Scroll of Agility IV          |  65 |  0.02 | WH | --
+  10310 | Scroll of Strength IV         |  65 |  0.04 | WH | --
+  10366 | Demon Guard                   |  63 |  0.02 | WH | --
+  10367 | Hyperion Shield               |  65 |  0.00 | WH | --
+  10368 | Imbued Plate Armor            |  62 |  0.04 | WH | --
+  10373 | Imbued Plate Leggings         |  61 |  0.01 | WH | --
+  10378 | Commander's Armor             |  63 |  0.06 | WH | --
+  10379 | Commander's Helm              |  61 |  0.03 | WH | --
+  10382 | Commander's Leggings          |  62 |  0.04 | WH | --
+  10383 | Commander's Pauldrons         |  61 |  0.01 | WH | --
+  10384 | Hyperion Armor                |  65 |  0.04 | WH | --
+  10385 | Hyperion Greaves              |  62 |  0.03 | WH | --
+  10386 | Hyperion Gauntlets            |  62 |  0.04 | WH | --
+  10387 | Hyperion Girdle               |  61 |  0.01 | WH | --
+  10388 | Hyperion Helm                 |  63 |  0.03 | WH | --
+  10389 | Hyperion Legplates            |  64 |  0.04 | WH | --
+  10390 | Hyperion Pauldrons            |  63 |  0.02 | WH | --
+  11979 | Peridot Circle                |  61 |  0.01 | WH | --
+  11980 | Opal Ring                     |  64 |  0.02 | WH | --
+  11992 | Vermilion Band                |  63 |  0.00 | WH | --
+  12005 | Granite Ring                  |  62 |  0.04 | WH | --
+  12016 | Jungle Ring                   |  61 |  0.02 | WH | --
+  12017 | Prismatic Band                |  65 |  0.02 | WH | --
+  12027 | Vermilion Necklace            |  63 |  0.00 | WH | --
+  12036 | Granite Necklace              |  62 |  0.04 | WH | --
+  12048 | Prismatic Pendant             |  65 |  0.01 | WH | --
+  12058 | Demonic Bone Ring             |  64 |  0.01 | WH | --
+  12694 | Plans: Thorium Helm           |  56 |  0.00 | WH | --
+  12697 | Plans: Radiant Boots          |  58 |  0.00 | WH | --
+  12704 | Plans: Thorium Leggings       |  60 |  0.01 | WH | --
+  12713 | Plans: Radiant Leggings       |  61 |  0.05 | WH | --
+  12717 | Plans: Lionheart Helm         |  61 |  0.00 | WH | --
+  12728 | Plans: Invulnerable Mail      |  63 |  0.00 | WH | --
+  12808 | Essence of Undeath            |  55 |  2.86 | WH | --
+  13006 | Mass of McGowan               |  62 |  0.02 | WH | --
+  13015 | Serathil                      |  61 |  0.00 | WH | --
+  13060 | The Needler                   |  60 |  0.01 | WH | --
+  13075 | Direwing Legguards            |  63 |  0.00 | WH | --
+  13116 | Spaulders of the Unseen       |  61 |  0.01 | WH | --
+  13123 | Dreamwalker Armor             |  62 |  0.00 | WH | --
+  13446 | Major Healing Potion          |  55 |  0.32 | WH | --
+  13518 | Recipe: Flask of Petrification|  60 |  0.00 | WH | --
+  13816 | Fine Longsword                |  52 |  0.08 | WH | --
+  13817 | Tapered Greatsword            |  58 |  0.06 | WH | --
+  13818 | Jagged Axe                    |  56 |  0.08 | WH | --
+  13819 | Balanced War Axe              |  59 |  0.10 | WH | --
+  13820 | Clout Mace                    |  54 |  0.10 | WH | --
+  13821 | Bulky Maul                    |  57 |  0.06 | WH | --
+  13822 | Spiked Dagger                 |  53 |  0.07 | WH | --
+  13823 | Stout War Staff               |  51 |  0.08 | WH | --
+  13824 | Recurve Long Bow              |  55 |  0.07 | WH | --
+  13825 | Primed Musket                 |  57 |  0.09 | WH | --
+  14494 | Pattern: Brightcloth Pants    |  58 |  0.00 | WH | --
+  14497 | Pattern: Mooncloth Leggings   |  58 |  0.00 | WH | --
+  14498 | Pattern: Runecloth Headband   |  59 |  0.00 | WH | --
+  14499 | Pattern: Mooncloth Bag        |  60 |  0.00 | WH | --
+  14504 | Pattern: Runecloth Shoulders  |  61 |  0.02 | WH | --
+  14506 | Pattern: Felcloth Robe        |  61 |  0.03 | WH | --
+  14508 | Pattern: Felcloth Shoulders   |  62 |  0.04 | WH | --
+  14555 | Alcor's Sunrazor              |  63 |  0.00 | WH | --
+  15220 | Battlefell Sabre              |  62 |  0.11 | WH | --
+  15221 | Holy War Sword                |  65 |  0.01 | WH | --
+  15239 | Felstone Reaver               |  61 |  0.04 | WH | --
+  15240 | Demon's Claw                  |  64 |  0.01 | WH | --
+  15246 | Demon Blade                   |  62 |  0.06 | WH | --
+  15247 | Bloodstrike Dagger            |  64 |  0.02 | WH | --
+  15257 | Shin Blade                    |  62 |  0.06 | WH | --
+  15258 | Divine Warblade               |  65 |  0.03 | WH | --
+  15266 | Fierce Mauler                 |  61 |  0.05 | WH | --
+  15267 | Brutehammer                   |  63 |  0.02 | WH | --
+  15273 | Death Striker                 |  63 |  0.02 | WH | --
+  15283 | Lunar Wand                    |  64 |  0.03 | WH | --
+  15288 | Blasthorn Bow                 |  61 |  0.02 | WH | --
+  15289 | Archstrike Bow                |  65 |  0.01 | WH | --
+  15296 | Hawkeye Bow                   |  63 |  0.02 | WH | --
+  15746 | Pattern: Chimeric Leggings    |  56 |  0.01 | WH | --
+  15755 | Pattern: Chimeric Vest        |  58 |  0.00 | WH | --
+  15765 | Pattern: Runic Leather Pants  |  60 |  0.03 | WH | --
+  15931 | Arcane Star                   |  61 |  0.01 | WH | --
+  15940 | Elegant Scepter               |  62 |  0.01 | WH | --
+  15941 | High Councillor's Scepter     |  64 |  0.00 | WH | --
+  15942 | Master's Rod                  |  65 |  0.00 | WH | --
+  15943 | Imbued Shield                 |  61 |  0.02 | WH | --
+  16251 | Formula: Enchant Bracer - Supe|  60 |  0.05 | WH | --
+  17414 | Codex: Prayer of Fortitude II |  60 |  0.04 | WH | --
+  17683 | Book: Gift of the Wild II     |  60 |  0.05 | WH | --
+  18600 | Tome of Arcane Brilliance     |  56 |  0.04 | WH | --
+  18697 | Coldstone Slippers            |  55 |  0.00 | WH | --
+  18699 | Icy Tomb Spaulders            |  57 |  0.00 | WH | --
+  18700 | Malefic Bracers               |  58 |  0.00 | WH | --
+  18701 | Innervating Band              |  59 |  0.00 | WH | --
+  19234 | Six of Beasts                 |   1 |  0.02 | WH | --
+  19236 | Eight of Beasts               |   1 |  0.01 | WH | --
+  19262 | Five of Warlords              |   1 |  0.01 | WH | --
+  19264 | Seven of Warlords             |   1 |  0.00 | WH | --
+  19272 | Five of Elementals            |   1 |  0.01 | WH | --
+  19274 | Seven of Elementals           |   1 |  0.00 | WH | --
+  19275 | Eight of Elementals           |   1 |  0.00 | WH | --
+  19281 | Five of Portals               |   1 |  0.00 | WH | --
+  19282 | Six of Portals                |   1 |  0.00 | WH | --
+  19283 | Seven of Portals              |   1 |  0.00 | WH | --
+  20400 | Pumpkin Bag                   |   1 |  0.01 | WH | --
+  22393 | Codex: Prayer of Shadow Protec|  60 |  0.02 | WH | --
+  22891 | Grimoire of Shadow Ward IV    |  60 |  0.02 | WH | --
+--------------
+213 WH-exclusive items found.
+
+ Found in AC only:
+--------------
+0 AC-exclusive items found.
+
+RLTs found only in AC (can be deleted): None.
+RLTs found in both: [35030]
