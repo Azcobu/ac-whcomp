@@ -78,12 +78,12 @@ def get_ac_rlt_items(npc_id, item_qual, db, cursor):
                     #print(f'Dict collision - {item}')
 
         #now find embedded RLTs
-        query = ('SELECT rlt.reference, rlt.chance '
+        query = ('SELECT rlt.reference, rlt.chance, rlt.MaxCount '
                  'FROM `reference_loot_template` rlt '
                  f'WHERE rlt.entry = {rlt_id} AND rlt.reference != 0')
         cursor.execute(query)
         for x in cursor.fetchall():
-            newrlt = (x[0], rlt_chance * x[1] / 100)
+            newrlt = (x[0], rlt_chance * x[1] / 100, x[2])
             rltlist.append(newrlt)
             #print(f'Added RLT {x[0]}')
 
@@ -261,7 +261,7 @@ def output_data(npc_id, results, item_quality=0):
     save_data(savefilename, outstr)
 
 def main():
-    npc_id = 10506
+    npc_id = 118
 
     # optional, minimum item quality to scan, defaults to 0, where
     # 0 = all items, 1 = white, 2 = green, 3 = blue
